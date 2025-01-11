@@ -174,7 +174,7 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    dir = RESULTS_DIR
+    dir = Path("/app/static/data")
     return build_tree(RESULTS_DIR)
 
 # def build_tree(directory):
