@@ -102,7 +102,7 @@ def get_descriptions():
 
     # shuffle with seed
     import random
-    random.seed(10)
+    random.seed(111)
     random.shuffle(human_descriptions)
     
     # get only a part of the human descriptions
@@ -142,7 +142,6 @@ def get_descriptions():
                     'human': human_text,
                     'llm': llm_text
                 })
-    
     return jsonify(paired_descriptions)
 
 

@@ -4,7 +4,7 @@ import axios from 'axios';
 import { TextField, Button, MenuItem, FormControl, InputLabel, Select, Typography, Box, LinearProgress } from '@mui/material';
 
 const Setup = () => {
-    const categories = ["movie", "proposals", "demo"]; // also "paper", "product", 
+    const categories = ["movie", "proposal", "demo"]; // also "paper", "product", 
     const models = ["gpt3_5", "gpt4"];
     const [selectedCategory, setSelectedCategory] = useState(categories[0]);
     const [selectedModel, setSelectedModel] = useState(models[0]);
