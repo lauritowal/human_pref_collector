@@ -1,9 +1,9 @@
 [build]
 builder = "nixpacks"
-buildCommand = "cd ./frontend/app && npm install && npm run build"
+buildCommand = "cd ./frontend/app && npm install && CI=false npm run build"
 
 [deploy]
 startCommand = "gunicorn backend.server:app"
 healthcheckPath = "/"
-healthcheckTimeout = 100
+healthcheckTimeout = 100 
 restartPolicyType = "never"
