@@ -174,22 +174,23 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    return "test"
+    return build_tree("/app/results/backend")
+
+def build_tree(directory):
+    tree = {'name': directory.name, 'children': []}
+    try:
+        for item in directory.iterdir():
+            if item.is_dir():
+                tree['children'].append(build_tree(item))
+            else:
+                tree['children'].append({'name': item.name, 'path': item.relative_to(dir).as_posix()})
+    except OSError:
+        pass
+    return tree
 
 @app.route('/tree')
 def tree():
-    dir = DATA_DIR
-    def build_tree(directory):
-        tree = {'name': directory.name, 'children': []}
-        try:
-            for item in directory.iterdir():
-                if item.is_dir():
-                    tree['children'].append(build_tree(item))
-                else:
-                    tree['children'].append({'name': item.name, 'path': item.relative_to(dir).as_posix()})
-        except OSError:
-            pass
-        return tree
+    dir = RESULTS_DIR
     results_tree = build_tree(dir)
     return jsonify(results_tree)
 
