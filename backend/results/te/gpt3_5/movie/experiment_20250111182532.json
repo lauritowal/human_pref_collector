@@ -1,0 +1,786 @@
+{
+    "timestamp": "20250111182532",
+    "username": "te",
+    "email": "fsdf@fsd.de",
+    "model": "gpt3_5",
+    "category": "movie",
+    "totalLLMChoices": 12,
+    "totalHumanChoices": 13,
+    "userChoices": [
+        {
+            "index": 0,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Chakkikotha Chankaran (1989)\n\nThe movie starts with Pradeep enjoying a cricket match.Raghavan Thampi and his wife Subhadra are looking for brides for their sons Prabhakaran and Pradeep. Prabhakaran is aspiring to become a great mrithangam player, against the wishes of his family, while Pradeep is a college student. Subharda tries to commit suicide in front of Prabhakaran because he refused to marry Shailaja. Then finally Prabhakaran commits to marry Shailaja. After marriage Prabhakaran scolds Shailaja for any mistakes severely. One day on the insistence of his parents Prabhakaran takes Shailaja to watch a movie. On their way they encounter some goons who make fun of Prabhakaran who was too afraid to face them. He tries to ignore them but in the end their abuses turned out to be too much for his wife.Shailaja turned out to be a Karate expert. She fights the goons with her saree tucked in. The goons have no chance in front of Shailaja as her Karate kicks and punches are too good for them. On the same day at night Shailaja has a dream where she sees that her husband is being attacked by the same goons and she has to again fight them. Pradeep falls in love with Roshini, and they get married secretly in a temple. Pradeep and Roshini marry secretly to hide the marriage from his family. Roshini and Shailaja turned out to be old friends. Hence Roshini takes Pradeep to stay in his own house. After which Pradeep tries every possible trick to get out of the house. He asks his brother for help. Prabhakaran devises a plan in which he will try to prove that Roshini is a thief in front of other family members so that they are thrown out of the house. The plan fails and Prabhakaran himself is caught by the police. He is released after the original thief commits that he is the one who stole the jewellery. In the end Roshini is shown as kidnapped by her old lover. Pradeep goes to save her. But both are caught by the police. The entire family reaches the police station to get him released. During this process some goons who are captured by the constable reach there. One of them takes Shailaja captive. Shailaja bashes up the goons with her Karate kicks in a saree. Eventually a bomb blows up the police station but the entire family escapes unhurt."
+                    ],
+                    "filename": "chakkikotha_chankaran-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Chakkikotha Chankaran",
+                    "year": "1989"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1989 Malayalam film \"Chakkikotha Chankaran,\" the story follows the life of Chankaran, a young man who works as a cook in a wealthy household. Despite his humble background, Chankaran is known for his exceptional culinary skills and kind-hearted nature. He is well-liked by the family he works for and is considered a part of their household.\n\nHowever, things take a dramatic turn when a new maid named Chakkikotha is hired by the family. Chakkikotha is a beautiful and ambitious young woman who quickly catches the eye of Chankaran. Despite his feelings for her, Chankaran tries to maintain a professional relationship with Chakkikotha.\n\nAs time passes, Chakkikotha begins to reciprocate Chankaran's feelings, and the two develop a close bond. However, their relationship faces numerous challenges, including societal expectations, class differences, and the disapproval of their employers.\n\nAmidst all the obstacles, Chankaran and Chakkikotha must navigate their feelings for each other while also dealing with external pressures. Their love story is both heartwarming and heartbreaking, as they struggle to find a way to be together despite the odds stacked against them.\n\nThroughout the film, the audience is taken on an emotional rollercoaster as they witness the ups and downs of Chankaran and Chakkikotha's relationship. The film explores themes of love, class divide, and societal norms, shedding light on the complexities of human relationships.\n\nIn the end, Chankaran and Chakkikotha must make difficult decisions about their future together, forcing them to confront their own desires and the expectations of those around them. As the story reaches its climax, the audience is left wondering whether love will triumph in the face of adversity or if circumstances will tear the lovers apart.\n\n\"Chakkikotha Chankaran\" is a timeless tale of love and sacrifice that resonates with audiences of all ages, capturing the essence of human emotions and the power of true love."
+                    ],
+                    "filename": "chakkikotha_chankaran-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 402.0 words or less.\n\n---\n\n**Title:**\n\nChakkikotha Chankaran\n\n**Year:**\n\n1989",
+                    "generation_prompt_uid": "03ff703b541931a4d705a19ae5542878",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Chakkikotha Chankaran"
+                }
+            }
+        },
+        {
+            "index": 1,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Luna de Miel (1959)\n\nBallet dancer Anna Cato  has just given up the ballet to marry Australian farmer Kit Kelly . They are touring Spain in their open top Bentley for their honeymoon before going to live on the sheep station that Kit runs in Australia. An American car races past them at high speed but it soon has to stop to change a burst tyre. The car is driven by the famous Spanish dancer Antonio and his wife Rosita Candelas . They are a fiery couple, always arguing and when Antonio goes down to a stream to wash up after changing the tyre, Rosita drives away without him. Antonio, stranded in the middle of nowhere, starts dancing down the road in his well-known Zapateado. Kit and Anna drive by and offer Antonio a lift. They drive in to the \"Tavern del Toro\", where Antonio is known, and start to eat a wonderful breakfast. Antonio thinks he has seen Anna before but she says that this is her first trip to Spain. One old lady pushes forward her daughter who she wants to dance for Antonio. Lucia  dances the El Macarona flamenco but then Antonio asks the musicians to play El Taranto to really see what she can do. Rosita turns up at the end of the flamenco and another argument ensues, so Kit and Anna slip away. After a delightful meal they retire to their room where Anna does her best to distract Kit from his book on Fertility and Animal Breeding. Next day, after a bit more travelling around, Kit and Anna enter a bar &ndash; only to find Antonio is already there. They are introduced to the \"cocktail set\" and discover who Antonio is. Anna goes to Antonio's studio where they are rehearsing his new dance, Los Amantes de Teruel , as a classical ballet but with a Spanish style. When Anna makes some suggestions to help the pas de deux Antonio realises she is a dancer and at last discovers who she really is. As Anna dances with Antonio neither are aware that Kit has come to the studio and is watching, not very pleased that his wife is dancing again. Kit and Anna travel south to see the painting \"The Burial of the Count of Orgaz\" by El Greco. Kit declares that that is how Antonio's ballet should be staged. They then visit the Mosque at Córdoba and other places. Early the next morning Kit goes off to help a breeder of bulls with his round-up and Anna is taken to the Alhambra at Granada by Antonio. They dance around the palace in a light hearted flirtation and Anna declares that she really has given up the ballet and is willing to settle down with Kit. Antonio isn't so sure. When they go to join Kit there is a mild confrontation between Kit and Antonio. The film is building up to the two men representing Don Diego and Don Pedro, competing for the attentions of Doña Isabel in the story of Les amantes de Teruel which will be the finalé of the film. Kit and Anna go to see a performance of El Amor Brujo . The story is that of a girl whose lover had died but who now haunts her and prevents her from getting on with her life and her new lover. The lead roles are danced by Antonio and Rosita, with a cameo from Léonide Massine as the ghost &ndash; Massine was over sixty years old at the time &ndash; and Lucia as the girl's friend who tries to lure the ghost away. The restored version contains the full ballet, a mixture of classical ballet and flamenco style. The next night, in Teruel, the guide (the voice of [[Michael Powell  explains the legend of the lovers of Teruel to Kit and Anna as they stand on the terrace looking at the statues. But Anna falls ill and develops a fever. In her fevered imagination she hallucinates the story of the Lovers of Teruel as a great ballet, with herself dancing the part of Doña Isabel and Antonio as Don Diego, her lover. Again a mix of classical ballet and Spanish style, with Antonio in Moorish make-up. The restoration contains the full ballet to the music of Manuel de Falla. The final funeral has the echoes of the El Greco painting the couple saw earlier. The next morning Antonio comes to visit Anna, now in hospital with Kit by her side. We learn that Anna and Kit will be off to Australia in a few days and Kit thinks that at last they have seen the last of Antonio. But no, he tells them he is starting a world tour!"
+                    ],
+                    "filename": "luna_de_miel-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Luna de Miel",
+                    "year": "1959"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"Luna de Miel\" set in 1959, we follow the story of a young couple, Maria and Juan, who are deeply in love and decide to embark on their honeymoon to a remote cabin in the mountains. The couple is excited to spend time alone together, away from the hustle and bustle of city life, and to start their new life together as husband and wife.\n\nAs they arrive at the cabin, they are greeted by a friendly old caretaker who shows them around the property and leaves them to enjoy their time together. The cabin is cozy and secluded, surrounded by beautiful landscapes and nature, creating the perfect romantic setting for the newlyweds.\n\nHowever, as the days pass, strange things start happening around the cabin. Maria begins to hear strange noises at night, and Juan notices mysterious shadows moving outside the windows. At first, they brush off these occurrences as figments of their imagination, attributing them to the isolation and unfamiliarity of their surroundings.\n\nBut as the disturbances escalate, they can no longer ignore the feeling of unease that has settled over them. Maria becomes convinced that the cabin is haunted, while Juan tries to rationalize the events, blaming them on the wind or wild animals.\n\nTheir once blissful honeymoon turns into a nightmare as they struggle to understand what is happening around them. Tensions rise between the couple as they grapple with fear and uncertainty, their love for each other tested by the strange occurrences in the cabin.\n\nAs they dig deeper into the history of the cabin, they uncover dark secrets that have been hidden for decades. They learn about a tragic love story that ended in betrayal and death, and they begin to suspect that the spirits of the past are haunting them in the present.\n\nIn a race against time, Maria and Juan must confront the ghosts of the past and find a way to escape the cabin before it's too late. They must rely on their love for each other and their unwavering determination to survive the supernatural forces that threaten to tear them apart.\n\nIn the end, Maria and Juan emerge from the ordeal stronger than ever, their bond deepened by the challenges they faced together. They leave the cabin behind, carrying with them the memories of their harrowing honeymoon and the knowledge that their love can conquer even the darkest of forces."
+                    ],
+                    "filename": "luna_de_miel-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 791.0 words or less.\n\n---\n\n**Title:**\n\nLuna de Miel\n\n**Year:**\n\n1959",
+                    "generation_prompt_uid": "09698174dfa85564bea8e9e8c0c1893d",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Luna de Miel"
+                }
+            }
+        },
+        {
+            "index": 2,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Azhagi (2002)\n\nShanmugam , a veterinary doctor, lives in the city with his wife Valarmati and their two children. In school, Shanmugam was in love with his classmate Dhanalakshmi but fate had forced them to go their separate ways, with Dhanalakshmi  being forced to wed her brother-in-law. One day, Shanmugam spots Dhanalakshmi, who, having lost her husband, now lives a life of poverty on the platforms with her son, Balu. After an unsuccessful attempt to find her a job in a friend's house, he hires her as their servant-maid. However, memories of the past starts to create a tension between Shanmugam and Dhanam, despite their attempts to maintain a distance. One day, Valarmati finds out from Shanmugam's old classmates how they both were in love when they were young and she starts fearing that Shanmugam will leave her and her children for Dhanam. Valarmati becomes so distraught that she even humiliates Dhanam at a party organized by one of their friends. When they return home, Valarmati confronts Shanmugam and an argument ensues. Unfortunately, Dhanam overhears their argument and silently goes to bed. The next morning, Dhanam and Balu are nowhere to be found. When Shanmugam searches the house, he finds a letter written by Dhanam saying that she wants Valarmati and Shanmugam to be happy and that she doesn't want to interfere. Soon, Valarmati realises the truth and wants to bring Dhanam back home and ask her for her forgiveness. Shanmugam searches high and low for them and at last finds Balu in an orphanage. The matron informs them that his mother had left instructions that her son should remain at the orphanage till her return. However, when the matron questions Balu, he replies that he wants to go with Shanmugam and stay in their house and to tell his mother that she is there when she returns. The matron agrees and lets him go. At the beginning of the movie, it is mentioned that Balu has been adopted by Shanmugam but still continues to call him \"Sir\" and never \"Father or \"Dad\". As Parthiban leaves for home from the orphanage, he mentions that he is still searching for the whereabouts of Dhanalakshmi to this day."
+                    ],
+                    "filename": "azhagi-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Azhagi",
+                    "year": "2002"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Azhagi\" is a Tamil film released in 2002 that revolves around the life of a young woman named Sudha. Sudha is a simple and kind-hearted girl who works as a teacher in a local school. Despite facing financial struggles, she remains optimistic and always puts others before herself.\n\nSudha's life takes a turn when she meets a wealthy businessman named Ramesh. Ramesh is immediately drawn to Sudha's innocence and beauty, and he falls in love with her. Despite their differences in social status, Ramesh pursues Sudha relentlessly, trying to convince her to marry him.\n\nAs Sudha and Ramesh's relationship blossoms, they face opposition from Ramesh's family, who disapprove of the match due to Sudha's humble background. Sudha, on the other hand, is torn between her feelings for Ramesh and her sense of duty towards her family. She knows that marrying Ramesh would mean leaving her family behind and entering a world completely different from her own.\n\nThe film explores themes of love, sacrifice, and societal expectations as Sudha grapples with the decision of whether to follow her heart or her sense of duty. Sudha's character is portrayed as a strong and independent woman who stands up for herself and refuses to be swayed by others' opinions.\n\nAs the story unfolds, Sudha faces challenges and obstacles that test her resolve and force her to confront her own desires and beliefs. Ultimately, Sudha must make a choice that will not only impact her own future but also the lives of those around her.\n\n\"Azhagi\" is a heartwarming tale of love and self-discovery that showcases the power of resilience and determination in the face of adversity. The film highlights the importance of staying true to oneself and following one's own path, even if it means going against the expectations of society."
+                    ],
+                    "filename": "azhagi-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 367.0 words or less.\n\n---\n\n**Title:**\n\nAzhagi\n\n**Year:**\n\n2002",
+                    "generation_prompt_uid": "3ff1ae95bab7b9f051e07505e41f04af",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Azhagi"
+                }
+            }
+        },
+        {
+            "index": 3,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Anantana Avantara ()\n\nKashinath is having his own business and running a small office. His secretary is a young lady who wants to marry him but has never expressed her feelings verbally. She tries to seduce him by all possible means so that he will propose her some day. Although he acts as if he is not interested in her, he does have some sexual feelings towards her. Kashinath is a bachelor and has no women in his life, his mother always insist him to get married and he too is trying hard to get a Woman. He even has a crush over his secretary but could not express his feelings due to his introvert character. He meets his future wife Anjali in a road accident where he nurses and drops her home. Anjali stays next to his house and she used to see him from the top of her roof while he is doing some Yogasanas to overcome the sexual weakness. It will be a love at first site for him and the marriage goes in an easy way as both of their parents are happy about their relationship. Now the film takes an interesting turn, the secretary who had crush on Kashinath is jealous and want to ruin his married life. Daily she used to give him a prescribed tablet for his sexual weakness . She decides to flip the tablet so that he will never be happy with his wife eventually leading to divorce. She gets the tablet which vanishes the sexual feeling from any guys from a local doctor after telling him that it is very difficult to control her husband during nights. She hands over the tablet to him before he goes to honeymoon. After entering the hotel room his sexual feeling arouses and he starts loving his wife but as per an old tradition his wife insists that they should take bath, prey to god and then only they can have sex. When his wife enters bathroom, he remembers the tablet and take one without any hesitation which immediately vanishes all his sexual feelings. He escapes that night acting as if he has a severe stomach ache. In the morning they meet one more couple who is staying in the same hotel. The other guy is a sex machine and used to have sex with his wife all the time which makes her think to run away from him. The tablet effect continues for few more days which drives his wife crazy as each and every time Kashinath use to tell some or the other reason and escapes from her. Finally Anjali informs her Grandma M.N Lakshmi Devi about it who prepares a Lehya  and ask her to give it to her husband. On the other side of the story, the wife of the other couple plan to mix a sleeping pill in a juice so that she will be free from her husband desires for at least a day. After consuming the lehya, Kashinath is in top mood and in search of his wife he comes to the hotel lobby where he consumes the juice by mistake which makes him sleep like a log. Anjali's mother feels that even the Lehya has failed to provoke her daughters husband and hence decides to apply for her daughters divorce. As a last attempt Kashinath is sent to a lady psychiatrist Sihikahi Geetha who examines and give him confidence that he is all right and there is nothing wrong with him. In the other side the second couple's wife tries to escape from her husband and sleeps in an open room which turns out to be kashinath and Anjalis room. With full mood kashinath rushes to his room and thinking the lady in his room is his wife he starts making love with her. Upon the entry of Anjali to her room the scene worsens and she decides to divorce now, supported by her mother and granny. He tries to convince her explaining the misinterpretation of the situation and when all the negotiation fails he lifts his wife and rushes to his room and starts making love with her. She accepts him though stiff resistance initially. Hence movie ends with a happy note and he never take any pills again which makes him normal."
+                    ],
+                    "filename": "anantana_avantara-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Anantana Avantara",
+                    "year": ""
+                },
+                "llm": {
+                    "descriptions": [
+                        "2007\n\n**Plot Summary:**\n\n\"Anantana Avantara\" is a 2007 Indian Kannada language film that revolves around the life of a young couple, Raghav and Nandini. The story is set in a picturesque village in South India where the couple resides. Raghav is a hardworking and ambitious man who works as a software engineer in a city nearby, while Nandini is a homemaker who takes care of their household.\n\nThe couple's life takes a dramatic turn when Nandini discovers that she is pregnant. They are overjoyed at the prospect of starting a family and eagerly plan for the arrival of their child. However, their happiness is short-lived when Raghav loses his job due to the recession in the IT industry. The sudden loss of income puts a strain on their finances and creates tension between the couple.\n\nAs Raghav struggles to find a new job, Nandini takes on odd jobs to make ends meet. Despite their efforts, they find it increasingly difficult to cope with the mounting bills and debts. The stress of their financial troubles starts to take a toll on their relationship, leading to frequent arguments and misunderstandings.\n\nAmidst all the chaos, Nandini goes into labor earlier than expected. Raghav rushes her to the hospital, where she gives birth to a premature baby. The baby's fragile health adds to their worries, as they struggle to afford the medical expenses required for the baby's treatment.\n\nJust when things seem to be at their lowest point, Raghav receives a job offer from a company in a different city. The opportunity comes as a ray of hope for the couple, but it also means leaving their village and starting afresh in an unfamiliar place. Despite the challenges, they decide to take a leap of faith and move to the new city in search of a better future for their family.\n\nThe couple faces numerous obstacles in their new surroundings, from adjusting to the fast-paced city life to finding a balance between work and family. However, with determination and perseverance, they overcome these challenges and rebuild their life from scratch. Raghav excels in his new job, while Nandini finds her passion in starting a small business of her own.\n\nAs time passes, Raghav and Nandini's bond grows stronger, fueled by their shared experiences and hardships. They learn to appreciate the little joys in life and cherish the moments spent together as a family. Through their journey, they discover that true happiness lies not in material wealth but in the love and support of each other.\n\n\"Anantana Avantara\" is a heartwarming tale of resilience, love, and hope, showcasing the strength of the human spirit in the face of adversity. It serves as a reminder that no matter how tough the circumstances may be, with faith and determination, one can overcome any challenge and emerge stronger than before."
+                    ],
+                    "filename": "anantana_avantara-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 719.0 words or less.\n\n---\n\n**Title:**\n\nAnantana Avantara\n\n**Year:**\n\n",
+                    "generation_prompt_uid": "5742cc058d0643068a2746c241308e80",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Anantana Avantara"
+                }
+            }
+        },
+        {
+            "index": 4,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: The Thrill Killers (1964)\n\nThe story takes place in 1964 in Hollywood, California. Joe Saxon  is an aspiring actor whose outlandish parties and spending worry his wife, Liz . As per the narrator, he is \"trapped in the world of non-reality\". In another scene, we see a young, Greek immigrant named Dennis Kesdekian  kisses his wife and family good-bye as he leaves for another day at work. Kesdeckian sees a hitchhiker  and offers to give him a ride. The hitchhiker shoots the man and steals his car. That night, Joe throws a party at his house. He and Liz do not know most of the people who attend, but it is part of Joe's plan to wine and dine producer George Morgan , whose next picture Joe desperately wants a part in. On the other side of town, the hitchhiker has picked up a nightclub dancer/prostitute  and takes her back to her apartment, where he brutally murders her with a pair of scissors. While Joe and Liz are arguing, they hear of the murders over the radio, and learn that the assailant was Mort \"Mad Dog\" Click, long wanted by the police for similar crimes. Also on the loose are three mental patients who have escaped from the local asylum. The next day, Liz decides to leave Joe and drives out to her cousin Linda's restaurant up in the hills. At the restaurant, Linda  congratulates her friends Ron  and Carol  on their marriage and purchase of a nearby house. Liz pulls in just after the couple leave. Ron and Carol get to their new house and look around. When they find their handyman missing, they look out back at a smaller house on the property, where they find him decapitated by the escaped mental patients—the axe-wielding Keith , Herbie  and Gary . Ron is decapitated in front of Carol, and then after some amount of chasing around the property, Carol is disposed of in a similar fashion. Joe and Morgan show up at Linda's restaurant, as do the three killers. Herbie calls his friend, who turns out to be Click, to come by and get rid of the two others. When Liz and Joe realize who the three are, the killers hold them hostage. Linda poisons Herbie's coffee and kills him, while Gary chases Liz outside up in the hills. While Linda and Morgan phone for the police, Joe follows the Gary and Liz up into the hills and a battle between Gary and Joe takes place on a mountain-top. Liz goes to get help, but is picked up and kidnapped by Click, who is now on the scene. Gary is pushed off a cliff and falls to his death. Joe, from afar, sees Liz get into Click's car, unaware that the man driving her is also a madman. Liz escapes Click's clutches as the police arrive and take chase. Click shoots a camper and steals his horse, and heads further up to the hills on horseback, chased after by a motor patrolman. After a furious gun battle, Click is shot to death. Sometime after the events have taken place, Joe has sworn off acting, until he gets a call from Morgan that he wants him  to star in his picture opposite his newest discovery, Miss Transylvania—Linda!"
+                    ],
+                    "filename": "the_thrill_killers-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Thrill Killers",
+                    "year": "1964"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1964 film, \"The Thrill Killers,\" the story follows a group of young thrill-seeking criminals who embark on a violent crime spree. The film begins with the group, led by the charismatic and sociopathic Ray, robbing a gas station in a small town. As they make their escape, they leave behind a trail of destruction and chaos.\n\nAs the group continues their spree, they become more reckless and violent. They begin to target innocent bystanders, leaving a trail of bodies in their wake. The police are hot on their trail, but the group manages to evade capture at every turn.\n\nOne of the members of the group, a young woman named Lisa, begins to question the motives of her companions. She is repulsed by the senseless violence and bloodshed that they are causing. As the group continues their crime spree, Lisa becomes increasingly disillusioned and conflicted.\n\nMeanwhile, the police are closing in on the group. They have gathered enough evidence to identify the members of the group and track them down. As the group is surrounded by the police, a tense standoff ensues. Ray, desperate to escape, begins to turn on his own companions, leading to a deadly showdown.\n\nIn the dramatic climax of the film, a violent confrontation erupts between the police and the group. The streets are filled with chaos and gunfire as the group fights to escape. In the chaos, Ray is fatally shot, bringing an end to his reign of terror.\n\nAs the dust settles, the surviving members of the group are arrested and brought to justice. Lisa, who has distanced herself from the group, is left to grapple with the consequences of her actions. She is haunted by the violence and destruction that she witnessed and participated in.\n\nThe film ends on a somber note, as Lisa reflects on the choices she made and the impact they had on those around her. She is left to confront the darkness within herself and come to terms with the harrowing events that unfolded during the group's crime spree.\n\n\"The Thrill Killers\" is a gripping and intense film that explores the consequences of violence and the destructive power of thrill-seeking behavior. It serves as a cautionary tale about the dangers of giving in to one's darkest impulses and the devastating impact that it can have on both individuals and society as a whole."
+                    ],
+                    "filename": "the_thrill_killers-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 556.0 words or less.\n\n---\n\n**Title:**\n\nThe Thrill Killers\n\n**Year:**\n\n1964",
+                    "generation_prompt_uid": "072836b242636eaa6fb77361b53fd618",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Thrill Killers"
+                }
+            }
+        },
+        {
+            "index": 5,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: House of the Dead (2003)\n\nThe film begins with Simon  and Greg  planning to take a boat to an island rave party. They meet up with Alicia , Karma  and Cynthia . Karma has a crush on Simon, Simon has a crush on Alicia and Cynthia is Greg's girlfriend. When they arrive at the dock, they find the boat to take them to the island has already left. They hitch a ride instead with Victor Kirk  and his first mate Salish . A cop named Jordan Casper  tries to stop them since Kirk is a smuggler, but they leave anyway. Arriving at the island party site they find it a deserted mess. Alicia, Karma and Simon start searching for the others leaving Cynthia and Greg behind. The two start to making out in a tent, but Greg leaves to urinate. Left alone, Cynthia is killed by a group of zombies. Meanwhile, the others find an old house. Inside, they find Rudy , Liberty  and Hugh  who tell them zombies attacked the rave, killing everyone. The six go back to the rave site to get the others. Meanwhile, Salish is killed while walking through the forest. Everyone else meets up at the rave site. Cynthia shows up but she's become a zombie. She kills Hugh but is shot by Casper. They develop a plan to leave the island using Kirk's boat. But they find Kirk's boat overrun by zombies. Casper and Greg leave the group to go find help, but Greg is killed. Kirk later takes the group to a hidden box of guns. Once everyone is armed, they head back to the house. The front of the house is filled with zombies. Liberty and Casper are killed in the ensuing fight while the rest manage to make it inside. Kirk hears Salish whistling outside. He goes out and finds Salish as a zombie. Kirk then commits suicide by blowing himself up, opening the front of the house. The remaining four lock themselves in a lab, but the zombies break in. Karma finds a hatch in the floor. She, Alicia and Rudy climb down while Simon shoots a barrel of gun powder, blowing up the house, a lot of zombies, and himself. They find themselves in a series of tunnels. Making their way through the tunnels, Karma is killed by zombies as she holds them off so Rudy and Alicia flee. They're later captured by a man named Castillo \"wearing Greg's face as a mask\" who injected himself with immortality serum many years ago, creating the first zombie. Alicia and Rudy escape, blowing the tunnels up in the process, but they're followed by Castillo. Alicia gets into a sword duel with Castillo and he stabs her in the heart. Rudy decapitates Castillo, thinking the fight is over. But Castillo is still alive and his headless body begins to strangle Rudy. Alicia, who is barely alive, crushes the Castillo's head under her feet, finally stopping him. She then seems to die. Later, Rudy and Alicia are seen being rescued by a team of federal agents. Rudy reveals his last name to be Curien . The ending narration reveals that Rudy gave Alicia the immortality serum and that is why she is alive."
+                    ],
+                    "filename": "house_of_the_dead-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "House of the Dead",
+                    "year": "2003"
+                },
+                "llm": {
+                    "descriptions": [
+                        "A group of college students decide to attend a rave on a remote island, only accessible by boat. As they arrive at the island, they quickly realize that something is not right. The island appears deserted, with no signs of the rave that they were expecting to attend.\n\nAs they explore the island, they discover a house that seems to be the only building on the entire island. Curious, they decide to investigate further. Inside the house, they find evidence that people were once living there, but now it seems abandoned.\n\nSuddenly, they are attacked by a horde of zombies that come out of nowhere. Panicked, the group tries to defend themselves, but they are outnumbered and outmatched. They realize that they need to find a way off the island before they become the next victims.\n\nAs they try to make their way back to the boat, they encounter more zombies at every turn. The group begins to realize that the island is infested with the undead, and their chances of survival are slim. They must work together to come up with a plan to escape the island and make it back to safety.\n\nThroughout their ordeal, they uncover the dark secrets of the island and the mysterious experiments that were conducted there. They learn that the zombies were created by a mad scientist who was experimenting with a virus that turns people into the undead.\n\nAs they fight their way through hordes of zombies, the group faces betrayal from within their own ranks. One of their own turns out to be working with the scientist and has been leading them into traps all along.\n\nIn a final stand against the zombies and the traitor, the group must come together and fight for their lives. With courage and determination, they manage to overcome the odds and make it back to the boat. As they sail away from the island, they are haunted by the memories of the horrors they faced and the friends they lost along the way.\n\nHouse of the Dead is a thrilling and action-packed horror movie that keeps viewers on the edge of their seats. It is a story of survival, betrayal, and the fight against a terrifying enemy that lurks in the shadows."
+                    ],
+                    "filename": "house_of_the_dead-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 547.0 words or less.\n\n---\n\n**Title:**\n\nHouse of the Dead\n\n**Year:**\n\n2003",
+                    "generation_prompt_uid": "5b34f9d41912c2706add77ee3296d7df",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "House of the Dead"
+                }
+            }
+        },
+        {
+            "index": 6,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: I Was a Teenage Frankenstein (1957)\n\nProfessor Frankenstein, a guest lecturer from England, talks Dr. Karlton into becoming an unwilling accomplice in his secret plan to actually assemble a human being from the parts of different cadavers. After recovering of a body from a catastrophic automobile wreck, Professor Frankenstein takes the body to his laboratory-morgue, where in various drawers he keeps spare parts of human beings. The Professor also enlists the aid of Margaret, as his secretary to keep all callers away from the laboratory. Margaret, becoming suspicious of what is going on, decides to investigate and goes down to the morgue. She is panic-stricken by the monster who has been activated by electricity following the grafting of a new leg and arm. She dares not tell the Professor about her feelings, and keeps silent for the present. On a couple of occasions, the professor takes discarded human body parts and feeds them to an alligator concealed in a hidden chamber. One night the Monster leaves the laboratory. He peers into a girl's apartment, the girl becomes hysterical and starts screaming, in his attempt to silence her, he kills her in panic and flees. The next morning the hunt for the murderer is on. Margaret, angry at the Professor, tells him that she knows about the Monster is responsible for the murder. The Professor, taking no chances, has the Monster kill her and feeds her remains to the alligator. Dr. Karlton, sent out of town, knows none of this. The Professor accompanies the Monster to a Lover's Lane, where he kills a teenage boy in order to obtain his face. The boy's face is successfully grafted onto the Monster. Professor Frankenstein tells Dr. Karlton of his plans to dismember his creation and ship him in various boxes to England—there to put him together again. When they strap the Monster down again, he becomes suspicious and tears loose to throw Dr. Frankenstein into the alligator pit, while Dr. Karlton runs for help. When Dr. Karlton arrives with the police, the Monster, who is maddened with fright, backs into the electrical dial board. Contact with the iron wrist bands electrocutes him, and he falls to the ground dead. Karlton tells the police that he'll never forget the way the monster's face looked after the accident, and that shot dissolves into a close up of the original mangled face."
+                    ],
+                    "filename": "i_was_a_teenage_frankenstein-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "I Was a Teenage Frankenstein",
+                    "year": "1957"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1957 film \"I Was a Teenage Frankenstein,\" Dr. Frankenstein's grandson, Professor Frankenstein, continues his family's legacy of reanimating the dead. This time, he sets out to create the perfect human being by piecing together body parts from various corpses. However, instead of creating a fully grown adult like his grandfather did, Professor Frankenstein decides to use teenage body parts in hopes of creating a more manageable and controllable creature.\n\nAs the experiment progresses, the teenage Frankenstein begins to show signs of rebellion and a lack of control. He struggles with his identity and purpose, feeling like a monster and an outcast in the world. Despite Professor Frankenstein's attempts to mold and control his creation, the teenage Frankenstein starts to develop a mind of his own and questions his existence.\n\nMeanwhile, a series of mysterious deaths and disappearances start to occur in the town where Professor Frankenstein conducts his experiments. The local authorities become suspicious and begin to investigate the strange occurrences, leading them closer to discovering the truth behind the teenage Frankenstein's creation.\n\nAs the teenage Frankenstein struggles with his inner turmoil and the growing threat of being exposed, he must navigate a world that fears and rejects him. With the help of a kind-hearted girl who sees beyond his monstrous exterior, the teenage Frankenstein begins to understand his humanity and the value of acceptance and love.\n\nHowever, as tensions rise and the authorities close in on Professor Frankenstein's laboratory, a final showdown ensues. The teenage Frankenstein must make a choice between embracing his monstrous nature or finding redemption and acceptance in a world that fears him.\n\nIn the end, \"I Was a Teenage Frankenstein\" explores themes of identity, acceptance, and the consequences of playing god. It serves as a cautionary tale about the dangers of tampering with nature and the importance of compassion and understanding towards those who may be different."
+                    ],
+                    "filename": "i_was_a_teenage_frankenstein-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 396.0 words or less.\n\n---\n\n**Title:**\n\nI Was a Teenage Frankenstein\n\n**Year:**\n\n1957",
+                    "generation_prompt_uid": "9320d970a877f4ef9201b4c5ba19f9db",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "I Was a Teenage Frankenstein"
+                }
+            }
+        },
+        {
+            "index": 7,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Up, Up, and Away (2000)\n\nThe movie tells the story of Scott Marshall , the son of two great superheroes, Bronze Eagle and Warrior Woman. All of his family members are gifted with superpowers. His father, Bronze Eagle ([[Robert Townsend , has the gift of flight. His mother, Warrior Woman , has the power of superhuman strength and superior hand-to-hand combat skills. His brother, Silver Charge, is gifted with superhuman speed, electrical and magnetism manipulation. His little sister, Molly , who constantly shows off her powers, much to her family's annoyance, has x-ray vision, as well a heat vision. His grandfather, Edward , is known as the \"Steel Condor\", and has the ability of superhuman strength, invulnerability and flight , and has an ongoing feud with Superman. It is said that his grandmother, Doris , has the ability to shapeshift. Scott desperately wants powers of his own. To his surprise, however, he doesn't develop any by his 14th birthday - the latest age at which this is possible. Meanwhile, a group of activists known as the \"Earth Protectors\" have been giving out CDs about the environment to Scott's classmates. But while the creator of the program, Nina , wants to use the CDs to help educate people about the environment, her partner, Malcolm ([[Kevin Connolly , sees the program as a means to brainwash the entire world into giving him whatever he wants. He tries, at first, to brainwash a bank's staff into giving him all the money, but since the program is specifically for children, when one of Malcolm's henchmen sneezes, the staff snaps out it. He then does the next best thing, by using the program to make the children steal their parents' money and give it to him, thinking that it's just that night's homework. Fortunately, Scott's sister uses her x-ray vision to discover the money in his backpack. He tries to tell his parents that he didn't know he had stolen the money, but they are still suspicious. Malcolm continues to use the program for personal gain, by giving the kids chocolate cravings, making them all wear blue, etc. One day, after Scott is almost late for school due to being mesmerized by the software, Jim get suspicious about Earth Protectors and decides to take Adam with him to the bank so he can use his electrical powers to make the computer system bring back up the Earth Protectors program. Unfortunately, he gets over-excited at the thought that he could finally help his parents save the day that he overloads the computer's power supply, frying the system, destroying any information that they might have been able to recover. Meanwhile, Scott pretends to have superhuman strength and the ability to fly, so as not to disappoint his parents, who would be unhappy to learn that their son is normal. But he lets the success go to his head, because once the Earth Protectors program is fully developed so it will work just as well on adults as it does on children, Malcolm blows up their warehouse, with Nina inside. Scott tries to save her, but they both almost end up getting killed, but are saved by his father, who was told by his grandfather, who discovered Scott's ruse, that he is not super powered. They are safe, but Scott drops his mask in the process. Malcolm later finds it and matches it to Scott. Malcolm then sends a super strong version of the program to Scott during school, and has him tell him everything, about his family. Malcolm then sends a special version of the program to Scott's teacher, and tells her that she needs to give that disk to Scott. He also tells her that all the children's parents have to watch that night's lesson, with them. Scott almost brings the special disk home, but accidentally runs into a girl in his class, Amy , whom he secretly likes. They end up mixing up the disks, and instead Amy's mother  subconsciously robs a bank and goes to Earth Protectors' new warehouse. After tying her up, they use her as bait to lure Scott's parents and brother to the warehouse. Once there, they capture them with aluminium foil, a superhero's only weakness. Scott, along with Amy and his best friend, Randy , head to the warehouse to save his family from being brainwashed by Malcolm into becoming super villains who will obey anything he says. When they get there, they are helped by Nina, who has become disgusted by Malcolm's antics. Nina tries to replace the bad disk with one of the good disks, but is stopped by one of Malcolm's henchmen. Scott has literally less than a second to stop the machine from permanently reprogramming his family. He uses a soccer ball to smash the main computer, stopping it with only milliseconds to spare. His family then easily defeats and captures the villains, and Silver Charge uses his powers to  burn away their memories of the heroes' identities, by burning some of their brain cells. Also Amy admits she likes Scott and asks him to a dance, but Adam erases her memories of everything that happened. Scott manages to get his family to agree to let Randy keep his memories and everything returns to normal for the family. Amy doesn't seem to remember she liked Scott, and they go back to somewhat hating each other, although when it's time to pick a team captain for soccer she chooses Scott instead of herself, surprising him. He chooses her and they end up as co-captains, with Randy asking Scott about superpowers."
+                    ],
+                    "filename": "up_up_and_away-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Up, Up, and Away",
+                    "year": "2000"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Up, Up, and Away\" is a 2000 Disney Channel Original Movie that tells the story of the Strong family, who are superheroes living in the suburban town of Cosmopolis. However, unlike the rest of his family, the youngest son, Scott, does not have any superpowers. His parents, Steel Condor and Warrior Woman, along with his siblings, Silver Charge and Bronze Eagle, all have unique abilities that they use to fight crime and protect their city.\n\nDespite his lack of superpowers, Scott is determined to prove himself and be a hero like the rest of his family. He dreams of being able to fly and help people in need. His parents are supportive but encourage him to focus on his studies and find his own path. Scott struggles with feeling left out and different from his family, especially as his classmates at school tease him for not having powers.\n\nAs Scott navigates his teenage years, he discovers that his lack of superpowers actually makes him immune to the effects of a dangerous substance known as the \"Black Star\" that is being used by a group of villains led by a man named Bronze Eagle. This discovery leads Scott to realize that his unique perspective and abilities could make him a hero in his own right.\n\nWhen his family is captured by Bronze Eagle and his minions, Scott must step up and use his intelligence and resourcefulness to save them. With the help of his friends and his own determination, Scott is able to outsmart the villains and rescue his family. In the process, he learns that being a hero is not just about having superpowers, but also about using your strengths to make a difference in the world.\n\n\"Up, Up, and Away\" is a heartwarming tale of self-discovery, family bonds, and the power of believing in yourself. It teaches audiences that everyone has their own unique strengths and abilities that can be used to help others and make a difference. Through Scott's journey, viewers are reminded that true heroism comes from within and that sometimes the greatest powers are the ones that are not always visible."
+                    ],
+                    "filename": "up_up_and_away-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 935.0 words or less.\n\n---\n\n**Title:**\n\nUp, Up, and Away\n\n**Year:**\n\n2000",
+                    "generation_prompt_uid": "770567aed11905ec6b00cf91e9791557",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Up, Up, and Away"
+                }
+            }
+        },
+        {
+            "index": 8,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Goofs and Saddles (1937)\n\nSet in the Old West, the Stooges are scouts for the United States Cavalry. They are sent by General Muster  to catch a gang of cattle rustlers, so they hide as bushes to try to find the gang's leader, Longhorn Pete . The rustlers are befuddled by the moving bushes. The Stooges eventually wind up in Longhorn Pete's saloon, and the Stooges disguise themselves as gamblers and get into a card game with Pete as they wait for the cavalry. Moe attempts to send a message to General Muster for help via carrier pigeon, but the pigeon returns to Pete, who reads the incriminating message aloud. The jig is up, and the Stooges are forced to escape for their lives, jumping on a covered wagon filled with household equipment — and a monkey. The Trio toss pots and pans from the wagon onto the ground, which their horse’s hoofs catch them. The wagon loosens up from the horse team, and goes down in its own power until it stops. Eventually, they end up on a shed.  A gun battle ensues. A bullet knocks off the monkey's hat, and he is forced to use a dipper as a helmet. Amidst the melee, Curly spots a meat grinder and decides to make a hamburger. The whizzing bullets accidentally topple a box of ammunition to the grinder, and the grinder becomes a makeshift machine gun. Discovering the chance, they add more ammunition and even a gun belt serving as an ad hoc ammunition belt. The increase in opposing firepower befuddles the bandits, but eventually General Muster arrives and saves the day. As they are given kudos for a job well done, the monkey goes to the grinder and twists the handle, firing a few shots that caused the Stooges to be hit and flee the area."
+                    ],
+                    "filename": "goofs_and_saddles-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Goofs and Saddles",
+                    "year": "1937"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In \"Goofs and Saddles,\" a 1937 comedy film, the story follows a group of bumbling cowboys who set out to save their town from a greedy land baron. The town is facing foreclosure, and it's up to this ragtag group of misfits to come up with a plan to raise the money needed to save their homes.\n\nLed by the charismatic but scatterbrained cowboy, Buckaroo Bob, the group embarks on a series of hilarious misadventures as they attempt to raise the necessary funds. Along the way, they encounter a colorful cast of characters, including a scheming saloon owner, a feisty schoolmarm, and a band of outlaws who are also after the land baron's fortune.\n\nDespite their best efforts, the cowboys' plans always seem to go awry, leading to a series of slapstick comedy moments and misunderstandings. But through their perseverance and teamwork, they eventually come up with a clever scheme to outwit the land baron and save the town from ruin.\n\nAs the deadline to save the town approaches, tensions rise and the cowboys must pull together to execute their plan flawlessly. In a wild and chaotic final showdown, the cowboys face off against the land baron and his cronies in a battle of wits and wills.\n\nIn the end, the cowboys emerge victorious, saving the town and becoming unlikely heroes in the process. \"Goofs and Saddles\" is a heartwarming and humorous tale of friendship, courage, and the power of community to overcome adversity."
+                    ],
+                    "filename": "goofs_and_saddles-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 309.0 words or less.\n\n---\n\n**Title:**\n\nGoofs and Saddles\n\n**Year:**\n\n1937",
+                    "generation_prompt_uid": "2dc6f6db15dcc5f948faacb247277182",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Goofs and Saddles"
+                }
+            }
+        },
+        {
+            "index": 9,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Deadgirl (2008)\n\nRickie  and J.T.  are two high school seniors who gaze at the girls they wish they could get, especially Joann, the object of Rickie's affection, whom he has known since he was a child. One day, they decide to cut class and end up in an abandoned psychiatric hospital. They discover a mute, naked woman in the basement, chained to a table. While J.T. is interested in raping her, Rickie refuses and leaves. J.T. confronts Rickie the next day, and the two return to the basement where J.T. reveals that the woman is undead, which he discovered after fruitlessly attempting to kill her three times. Rickie finds that J.T. invited their friend Wheeler to rape the woman, nicknamed Deadgirl, as well, and decides that it is time to free her. He is able to cut the chain on one hand free before he hears J.T. and Wheeler approaching. He runs to hide, and J.T. begins to rape the woman. After he notices that her hand is free, the woman attacks him and scratches his face. During gym class one day, Rickie asks Joann out on a date, knowing she has a boyfriend. She rejects him, and that afternoon, Joann's boyfriend Johnny and Johnny's friend Dwyer beat up Rickie and Wheeler. Wheeler rebuts that they \"have their own pussy now\" and don't need to hit on Joann. Johnny throws Rickie and Wheeler in his trunk, and he and Dwyer drive to the asylum to see Deadgirl. Rickie convinces Johnny to force Deadgirl to perform oral sex on him, and Deadgirl instead bites Johnny's penis, infecting him. The next day, Johnny races to the bathroom during class and his intestines burst out of his body, leaving him in the same undead state as Deadgirl. Having figured out that this is an infectious disease, J.T. and Wheeler decide it is time to make a new Deadgirl with a fresh body. They wait outside a gas station, where Joann shows up to confront them about Johnny. J.T. and Wheeler capture her and take her to the basement. Rickie heads to the basement with a machete to free Deadgirl and finds Joann and Deadgirl tied up to each other, being circled by J.T. and Wheeler. As J.T. tries to convince Rickie to let Joann be bitten, Wheeler feels up Joann. Rickie defends her by slicing Wheeler's hand off with the weapon. Deadgirl is freed by Joann and feasts on Wheeler, then J.T. Rickie and Joann escape through one door but cannot find another one to get through. Rickie runs off to find an escape route, and when he returns, Joann is not where he left her. Rickie returns to the basement and finds Deadgirl, about to attack him. She runs into him, knocks him down, then breaks open the door and escapes. Rickie then sees Joann, who is about to collapse. He catches Joann just as she falls, then sees that J.T. has stabbed her in the back. J.T. urges Rickie to let him bite her as she will then be immortal. Rickie holds her for a moment, assuring her that he loves her and will save her. She coughs blood into his face and first tells him, \"[expletive] grow up\". Then she asks him, \"Please, Rickie, help me.\" The film then cuts to Rickie walking towards the asylum. There, Joann is lying tied to a bed in clean lingerie."
+                    ],
+                    "filename": "deadgirl-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Deadgirl",
+                    "year": "2008"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 2008 horror film \"Deadgirl,\" two high school friends, Rickie and JT, stumble upon a shocking discovery in an abandoned mental hospital. They find a naked woman tied to a table, who appears to be dead. However, to their horror, they soon realize that the woman is actually undead and seemingly immortal. \n\nJT, the more reckless and disturbed of the two friends, becomes obsessed with the dead girl and convinces Rickie to keep her existence a secret. They visit her regularly, with JT even resorting to sexual violence towards her. Rickie, on the other hand, is horrified by JT's actions but feels powerless to stop him. \n\nAs the two friends continue to visit the dead girl, their friendship begins to deteriorate. Rickie becomes increasingly disturbed by JT's behavior and struggles with his own conflicting emotions towards the dead girl. Meanwhile, JT's obsession with the dead girl grows more dangerous, leading to a series of violent and disturbing events.\n\nAs the film progresses, Rickie is forced to confront his own morality and make a decision about his involvement with the dead girl. He must also find a way to stop JT before he causes irreparable harm. The film explores themes of morality, friendship, and the dark side of human nature.\n\nUltimately, \"Deadgirl\" is a disturbing and thought-provoking exploration of the consequences of unchecked obsession and the lengths people will go to satisfy their darkest desires. The film leaves viewers with a chilling reminder of the thin line between life and death, and the dangers of crossing that line."
+                    ],
+                    "filename": "deadgirl-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 569.0 words or less.\n\n---\n\n**Title:**\n\nDeadgirl\n\n**Year:**\n\n2008",
+                    "generation_prompt_uid": "28721906e3f056bf4f33f8129422c4a0",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Deadgirl"
+                }
+            }
+        },
+        {
+            "index": 10,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Mera Naam Joker (1970)\n\nMera Naam Joker is the story of Raju, whose father was considered the best circus clown ever. Ever since he died in an accident during his performance, Raju's mother had been repulsed by the circus. As luck would have it, Raju had a natural affinity towards the circus world. The film traces Raju's journey from his childhood to the day of his last performance. Mera Naam Joker is divided into 3 chapters. The first chapter is about the adolescent Raju and deals with his infatuation with his teacher Mary . She gives him confidence in himself, and he discovers the world of femininity and desire. But of course she's older than him, and he attends her wedding in a state of false merriment. Mary's lessons nevertheless aren't lost: Raju comes to realise that he was born to make the world laugh, despite his own troubles. After his first heartbreak, the story follows adult Raju who has found work with Gemini Circus as a clown. His dream materialises! The circus is owned by Mahendra Singh  who has understood Raju's potential and gives him the job. The circus hosts a visiting group of artists from Russia, and he falls in love with Marina , the lead trapezist. Despite the language barrier they become close, and Raju half hopes that they might live together. But he faces heartbreak once again when the circus ends and Marina returns to Russia. It is in this chapter that Raju's mother dies during Raju's performance, watching her son perform the very stunts which caused his father's death. In the final chapter, Raju has left the circus and wanders around aimlessly. One day he meets Meenu , an orphaned girl who has ambitions of becoming a famous actress. Meenu and Raju set up an association, start a small circus business and later on move on to the theatre. They are quite successful, but their collaboration ends when she is offered a role in a film. She leaves him, and he realises she has used him in her lust for success. Raju always carries a clown doll which belonged to his father. Every time he fell in love, he gifted his beloved doll, only to see it come back to him. The doll is used as a metaphor for Raju's simplistic heart where there is room for everyone. At the end of the film, Raju manages to join a big circus touring India, and the films depicts Raju doing his final act. When Raju suffers a heart attack on stage, the audience doesn't take him seriously and he dies before anyone realizes. This leads to the conclusion that Raju died making the world laugh."
+                    ],
+                    "filename": "mera_naam_joker-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Mera Naam Joker",
+                    "year": "1970"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Mera Naam Joker\" is a Bollywood film released in 1970 that follows the life of Raju, a famous circus performer. The film is presented in three acts, each depicting a different stage of Raju's life. \n\nIn the first act, we see Raju as a young boy who discovers his passion for performing in the circus. Despite facing challenges and hardships in his personal life, Raju finds solace in entertaining others and develops his skills as a clown. He befriends a teacher named Mary who helps him navigate the complexities of life and love. As Raju grows older, he falls in love with Mary, but their relationship is complicated by societal expectations and misunderstandings.\n\nThe second act of the film shows Raju as a young man who has achieved great success as a circus performer. He is now a popular figure in the entertainment world, known for his comedic acts and emotional performances. However, as Raju becomes more famous, he starts to feel isolated and disconnected from his own emotions. He struggles to balance his personal and professional life, leading to a downward spiral of loneliness and despair.\n\nIn the final act, Raju is shown as an older man reflecting on his life and the choices he has made. He looks back on his past with a sense of nostalgia and regret, realizing the impact his decisions have had on his relationships and happiness. Through a series of flashbacks, we see the key moments that have shaped Raju's life and led him to where he is now.\n\nThroughout the film, \"Mera Naam Joker\" explores themes of love, loss, and the search for meaning in life. It delves into the complexities of human emotions and relationships, highlighting the struggles and triumphs of a man who has dedicated his life to bringing joy to others. The film is a poignant and thought-provoking exploration of the human experience, told through the lens of a circus performer who must confront his own inner demons in order to find peace and fulfillment."
+                    ],
+                    "filename": "mera_naam_joker-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 450.0 words or less.\n\n---\n\n**Title:**\n\nMera Naam Joker\n\n**Year:**\n\n1970",
+                    "generation_prompt_uid": "3fbe27e4645ae0fd15a6bc5d174605f1",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Mera Naam Joker"
+                }
+            }
+        },
+        {
+            "index": 11,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: George of the Jungle (1997)\n\nThe film begins with an animated introduction showing a plane crash in which George, then an infant, is lost in a jungle in \"the Heart of Africa\" . Over 25 years later, George  is a Tarzan-like man, the \"King of the Jungle\". His friends include a sophisticated talking gorilla named Ape , along with a toco toucan named Tookie, a small capuchin monkey named Little Monkey , and an African elephant named Shep, whom he calls his \"dog\" . The live action begins as heiress Ursula Stanhope  explores the jungle near George's home with the help of her guide, Mr. Kwame  and some native porters. She has traveled to Africa alone, but she is joined by her wealthy fiancé Lyle Van De Groot  who has found her with the help of Max and Thor , two dopey poachers who are posing as trackers. That evening, Mr. Kwame recounts the legend of the White Ape, said to be a huge, super-strong primate who rules the surrounding jungle. The next day, Lyle almost causes the death of one of the porters, and he abandons Ursula when the two of them are attacked by a lion. George saves Ursula and takes her to his treehouse home , and Lyle returns to the camp, claiming to have been attacked by the White Ape. While the exploration party searches for Ursula, George entertains her and teaches her to swing on vines. He also falls in love with her, so Ape advises him to woo her by making faces and beating his chest, as gorillas do. This fails to impress Ursula, but George wins her over with his charm, and they enjoy an evening of dancing around a campfire. On the third day, the explorers discover George's treehouse, Lyle accidentally discharge's his weapon and George gets shot in the arm  as George tries to prevent Max and Thor from shooting Ape with a tranquilizer gun. Seeing this happen, both Ape and Ursula scream in terror. While Lyle is arrested for the shooting , Ursula flies George to her home in San Francisco for medical treatment and buys clothes for him. George explores the city and saves a paraglider's life. With George's help, Ursula finds the courage to tell her parents that she no longer wants to marry Lyle, but her mother Beatrice Stanhope , who is intent on marrying her to a man of wealth and prestige, threatens George to give Ursula up or she would \"remove his reason for wearing a loincloth\". Meanwhile, Max and Thor  capture Ape, knowing that he can speak. Ape manages to send Tookie to San Francisco to ask George for help. When Tookie finds George, George returns to Africa to save Ape, and after realizing that she loves George, Ursula follows. George finds the poachers at the treehouse, with Ape in a cage, and he defeats them after an extended battle, with help from Ursula and his animal family. However, Lyle appears and it looks like that he is no longer in prison and has join a marriage cult. He kidnaps Ursula with help from several mercenaries associated with the cult. Lyle intends to marry himself to Ursula immediately. After escaping the mercenaries with help from his gorilla friends, George chases Lyle and Ursula as they float into some river rapids on a raft, then saves Ursula while Lyle enters a dark tunnel. After performing his wedding ceremony and exiting the tunnel, Lyle discovers that he has just married a gorilla. George and Ursula have their wedding and ride off on Shep. They have a son and show him to the land. A little later, during the ending credits, Ape abruptly interrupts the credits reveals to the audience on his fate : he becomes a big singing star in Las Vegas  He is seen singing the Frank Sinatra song \" I Did It My Way\", with Thor and Max as background staff ; they play as two coconut trees."
+                    ],
+                    "filename": "george_of_the_jungle-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "George of the Jungle",
+                    "year": "1997"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1997 film \"George of the Jungle,\" we follow the story of George, a man who was raised in the jungle by a wise ape named Ape. As a child, George was saved from a plane crash by Ape and has since grown up in the wild, living among the animals and swinging through the trees like Tarzan. George is the epitome of a wild man, with his long hair, loincloth, and lack of knowledge about the world outside of the jungle.\n\nOne day, while swinging through the trees, George comes across a beautiful woman named Ursula Stanhope, who is on a safari with her wealthy fiance, Lyle. George is immediately smitten with Ursula and decides to follow her back to San Francisco, where she lives. However, George is not used to the ways of the modern world and hilarity ensues as he tries to navigate the city and win Ursula's heart.\n\nAs George tries to impress Ursula, he finds himself in a series of comical situations, from accidentally causing chaos at a fancy dinner party to getting caught in a net while trying to rescue Ursula from a lion. Despite his bumbling ways, George's pure heart and love for Ursula shine through, and she begins to see him in a new light.\n\nMeanwhile, Lyle is determined to win Ursula back and will stop at nothing to get rid of George. He hires two bumbling henchmen to capture George and take him back to the jungle, but George manages to escape with the help of his animal friends.\n\nIn the end, George must rescue Ursula from Lyle's clutches and prove that he is worthy of her love. With the help of Ape and his friends, George swings into action and saves Ursula from danger. Ursula realizes that she has fallen for George and decides to stay in the jungle with him, where they can live happily ever after.\n\n\"George of the Jungle\" is a heartwarming and hilarious tale of love, adventure, and the power of being true to oneself. It reminds us that sometimes the wildest hearts are the ones worth fighting for, and that love can truly conquer all. So swing through the trees with George and Ursula and get ready for a wild ride full of laughs and romance."
+                    ],
+                    "filename": "george_of_the_jungle-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 671.0 words or less.\n\n---\n\n**Title:**\n\nGeorge of the Jungle\n\n**Year:**\n\n1997",
+                    "generation_prompt_uid": "9f494913cef5300bb41e0af2a29ea914",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "George of the Jungle"
+                }
+            }
+        },
+        {
+            "index": 12,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: The Bone Snatcher (2003)\n\nAgain and again, people disappear from a diamond mine. Dr. Straker and a search team are sent into the desert to find out why the geologists of a diamond expedition have lost radio contact. They arrive at camp of the scientists in the desert, but soon find the neatly gnawed bones of their colleagues and a trail that leads them to a strange rock formation. Once at camp they find only the cleanly gnawed bones of the workers. Soon it becomes clear that there is a murderous beast on the loose. The researchers decided to investigate the structure, but in the gathering darkness, sheer hell breaks loose as the creature, composed of a swarm of ant-like insects wrapped around the bones of its victims, hunts them for their bones. A game of cat and mouse continues through the desert, with the team being slowly picked off and the bug and bone monster eventually being chased down in a derelict mine building. Zack finds it hard to decide to kill the yellow \"brain bug\" that controls the swarm that has killed dozens of people, but he eventually does so. Suddenly, the derelict building starts to fall down, leaving Zack and Mikki to run back to the truck - where they find they are now the only survivors of the team. The film ends with Mikki driving into the distance apparently oblivious to the contents of the box in the trunk of her car."
+                    ],
+                    "filename": "the_bone_snatcher-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Bone Snatcher",
+                    "year": "2003"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"The Bone Snatcher\" (2003), a group of scientists and miners working in the Namibian desert stumble upon a mysterious creature that is able to dissolve bones at an alarming rate. As the team investigates further, they realize that this creature is a deadly force that poses a threat to their lives.\n\nWith no way to communicate with the outside world due to a sandstorm, the group must band together to find a way to stop the creature before it picks them off one by one. As they struggle to understand the creature's origin and behavior, tensions rise among the team members, leading to paranoia and betrayal.\n\nAs the creature continues to wreak havoc, the group discovers that it is actually a mutated form of a prehistoric creature that has been unleashed due to mining activities in the area. With time running out and the creature growing stronger with each kill, the survivors must find a way to destroy it before it devours them all.\n\nFilled with suspense, horror, and thrilling chase scenes, \"The Bone Snatcher\" is a heart-pounding sci-fi thriller that keeps viewers on the edge of their seats until the very end."
+                    ],
+                    "filename": "the_bone_snatcher-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nThe Bone Snatcher\n\n**Year:**\n\n2003",
+                    "generation_prompt_uid": "651b1a8f68930e564bc152b1f54f5e3d",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Bone Snatcher"
+                }
+            }
+        },
+        {
+            "index": 13,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Six Degrees of Separation (1993)\n\nFifth Avenue socialite Ouisa Kittredge  and her art dealer husband Flan , are parents of \"two at Harvard and one at Groton.\" But the narrow-minded world inhabited by the Kittredge family, as well as their public status as people interested in the arts, makes them easy prey for Paul , a consummate con-artist. One night, Paul mysteriously shows up at their front door—injured and bleeding—claiming to be Sir Sidney Poitier's son and a close college friend of the Kittredges' Ivy League kids. Impressing Ouisa and Flan with his articulate literary expositions, Paul proves to be a sharp-witted, learned young man with fine taste and surprising culinary skill. His highbrow façade is so charmingly persuasive, Paul soon has the Kittredges lending him money, putting him up for the night and taking satisfaction in his appraisal of their posh lifestyle. The Kittridges' force him out of their house after the night as he brings in a hustler without their consent, and Paul's homelessness is revealed. Much to the Kittredge's shock, Paul is revealed to be a highly persuasive con-man, who has charmed his way into many upper-crust homes along the Upper East Side with his wit and insider knowledge. As Paul's plot unravels he becomes an urban legend of the upper crust, a witty anecdote to banter about at cocktail parties. However, he has a profound effect on the many individuals who encounter him, linking them in their shared experience."
+                    ],
+                    "filename": "six_degrees_of_separation-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Six Degrees of Separation",
+                    "year": "1993"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1993 film \"Six Degrees of Separation,\" a young con artist named Paul claims to be the son of Sidney Poitier and weaves an elaborate web of lies to infiltrate the lives of a wealthy New York couple, Ouisa and Flan Kittredge. Paul charms his way into their home by claiming he was mugged and needed help, sparking their sympathy and curiosity. As the story unfolds, Paul's manipulative nature comes to light as he dazzles the couple with his intelligence, wit, and knowledge of art and culture.\n\nOuisa and Flan become enamored with Paul's sophistication and the glamorous world he seems to inhabit, but as they dig deeper, they begin to uncover the truth about his fabricated identity. The film explores themes of identity, privilege, and the blurred lines between reality and fiction as Paul's deception forces the Kittredges to confront their own insecurities and desires.\n\nAs Paul's lies unravel, Ouisa and Flan are left questioning their own relationships and the connections that bind them to others. Through Paul's intricate manipulations, the characters navigate the complexities of human connection and the ways in which people are both connected and isolated in a vast and impersonal world. Ultimately, \"Six Degrees of Separation\" delves into the intricacies of deception, self-discovery, and the search for genuine connection in a world filled with illusions and facades."
+                    ],
+                    "filename": "six_degrees_of_separation-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 244.0 words or less.\n\n---\n\n**Title:**\n\nSix Degrees of Separation\n\n**Year:**\n\n1993",
+                    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Six Degrees of Separation"
+                }
+            }
+        },
+        {
+            "index": 14,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Small Town Story (1953)\n\nCanadian ex-serviceman Bob Regan  returns to Oldchester, the English town where he was stationed during the war, hoping to find Pat Lane , the girl he fell in love with. He meets up with Mike Collins ([[George Merritt , an old acquaintance who now manages Oldchester United, the local football club. He also renews his friendship with Collins' daughter Jackie . Mike tells Bob of an odd proviso surrounding the allocation of £25,000 from the estate of a recently deceased businessman and supporter of the football club &ndash; if Oldchester United win promotion to the next division of the Football League that season the money is theirs, if not it goes to the man's nephew. He remembers Bob as a skilful footballer, and asks him to sign up for the team to boost the promotion quest. Bob agrees. The nephew Nick Hammond  is determined that the money will be his, and is worried that Bob's football prowess may well propel the team to on-pitch success. He is acquainted with Pat, now living in London, and persuades her to join him in a scheme to scupper Oldchester's chances. Knowing of Bob's fondness for Pat, and that Pat cares nothing for Bob, he proposes that if Pat can tempt Bob away from Oldchester and the football team, and the team fails in its promotion bid, he will give her a share of the inheritance. The mercenary Pat jumps at the prospect, begins to work her charms on Bob and soon lures him to London to be with her. He is talent-spotted by scouts, and signed up by Arsenal F.C. In due course Bob becomes aware of Pat's true colours, seeks his release from Arsenal and returns to Oldchester, where reformed jail-bird Tony Warren  becomes his unofficial bodyguard. The end of the football season approaches with Oldchester needing to win their final home match to gain promotion. The game starts well, with Bob's goal giving the team a half-time lead. However Nick, in a last attempt to derail Oldchester's chances, succeeds in kidnapping Bob at the half-time interval. Following a car chase involving Tony and Jackie, the tables are turned and Bob is freed. He gets back to the football ground during the closing stages of the match, to find Oldchester trailing by one goal. Returning to the pitch, he scores two late goals to seal Oldchester's victory, promotion and financial windfall. As a bonus, he realises his attraction to Jackie and the couple embrace."
+                    ],
+                    "filename": "small_town_story-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Small Town Story",
+                    "year": "1953"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Small Town Story\" is a heartwarming tale set in the idyllic small town of Willow Creek in 1953. The story follows the lives of several residents whose lives become intertwined in unexpected ways.\n\nThe film centers around Sarah, a young woman who returns to her hometown after pursuing her dreams in the city. She reconnects with her childhood friend Jack, who has always harbored feelings for her. Despite their obvious chemistry, Sarah is hesitant to get involved with Jack, fearing that a relationship would hold her back from her ambitions.\n\nMeanwhile, the town is abuzz with excitement as preparations are underway for the annual Willow Creek Festival. Sarah's father, the mayor of the town, is overseeing the planning, while her mother is busy organizing the bake-off competition. Sarah's sister, Emily, is also heavily involved in the festival, helping to coordinate the talent show.\n\nAs the festival draws nearer, tensions rise in the town as rivalries and conflicts come to the surface. Sarah finds herself caught in the middle of it all, trying to navigate her relationships with Jack, her family, and the townspeople.\n\nThrough a series of heartwarming and humorous events, Sarah slowly begins to realize the true meaning of home and the importance of family and community. She learns that sometimes the biggest adventures can be found in the smallest of towns.\n\nAs the festival finally arrives, Sarah must make a decision about her future and whether she is willing to give up her dreams for a chance at love and a life in Willow Creek. In a climactic moment, Sarah takes the stage at the talent show and delivers a heartfelt performance that captures the spirit of the town and its people.\n\nIn the end, \"Small Town Story\" is a charming tale of love, friendship, and the beauty of small-town life. It reminds us that sometimes the things we are searching for are right in front of us, waiting to be discovered."
+                    ],
+                    "filename": "small_town_story-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 419.0 words or less.\n\n---\n\n**Title:**\n\nSmall Town Story\n\n**Year:**\n\n1953",
+                    "generation_prompt_uid": "64717fa2414cd2ae1f91dc1ba7532160",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Small Town Story"
+                }
+            }
+        },
+        {
+            "index": 15,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Igby Goes Down (2002)\n\nJason \"Igby\" Slocumb, Jr. is a misanthropic 17-year-old boy, rebelling against the oppressive world of his strict East Coast \"old money\" family. His schizophrenic father, Jason, has been committed to an institution; Igby fears he will eventually suffer a mental breakdown like his father. His mother, Mimi, is self-absorbed and distant. Igby mockingly describes his ambitious older brother Ollie as a fascist or alternatively a Young Republican, and that he studies neo-fascism  at Columbia University. Igby figures there must be a better life out there, and he sets out to find it, rebelling against his family at every opportunity. After happily flunking out of several prep schools, he ends up in a brutal military academy where he gets beaten by his fellow students. After escaping and spending time in a Chicago hotel courtesy of his mother's credit card, Igby is sent to New York for the summer to his godfather D.H. Banes. While working construction for D.H. he first encounters Rachel, his godfather's heroin-addicted trophy mistress. Rather than return to school, he escapes into the bohemian underworld of Manhattan, hiding out with Rachel and her friend Russel. He hooks up with terminally bored, part-time lover, Sookie, only for her to later leave him for Ollie. Despite seeming cold and distant, Mimi is not unaffected by her rebellious son. She describes Igby's conception as an act of animosity and it shouldn't be a surprise that his life follows the same course. His name is explained as a family in-joke. As a child, he would blame his toy bear, Digby, for things he had done, mispronouncing it as \"Igby\". In order to get him to take responsibility for his actions his family would call him Igby whenever he lied. Igby is informed by D.H. that his mother Mimi is dying from breast cancer and so he returns to see her. She has arranged to commit suicide with help from Ollie, who sedates her and suffocates her with a plastic bag.  Before she dies, Mimi makes a final revelation, casually inquiring of Igby, \"I take it you know that D.H. is your father?\" The film ends with Igby leaving for Los Angeles, in an attempt to finally make a clean break by getting 3,000 miles away from his family."
+                    ],
+                    "filename": "igby_goes_down-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Igby Goes Down",
+                    "year": "2002"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Igby Goes Down\" is a coming-of-age dark comedy film released in 2002. The movie follows the story of Igby Slocumb, a rebellious and intelligent teenager who is fed up with his wealthy and dysfunctional family. Igby struggles to find his place in the world while dealing with his mentally ill mother, Mimi, and his domineering older brother, Oliver.\n\nThe film begins with Igby being expelled from yet another prestigious boarding school. Igby decides to run away from home and ends up living in New York City, where he explores his independence and tries to figure out what he wants from life. Along the way, he meets and becomes romantically involved with Sookie, a free-spirited artist who challenges his perspective on the world.\n\nAs Igby navigates through the complexities of adulthood, he is forced to confront his troubled family history. His father, Jason, is a neglectful figure who is more interested in his own career than in being a father to his sons. Igby's relationship with his mother, Mimi, is strained due to her mental illness and substance abuse problems. His brother, Oliver, is a successful businessman who embodies everything Igby despises about their privileged upbringing.\n\nThroughout the film, Igby struggles to find his identity and purpose in life. He rebels against the expectations of his family and society, choosing to follow his own path instead. As he grapples with issues of love, loss, and betrayal, Igby learns valuable lessons about the importance of self-discovery and authenticity.\n\nIn the end, Igby must confront his past in order to move forward and create a future for himself. The film concludes with Igby making a decision that will shape the course of his life and relationships. \"Igby Goes Down\" is a poignant and thought-provoking film that explores the challenges of growing up and finding one's place in the world amidst a backdrop of privilege and dysfunction."
+                    ],
+                    "filename": "igby_goes_down-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 382.0 words or less.\n\n---\n\n**Title:**\n\nIgby Goes Down\n\n**Year:**\n\n2002",
+                    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Igby Goes Down"
+                }
+            }
+        },
+        {
+            "index": 16,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Inspector Gadget (1999)\n\nJohn Brown  is a security guard for a science lab operated by robotics expert Brenda Bradford  in Riverton, Ohio. He is the legal guardian of his 10-year-old niece, Penny , and they have a dog named Brain. He hopes to be a police officer, but is denied from the force by Chief Quimby . The multi-millionaire tycoon Sandford Scolex  attacks the lab, stealing valuable equipment for the \"Gadget Program\"- a cybernetics experiment run by Brenda and her father- and murdering Brenda's father Artemus  in the process. Despite the objections of his co-worker Thelma , John, who is smitten with her, chases after the car. The ensuing car crash brings a confrontation with Scolex, who uses a victory cigar explosive to blow up John and his beloved Chevette, leaving him for dead. However, a bowling ball in the front seat of his car flies into the air and through the sunroof of Scolex's limo, crushing his left hand. John is rushed to intensive care by Brenda. Based on Brenda's recommendation after witnessing his courage, John is revived and rebuilt using electronic parts and is dubbed \"Inspector Gadget\". He is given lessons by a meditating guru at the lab in relaxing his body and getting a firm grip on the workings of his gadgets- which are covered in a manual that is far too large for him to read in its entirety-, which ends in failure when he accidentally grasps the guru's testicles with a little too much force. Despite some previous success in capturing two criminals, he is assigned with many community service jobs, such as crossing guard, litter patrol, and rescuing kittens. Meanwhile, Scolex's assistant Kramer  builds a new, mechanical claw to replace his hand, and Scolex nicknames himself \"Claw\". Unlike the original cartoon series, his face is visible. He then tries using the stolen equipment to move a robot, but fails. When his henchman Sykes  calls it a lemon, he has him put it on . But this fails too  and he concludes that he needs Brenda's help. He hires her as his robotics specialist , and is amused to discover that John is the \"lucky duck they plucked for the Gadget Program\". Later, he gets a copy of Gadget's chip and inserts it into the earlier robot, which Kramer makes to look like John . Scolex names it RoboGadget. John investigates Scolex, but while Gadget sees a moisture alarm, he overlooks an audio one and is captured in the process. After informing him about his plans, Claw takes his control chip and destroys it, leaving him \"dead\". He then sends RoboGadget to destroy the city . While Sykes dumps Gadget's body in the junkyard, Brenda discovers through information given to her by RoboBrenda  that Scolex murdered her father. She and Penny race to save John. They discover them in the junkyard, and after Brenda kisses his cheek, he miraculously returns to life; showing that even though he is part machine, he still has a human heart. After a chase through the city between the Gadgetmobile  and Scolex's car, John battles RoboGadget on the Roberto Clemente Bridge. RoboGadget, despite his gadgets being more war machine rather than detective work , quite literally loses his head , and he tosses it in the river. Activating the \"Gadget Chopper\", he flies to the roof of Scolex Industries, where Scolex prepares to make his escape with Brenda when Gadget comes around. While the helicopter hat is disabled and Gadget is lifted over a high drop, he launches the inside of a pen into the helicopter's cockpit, hitting the close button on Claw's claw and crushing the joystick. Brenda and John crash to the plaza below, where police await to arrest him for all of RoboGadget's crimes. Claw and his cat try to escape, but is caged in by the GadgetMobile. A confused Sykes, brought to the light by Penny, confesses alongside her that RoboGadget was impersonating the real Gadget. John is made a hero in Riverton and earns Chief Quimby's respect. As Brenda and Gadget walk away, Scolex yells out, \"Arrivederci, Gadget! This is not good-bye. I'll get you next time, Gadget! I'll get you!\" The film closes with Brenda kissing Gadget, with fireworks coming from his right foot as a sign of arousal, and with the Gadgetmobile chasing a red Volkswagen. The credits show RoboBrenda doing a crazed aerobics class, the headless RoboGadget running around town, Sykes being congratulated at a minion recovery group, Penny speaking to Brain , and the Gadgetmobile's computer screen thanking the audience for watching his movie, even though they called it Inspector Gadget. He says things are working out with the red VW, whom he married at a drive-thru chapel. He's also expecting a sub-compact he's thinking of calling, \"The Love Bug\", which is in no way a plug for the Walt Disney Company, although he's sure the little one will say, \"I'm going to Disneyland!\", when he's old enough. Lastly, he asks everyone not to leave the theater just yet, as all the people in the credits make him look good."
+                    ],
+                    "filename": "inspector_gadget-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Inspector Gadget",
+                    "year": "1999"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1999 film \"Inspector Gadget,\" the story follows the bumbling security guard John Brown who dreams of becoming a police officer. One day, after a disastrous encounter with the evil Dr. Claw, John is critically injured and left for dead. However, he is saved by the brilliant scientist Brenda Bradford, who rebuilds him using state-of-the-art robotic technology, turning him into the super-powered Inspector Gadget.\n\nWith his new gadgets and abilities, Inspector Gadget is ready to take on Dr. Claw and his evil plans to conquer the city. Along with Brenda and her niece Penny, Inspector Gadget sets out to stop Dr. Claw's sinister plot, using his gadgets like extendable arms, roller skates, and helicopter propellers to fight crime.\n\nAs Inspector Gadget investigates Dr. Claw's activities, he discovers a network of evil henchmen and robots that threaten the safety of the city. With his quirky personality and unconventional methods, Inspector Gadget manages to outsmart his enemies and save the day, proving that even the most unlikely hero can make a difference.\n\nThroughout the film, Inspector Gadget struggles to come to terms with his new identity as a cyborg and navigate his relationships with Brenda and Penny. Despite his flaws and eccentricities, Inspector Gadget's heart is always in the right place, and he is determined to protect the city and those he cares about.\n\nIn a climactic showdown, Inspector Gadget faces off against Dr. Claw in a high-stakes battle that tests his limits and pushes him to the brink. With the help of Brenda, Penny, and his trusty gadgets, Inspector Gadget emerges victorious, defeating Dr. Claw and saving the city from destruction.\n\nIn the end, Inspector Gadget learns that being a hero is not about the gadgets or superpowers, but about courage, determination, and doing the right thing. With his newfound confidence and sense of purpose, Inspector Gadget embraces his role as a crime-fighting hero and continues to protect the city from any threats that may arise.\n\n\"Inspector Gadget\" is a fun and action-packed film that combines humor, adventure, and heartwarming moments to create an entertaining story of redemption and heroism. With its lovable characters, exciting action sequences, and positive messages, \"Inspector Gadget\" is a timeless family film that will delight audiences of all ages."
+                    ],
+                    "filename": "inspector_gadget-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 858.0 words or less.\n\n---\n\n**Title:**\n\nInspector Gadget\n\n**Year:**\n\n1999",
+                    "generation_prompt_uid": "e3421b8d9af7c950bdc6edbae3bdb176",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Inspector Gadget"
+                }
+            }
+        },
+        {
+            "index": 17,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Back to the Woods (1937)\n\nSet in colonial times, the Stooges are convicted criminals who are banished from England to the American colonies. When they arrive , they find that the colonists are starving because the local Indians will not let them use their hunting grounds without a fee of 5,000 shekels. A down payment has made, but it is not enough. The Stooges decide to go hunting anyway to help out the colony. Outside of Plymouth, they exchange their pilgrim hats with coonskin caps, except Curly, who wears a skunk hat. An accidental discharge by Curly’s blunderbuss yields a turkey, which gives them hope. Then, they spot what they think are a group of turkeys and fire their rather overcharged long blunderbusses at the group. The “group” turn out to be Indian headdresses, and the fired-upon Indians become agitated. Attempts at retaliatory fire fail as their guns are destroyed by the powder overcharge, and they are chased by the Indians. A wild goose chase ensues. The Stooges use a tree branch catapult to launch a rock, a mudpack, a fish, a hornet’s nest, and then a log at their antagonists. But in their escape, Larry is left behind, captured and tied to a tree, ready to be scalped. A passing woodpecker adds to his misery. Curly and Moe eventually rescue him, helped with pieces of hot coals on the Indian’s butts, and they escape in a canoe, “motorboat” style, having accidentally revived the bopped Indians with water."
+                    ],
+                    "filename": "back_to_the_woods-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Back to the Woods",
+                    "year": "1937"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1937 film \"Back to the Woods,\" the story follows a group of friends who decide to go on a camping trip deep into the woods to escape the hustle and bustle of city life. As they venture further into the wilderness, they encounter various challenges and obstacles that test their friendship and survival skills.\n\nThe group must rely on each other as they navigate through the dense forest, facing wild animals, harsh weather conditions, and limited resources. Tensions rise as they struggle to find their way back to civilization, and secrets are revealed that threaten to tear them apart.\n\nAmidst the chaos and danger, the friends also discover hidden strengths and bonds that bring them closer together. They learn valuable lessons about teamwork, trust, and the importance of friendship in times of adversity.\n\nAs they finally make their way back to safety, the group emerges stronger and more resilient than ever. \"Back to the Woods\" is a heartwarming tale of friendship, survival, and the power of nature to bring people together in unexpected ways."
+                    ],
+                    "filename": "back_to_the_woods-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 248.0 words or less.\n\n---\n\n**Title:**\n\nBack to the Woods\n\n**Year:**\n\n1937",
+                    "generation_prompt_uid": "71100496287e5f70bae81ed0067e4484",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Back to the Woods"
+                }
+            }
+        },
+        {
+            "index": 18,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Arena (1989)\n\nSteve Armstrong  is working as a short order cook on a space station somewhere in the galaxy. Overwhelmed by the volume of orders, he repeatedly fouls up and soon finds himself in a confrontation with an alien patron named Fang. After a fight which smashes up the diner and leaves the alien injured, Steve and his friend and co-worker Shorty  are fired. As it turns out, Fang is an Arena fighter, and his manager Quinn  confronts Steve. Amazed that a human could beat one of her best fighters, Quinn offers him a contract, but convinced that humans no longer have a place in the Arena, Steve refuses, intending to make his way back to Earth. Lacking sufficient money for a ticket, Shorty attempts to raise the cash by gambling in an underground casino. The game is raided by the authorities and in the confusion, Shorty pockets the money. Caught in the act by crime boss Rogor  and his enforcer Weezil , Shorty is held for ransom. Steve promises to pay off the debt, so he reluctantly returns to Quinn and agrees to a contract. Remarkably he wins his first match with an alien named Sloth in an upset. He continues fighting, determined to prove that a human has what it takes to be champion, and soon becomes a top contender. Despite Rogor's multiple attempts to cheat, Steve ultimately wins the championship from Rogor's top fighter, an alien named Horn ."
+                    ],
+                    "filename": "arena-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Arena",
+                    "year": "1989"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1989 film \"Arena,\" audiences are taken to a dystopian future where entertainment takes on a whole new level of intensity. Set in a world where gladiatorial combat has become a popular form of entertainment, the movie follows the story of a young man named Steve Armstrong who becomes a participant in these deadly games.\n\nSteve is a skilled fighter who is forced to compete in the brutal arena battles in order to survive and earn his freedom. As he navigates the dangerous world of the arena, Steve must not only face formidable opponents in the ring but also navigate the treacherous politics and corruption that surround the games.\n\nAs Steve rises through the ranks of the arena, he begins to uncover the dark secrets behind the organization that runs the games and the true motivations of those in power. Along the way, he forms alliances with fellow fighters and rebels, leading to a climactic showdown that will determine the fate of not only himself but the entire society that thrives on violence and bloodshed.\n\nFilled with action-packed fight scenes, suspenseful twists, and a gripping story of survival and rebellion, \"Arena\" is a thrilling sci-fi film that explores the darker side of human nature and the consequences of a society built on exploitation and entertainment at any cost."
+                    ],
+                    "filename": "arena-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 246.0 words or less.\n\n---\n\n**Title:**\n\nArena\n\n**Year:**\n\n1989",
+                    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Arena"
+                }
+            }
+        },
+        {
+            "index": 19,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: The Killing Jar (2010)\n\nAt a small diner, several people are gathered. Noreen, a waitress, Lonnie, a cop, Jimmy, the owner, Billy and Starr, a couple on their way to elope, John, a salesman, and Hank, a quiet man. The radio is turned on and tells of four family members murdered gruesomely a county over. Noreen is shocked, wondering how someone could kill children. She talks to John, who reveals his wife died two years ago. Then she goes back to the counter and talks to Lonnie and Hank, complaining about her lazy husband. The cop flirtatiously offers to run away with her, but is rebuffed. A man in a black leather jacket comes in and sits. When his order of steak is denied, he gets angry, and Jimmy yells at him to leave if he doesn't like it. Noreen not so stealthily gets Lonnie to the back, and suggests the man could be the killer. The cop does not believe her, and the man approaches them to ask for more coffee. Noreen spills it betraying her nervousness, and Hank asks Lonnie to check out the man. Questioned, the man is antagonistic, belittles Lonnie and just wants to be left alone. Angry, Lonnie pulls a gun and demands answers, asking if he drives a black truck, but Hank confirms the man drives a red truck. Lonnie regrets his actions and apologizes, and explains. The man pays and leaves. Hank smokes in the bathroom, and Noreen and John talk. But the man comes back with a shotgun and kills Lonnie and Jimmy. He points it Noreen's face, but doesn't shoot after Noreen begs him not to. The man assembles the five remaining characters and demands their wallets, keys and cellphones. Noreen tries to keep one, but gets caught. Hank is ordered to drag Lonnie's body out. He doesn't want to, but does after being threatened. Afterwards, he says there are likely only 8 bullets in his handgun and 7 shells in his shotgun, and Hank wants everyone to rush him, but John is too scared. Greene comes in, and the man threatens him, but Greene stays cool and flippant, asking him if he finished the job, and gives him a suitcase of money. He tries to leave, but the man won't let him, saying he's not Smith. Greene is handcuffed to a chair, and the man asks about Smith and the money, but Greene doesn't want to answer, so the man beats him. When the shotgun is aimed at his crotch, Greene comes clean: he's a businessman who was buying up land to build a shopping mall. But one man wouldn't sell, worried about his partner wanting his money, he hired Smith to persuade the holdout. Smith killed the man, his wife, and his kids, the deaths on the radio. With no heirs, Greene could buy the land from the bank. After this, the man kills him. The man now suggests that one of them is Smith, and wants to know who. John volunteers to talk, but the man wants to talk to Hank first. He beats Hank, and sits him down without handcuffs. John plans with Noreen to get the gun away. Hank reveals he's an exsoldier and claims he's married, but the man shows him his wallet with a condom inside. Hank doesn't want to talk about it, so he's shot in the leg. In pain, he admits he has sex with men at truckstops, and claims he's Smith if he'll stop shooting, but the man kills him. Noreen asks him why he's doing this, but he says he just came in to get something to eat and 'just snapped'. John  after threatened, admits to be Smith and turns back the questioning, revealing the man is an ex-military man who was booted on psychological issues. The situation is now reversed, the man bargaining with John, who refuses to let the man go without all the money. The man panics, kills the couple, shoots John, and when he goes for the kill, Noreen comes from behind and cuts his throat. John asks Noreen for the key, but Noreen pulls the handgun, not trusting him. John taunts her, saying she doesn't have the guts and she's out of bullets. But Noreen, good at counting, knows and proves she has one left, and kills John."
+                    ],
+                    "filename": "the_killing_jar-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Killing Jar",
+                    "year": "2010"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 2010 film \"The Killing Jar,\" a group of strangers find themselves trapped in a remote roadside diner during a violent thunderstorm. As tensions rise and suspicions grow, it becomes clear that not everyone is who they claim to be. The diner's owner, a gruff and mysterious man, holds the key to unlocking the truth behind the group's presence in the diner.\n\nAs the storm rages outside, the group is forced to confront their own pasts and secrets. One by one, they are picked off in a series of brutal and shocking murders. The survivors must band together to uncover the identity of the killer before it's too late.\n\nAs the night wears on, dark secrets are revealed and alliances are tested. The group must navigate a maze of deception and betrayal to uncover the truth behind the killings. In a shocking twist, the killer's true identity is finally revealed, leaving the survivors reeling from the realization of who among them is responsible for the bloodshed.\n\n\"The Killing Jar\" is a tense and gripping thriller that keeps viewers on the edge of their seats until the very end. With a cast of compelling characters and a plot full of twists and turns, this film is a must-watch for fans of psychological thrillers and mysteries."
+                    ],
+                    "filename": "the_killing_jar-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 724.0 words or less.\n\n---\n\n**Title:**\n\nThe Killing Jar\n\n**Year:**\n\n2010",
+                    "generation_prompt_uid": "b4a0c21459503bc4dde5319edc54f0f5",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Killing Jar"
+                }
+            }
+        },
+        {
+            "index": 20,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Viva Max! (1969)\n\nRiding a white horse, Brigadier General Maximilian Rodrigues de Santos of the army of Mexico arrives at a United States border crossing with a small company of soldiers on foot. He claims to be leading his men to Laredo, Texas to march in a parade on George Washington's birthday. The soldiers' destination is actually San Antonio, where the general intends to carry out a quixotic mission to \"re-occupy\" the Alamo. None of his men are aware of his plans, but without argument they do whatever they are told by Max's devoted Sergeant Valdez. Disguising himself in an ill-fitting suit as a tourist, Max goes on ahead and takes a guided tour of the Alamo. In the gift shop, he encounters an attractive young blonde, Paula, who, when she isn't selling postcards, is a radical student activist. He returns to his men and, after racing through the streets of San Antonio, they seize control of the fort, taking Paula and two other Americans as their prisoners. Max places a call to the local authorities, telling police chief Sylvester that the flag of Mexico now flies above this piece of hallowed Texas ground. Sylvester doesn't take him seriously at first, but quickly discovers that Max is an actual Army general and that everything else he has claimed is true. The chief goes to the Alamo to meet Max in person, using the passwords \"John Wayne\" and \"Richard Widmark\" to gain entry. Max instructs him to contact the Pentagon and report the fort to be back under Mexico's control. As Max will only negotiate with another general, Sylvester calls on Billy Joe Hallson, a brigadier general of the state's National Guard, whose day job is running a mattress store. Max is unimpressed. A low-level bureaucrat from Washington condescendingly promises that if Max leaves quietly the United States will not take this \"invasion\" too seriously and mocks Mexico as \"not exactly the Soviet Union.\" To which Max announces he will hold the Alamo for thirteen days in response to the snub. Paula sees Max as a heroic revolutionary but he tells her his only reason for the invasion was to impress his girlfriend back home who told him that his men wouldn't follow him into a brothel. A three-star U.S. Army general named Lacomber arrives to take charge. A company of his men scale the wall and enter the fort, but without ammunition, so as to avoid bloodshed and an international incident. It turns out Max's men are not carrying ammo, either, but the Americans fall for Max's bluff to open fire and promptly surrender. Max celebrates by doing a Mexican hat dance. Paula brings the general back to earth by explaining that she has learned his soldiers follow him only because Valdez shoots any who do not obey orders. Disheartened, Max decides to wave the white flag of surrender and go peacefully. A private anti-communist militia, who think Max is a front for the Chinese, arrives just as Max is surrendering to Lacomber. Their leader, whose aunt is one of the hostages, shoots Max in the shoulder. Max bravely orders his unarmed men to attack the armed militia. His men, for the first time, willingly follow his orders and the militia flee as their leader is arrested. Max then tells the U.S. authorities that he intends to \"advance\" -- to Mexico. Satisfied at that, Sylvester, Lacomber and Hallson let the Mexican general get back on his horse. He rides out of town triumphantly with his men chanting proudly: \"Viva Max!\""
+                    ],
+                    "filename": "viva_max-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Viva Max!",
+                    "year": "1969"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1969 film \"Viva Max!\", the plot revolves around a Mexican general named Maximilian Rodrigues De Santos (played by Peter Ustinov) who decides to reclaim the Alamo, a historic fort in Texas, as Mexican territory. The film is set in the aftermath of the Mexican-American War, where the Alamo was taken by the United States.\n\nGeneral Max, a charismatic and eccentric leader, is determined to restore Mexican pride and honor by retaking the Alamo. He believes that by reclaiming the fort, Mexico can assert its dominance over the United States and show the world that they are not to be underestimated.\n\nWith the support of his loyal followers, General Max leads a group of Mexican soldiers on a mission to cross the border and take back the Alamo. However, their plan is met with resistance from the local townspeople, the American military, and even some of General Max's own men who begin to doubt the feasibility of the mission.\n\nAs General Max and his troops make their way towards the Alamo, they encounter various obstacles and challenges along the way. They face opposition from the American authorities who are determined to stop them from reaching their goal. The clash of cultures and ideologies between the Mexicans and the Americans adds tension and humor to the story.\n\nThroughout the film, General Max's leadership skills are put to the test as he must navigate through the political and social complexities of the situation. He must also deal with personal conflicts within his own ranks, as some of his soldiers begin to question his motives and leadership.\n\nAs the Mexican soldiers reach the Alamo, a showdown ensues between them and the American forces stationed there. The climax of the film culminates in a dramatic and comedic battle between the two sides, with General Max at the center of it all.\n\nIn the end, \"Viva Max!\" explores themes of national pride, cultural identity, and the consequences of historical conflicts. Through the character of General Max, the film highlights the complexities of leadership and the importance of standing up for one's beliefs, even in the face of overwhelming odds.\n\nOverall, \"Viva Max!\" is a satirical and entertaining film that combines elements of comedy, drama, and action to tell a story that is both lighthearted and thought-provoking. It offers a unique perspective on history and nationalism, while also providing a humorous take on the age-old rivalry between Mexico and the United States."
+                    ],
+                    "filename": "viva_max-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 590.0 words or less.\n\n---\n\n**Title:**\n\nViva Max!\n\n**Year:**\n\n1969",
+                    "generation_prompt_uid": "2f7295a6941cd3aa9044c4b209383821",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Viva Max!"
+                }
+            }
+        },
+        {
+            "index": 21,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Samson (1961)\n\nA dark coming-of-age film, Samson follows its Jewish protagonist  from an anti-Semitic private school to a prison, then into a Jewish ghetto, and finally over the ghetto wall to the outside world. Wajda uses this journey as a means to explore expressionist cinematography and the weighty issues facing the Jewish people. The construction of the Jewish ghetto is communicated through a single, stationary shot. A shabbily dressed mass is clustered in front of the camera, and a pair of hands with a hammer and nails secures one board at a time, until the shot of people has been replaced with a shot of a wall. Through minimalism and simplicity, Wadja establishes a separation between the world of the impoverished Jew and the world outside the ghetto. The viewer looking on as the ghetto walls block the view of what happening inside, is made to feel detached from the horror inside. One question Wajda raises is that of Jewish solidarity and the guilt of being saved while one's brethren are suffering. Samson escapes from the Jewish ghetto but immediately wants to return. Although he could enjoy a comfortable life of cocktails and women, he'd rather be in the ghetto, collecting corpses off the streets. Samson argues that his place is with the Jews, that he should suffer alongside them. A fake-blond beauty offers a different take. She confides to Samson that she's Jewish and has been concealing her roots in order to avoid the ghetto. Although she argues passionately, Samson's emotional strength inevitably inspires her to accept her fate as a Jew. When Samson is bruised and exhausted, lying on the ground, he is encouraged by a close friend who says, “one man can suffer such blows and rise again.” For Wajda, this is the greatness displayed in Jewish history. Samson is a scrawny, haggard young man, who says very little and might almost border on boringly average; but he has the ability to rise again despite any blow, proving his strength of spirit."
+                    ],
+                    "filename": "samson-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Samson",
+                    "year": "1961"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"Samson\" released in 1961, the plot follows the story of the biblical character Samson, known for his incredible strength. The film depicts Samson's journey from his birth, where his mother is visited by an angel who foretells his destiny, to his rise as a powerful leader of the Israelites. \n\nSamson's strength comes from his long hair, which he vows to never cut as a sign of his devotion to God. However, his enemies, the Philistines, are determined to uncover the source of his power and use it against him. Delilah, a beautiful woman who Samson falls in love with, is bribed by the Philistines to discover the secret of his strength.\n\nDespite his love for Delilah, Samson refuses to reveal the truth to her. But eventually, Delilah's persistence and manipulation lead Samson to reveal the secret of his hair. Betrayed by Delilah, Samson is captured by the Philistines, who cut off his hair and blind him. \n\nHowever, even in his weakened state, Samson's faith in God remains strong. He prays for strength one last time and is granted the ability to bring down the temple of the Philistines, killing both himself and his enemies in a final act of sacrifice and redemption.\n\nThe film \"Samson\" is a classic tale of betrayal, redemption, and the power of faith. It explores themes of love, loyalty, and the consequences of succumbing to temptation. Through Samson's story, viewers are reminded of the importance of staying true to one's beliefs, even in the face of adversity. The film's powerful message resonates with audiences of all ages, making it a timeless story that continues to captivate audiences over half a century after its release."
+                    ],
+                    "filename": "samson-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 336.0 words or less.\n\n---\n\n**Title:**\n\nSamson\n\n**Year:**\n\n1961",
+                    "generation_prompt_uid": "2aace1bf213f0e5fa94b94a36aaa9d83",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Samson"
+                }
+            }
+        },
+        {
+            "index": 22,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: The Chaser (2008)\n\nEom Joong-ho is a dishonest ex-detective turned pimp who is in financial trouble because two of his girls have gone missing. One night he sends Mi-Jin, one of his few remaining girls, to a customer. But he later realises that this is the same person who was the last to see his missing girls. Believing that this man is reselling his women, he goes to look for Mi-Jin. On the way he contacts his old police task force to ask for some help. But they cannot assist because the Mayor of Seoul, who they are guarding, has just been attacked with human feces during a walkabout. The police are now preoccupied with a media storm because they have suffered humiliation for failing to protect the mayor. Mi-Jin awakes tied up in a dingy bathroom. Her \"customer\", Je Yeong-min, comes in with a bag of tools. He calmly informs her that a previous victim had her tongue cut out for screaming too much. Using a hammer, he tries to drive a chisel into her head. But she resists and he hurts his hand; enraged, he hits her on the back of the head with the hammer. Moments later, callers from the local church arrive at the house inquiring about its owner, Mr Park. Yeong-min has no time to finish off Mi-jin so he invites the elderly couple in and butchers them. But while searching the area for a parking spot in an attempt to ditch their car, he collides with Joong-ho's vehicle in an alleyway. Joong-ho senses that the man, Yeong-min, is hiding something because he will not give him his phone number so that they can sort out the insurance. Joong-ho calls the customer's cellphone, establishing this is the man he wants. Yeong-min tries to run away but is caught and badly beaten by Joong-ho. On returning to the collision, both men are arrested by a suspicious local cop. At the station, Yeong-min casually admits that he has killed up to nine people but hints that Mi-jin could still be alive. A fracas starts when competing divisions all want to investigate the previous high-profile unsolved murders in the area. The chief arrives and throws the book at everyone because of Yeong-min's injuries. He is concerned that the beating will be picked up by the media following the night's earlier mayoral incident. Despite his confession, the police have no physical evidence, so they cannot detain Yeong-min for longer than 12 hours. In order to get some, Joong-ho goes to Mi-jin's apartment to collect DNA samples to match against the blood found on the suspect's clothing. In the apartment, he discovers Eun-ji, Mi-Jin's daughter, home alone. Reluctantly he takes her with him while he follows up a lead in Yeong-min's home town. There he learns the suspect had been sent to prison for three years for attacking his own nephew. They return to the area where Mi-jin went missing. Following a lead, Joong-ho finds a shabby room where Yeong-min had once been living. On the walls are a host of religious drawings. But while Joong-ho is away, Eun-ji wanders off, following a woman who looks like her mother. Off camera, she is apparently knocked down by a delivery driver on a moped in a hit and run. After a frantic search, Joong-ho finds her and takes her to a hospital. He signs the forms as her father. But now time has run out for the police. The prosecutor's office order that Yeong-min be released because the police have no evidence. Besides, the reopening of high-profile murder cases at a time when the police have been publicly shamed will be ridiculed by the media. The prosecutor tells the police chief that the arrest, the suspect's suspicious injuries and rapid confession will be portrayed as the police's transparent attempt to save face. To avoid political fallout, Yeong-min is released without charge. At the same time, the chief orders the arrest of Joong-ho as a scapegoat because he attacked the suspect. Despite being taken, the former cop escapes from the police van to continue looking for Mi-jin. Meanwhile, unknown to anyone, Mi-jin has freed herself and escaped from the house and the walled garden full of human remains. Badly injured but lucid, she finds help at a nearby corner shop. As Yeong-min approaches his house, he stops at the same shop to buy cigarettes. The shop keeper innocently tells him what has happened to Mi-jin and that there is a \"maniac\" loose. Taking a hammer, he kills the shop owner before killing and decapitating Mi-jin. Arriving shortly thereafter, Joong-ho finds the street cordoned off by the police and the store a bloodbath. The police, now realising that they have again been humiliated, throw everything into the search for Yeong-min. Meanwhile Joong-ho, who is distraught at what has happened, follows up his detective's hunch and visits the local church, a link between the house callers and the car that Yeong-min had been driving the night of the accident. Standing outside the church, Joong-ho notices that the statue of the crucified Jesus matches the drawings he had seen in the room. Inquiries with the deacon lead him to the sculpture \"assistant\" who was staying at Mr Park's house. On arrival, Joong-ho discovers a now smartly-dressed Yeong-min, carrying his bag of tools, just about to depart. A massive fight ensues in which a fish tank containing Mi-Jin's head and body parts is smashed. Eventually Joong-ho prevails but just as he is about to bring a hammer down on Yeong-min's skull the police burst in and restrain the former policeman. As Joong-ho is pushed face down to the ground, he looks into the dead eyes of the prostitute and sees images of Mi-Jin and her daughter. The film ends with Joong-ho sitting silently in the hospital room alongside Eun-ji's bed. He takes her hand in his own."
+                    ],
+                    "filename": "the_chaser-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Chaser",
+                    "year": "2008"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"The Chaser\" is a South Korean thriller film that follows the story of Joong-ho, a former detective turned pimp, who becomes desperate when his girls start mysteriously disappearing. As he investigates the disappearances, he begins to suspect that a client named Young-min is responsible. Joong-ho discovers that Young-min is a sadistic serial killer who has been murdering his girls. \n\nDetermined to catch Young-min and save his remaining girls, Joong-ho sets out on a dangerous mission to track him down. With the help of an ex-colleague and a determined young prostitute named Mi-jin, Joong-ho races against time to find Young-min before it's too late.\n\nAs Joong-ho gets closer to capturing Young-min, he discovers that the killer has been trafficking his victims to China. With the clock ticking, Joong-ho must navigate the dangerous underworld of human trafficking and confront his own dark past in order to bring Young-min to justice.\n\nThe film is a tense and gripping thriller that explores themes of redemption, justice, and the lengths one will go to protect those they care about. With intense action sequences, unexpected twists, and a powerful central performance from Kim Yoon-seok as Joong-ho, \"The Chaser\" is a thrilling and thought-provoking film that will leave viewers on the edge of their seats until the very end."
+                    ],
+                    "filename": "the_chaser-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 981.0 words or less.\n\n---\n\n**Title:**\n\nThe Chaser\n\n**Year:**\n\n2008",
+                    "generation_prompt_uid": "1f954faa08091689109b8c997782cebe",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Chaser"
+                }
+            }
+        },
+        {
+            "index": 23,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Hot Blood (1956)\n\nMarco Torino, king of the gypsies in southern California, is terminally ill. He wants his younger brother to succeed him, but Stephano is determined to become a dancer instead. After turning a potential employer against him, Marco arranges a marriage for his brother to Annie Caldash, a sexy gypsy. Stephano angers her father Theodore and brother Xano by resisting Annie's charms and refusing to marry her. He is in love with a blonde named Velma. Annie comes up with a scheme. Her father wants her to be paid a rich dowry from Stephano's, then run off before the marriage. Stephano's brother is trying to raise money for a trip to \"the promised land.\" She persuades Stephano to stage a phony wedding at which she will faint during the ceremony, whereupon they will split the dowry and teach their greedy relatives a lesson. But it is Stephano she ends up fooling, by going through with the marriage. An angry Stephano leaves with Velma, finding work in cheap dance clubs. He begins to miss Annie. He returns to the gypsy camp to find Marco and her together, surprisingly happy. Mistakenly believing they are now together and pulling a swindle, Stephano objects, but Marco explains that he is merely enjoying the last precious days of his life. Stephano agrees to become the new gypsy king, with Annie his queen."
+                    ],
+                    "filename": "hot_blood-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Hot Blood",
+                    "year": "1956"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1956 film \"Hot Blood,\" the story follows a passionate romance between a fiery Italian woman named Angela and a rugged American rancher named Jeff. Set against the backdrop of the beautiful California landscape, their love is tested by cultural differences, family expectations, and personal demons.\n\nAngela's fiery temperament clashes with Jeff's stoic demeanor, creating tension and passion in equal measure. Their love affair is complicated by Angela's overbearing father, who disapproves of their relationship. As the couple navigates the obstacles in their path, they must confront their own insecurities and fears in order to find true happiness.\n\nAmidst the drama and intensity of their love affair, \"Hot Blood\" explores themes of cultural identity, family dynamics, and the power of love to overcome all obstacles. The film captures the raw emotions and complexities of a relationship that defies societal norms and expectations.\n\nFilled with dramatic confrontations, emotional revelations, and sweeping landscapes, \"Hot Blood\" is a classic tale of love and passion that transcends time and borders."
+                    ],
+                    "filename": "hot_blood-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nHot Blood\n\n**Year:**\n\n1956",
+                    "generation_prompt_uid": "25f211d561e48c823de2791c70bc36ed",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Hot Blood"
+                }
+            }
+        },
+        {
+            "index": 24,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Title: Street Fighter Alpha (2000)\n\nRyu is still contemplating the death of his master, Gouken, while at the same time experiencing trouble with the {{nihongo}}, an evil energy which Gouken's brother, Akuma, succumbed to a long time ago. While in the city, Ryu fights off a few agents working for Shadaloo, gaining the attention of Interpol agent Chun-Li, who does some background research and realizes Ryu is the man who beat Sagat, the Muay Thai Champion, many years ago. Also catching sight of Ryu is aspiring martial artist Sakura, who becomes fascinated with Ryu and vows to track him down and become his student. In Japan, Ryu is approached by a mysterious woman, Rose, who questions him briefly about his hold over the Dark Hadou and reason for fighting. While visiting Gouken's grave, Ryu meets his old friend, Ken. They are both approached by a young boy named Shun, who claims that he is Ryu's long-lost brother. According to Shun, their mother raised Shun in Brazil until her recent death, and she sent Shun to find Ryu before she died. Ken is skeptical, but Ryu decides to take Shun in and notices the boy's potential as a fighter. Ken and Shun decide to enter an underground fighting tournament, but Ryu declines. On the way, they are harassed by some street thugs. Ryu and Shun fight them off effortlessly, but Ryu also notices a rather violent and sadistic streak in Shun, whom he has to punch to stop him killing one of the thugs. Ken, meanwhile, finds Sakura in a bar and agrees to take her to Ryu, although he is too late to enter the tournament, much to his chagrin. Inside the building, Ryu is found by Chun-Li, who managed to locate him. In the tournament, watched by its enigmatic organiser, Dr. Sadler, Shun is pitted against the brutal wrestler, Zangief. Shun briefly manages to pummel Zangief with his superior speed, but the Dark Hadou catches up with Shun, distracting him long enough to receive a brutal beating from Zangief. Ryu steps in and briefly fights Zangief, but he too is overcome by the Dark Hadou and he almost kills Zangief with a Dark Hadouken, which misses Zangief but causes the building to start collapsing. As Ken takes an injured Sakura to safety, Ryu is confronted by a huge man, Rosanov, who proves to be more than a match for both Ryu and Chun-Li combined. Just as Rosanov prepares to knock Ryu unconscious, Shun steps in and takes the blast. Ryu succumbs to his rage and obliterates Rosanov with a Shinku Hadouken. However, while Ryu is distracted, Shun is abducted by Shadaloo agents. By now, Ryu has completely lost the will to fight. However, Rose appears before him once again, compelling him to save Shun from Sadler and himself. Ryu accepts, but first goes to see Akuma, accompanied by Chun-Li, in his secluded home in the mountains. Once there, Akuma, under the belief that Ryu has come to challenge him at last, attempts to goad him into succumbing to the Dark Hadou, but Ryu refuses, and Akuma orders him to leave. Ryu manages to ask Akuma if he is Shun's father, but Akuma denies it. With this cleared, Ryu decides to travel to Sadler's hideout and rescue Shun himself, accompanied by Ken, Chun-Li, Guy, Dan, Dhalsim, Birdie, Adon, Rolento and Sodom. As the other fighters battle outside Sadler's lab in the arena, Ryu, Ken and Chun-Li sneak inside to find Shun. The first winner is Birdie, and he is led into a trap which will strip him of his fighting potential, though he is freed by Ken and Chun-Li, who break the other fighters out. However, they are confronted by a very alive Rosanov in the corridor, who makes quick work of the three of them despite their efforts, blowing that part of the hideout to smithereens. Ryu arrives on the scene and fights Rosanov again, realizing that Rosanov is actually an android, and this one is really Shun, who was working for Sadler and luring Ryu into a trap. Shun/Rosanov attempts to goad Ryu into using the Dark Hadou, since he is connected to Sadler and every blow which is landed on Shun/Rosanov will increase Sadler's fighting potential and make him stronger. Ryu refuses, but is eventually pushed over the edge when Shun/Rosanov beats Ken mercilessly and Ken uses the last of his strength for a Shoryuken which does nothing more than dislocate the android's jaw. Finally, Ryu succumbs and fires a Dark Hadouken at the android, freeing Shun and destroying Rosanov once and for all. With this sudden increase in power, Sadler bursts out of his lab and finally emerges on the battlefield. With Ryu exhausted, Sadler easily takes the upper hand and pummels Ryu around. Ryu prepares to succumb to the Dark Hadou once again, even though Ken and Shun implore him not to. Sadler overwhelms Ryu with a Hadouken, which nearly kills him. Though only Ryu can see her, Rose intervenes, informing Ryu that \"you haven't drawn the death card yet\". Inspired, Ryu snaps out of the vision and returns to his normal state and fires a normal, Shinku Hadouken directly into a distracted Sadler, who crumbles into dust while openly wondering how Ryu could still surpass him. Shun's injuries, however, are too severe, and as he lies dying, he reveals that he lied to Ryu about being his brother and worked with Sadler so as to raise money for his mother, who still died. As Shun succumbs, Ryu vows never to use the Dark Hadou ever again. The movie's final scenes depict the fighters returning to their everyday lives. Sakura, now fully recovered, decides to continue training so that one day she may be able to fight Ryu. In a distant area near the sea, Ryu is seen sparring with Akuma."
+                    ],
+                    "filename": "street_fighter_alpha-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Street Fighter Alpha",
+                    "year": "2000"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the year 2000, \"Street Fighter Alpha\" is a martial arts action film that follows the story of Ryu, a skilled martial artist seeking to become stronger. Set in a world where martial artists have incredible abilities, Ryu trains tirelessly to master his fighting skills and unlock his full potential.\n\nThe film begins with Ryu wandering the streets, searching for worthy opponents to test his abilities. Along the way, he encounters various fighters with unique fighting styles and powers, including Ken Masters, a fellow martial artist and friend. Together, Ryu and Ken engage in friendly sparring matches, pushing each other to become stronger.\n\nAs Ryu continues his journey, he catches the attention of the mysterious and powerful M. Bison, the leader of the criminal organization Shadowlaw. Intrigued by Ryu's potential, M. Bison decides to test his skills by sending his top fighters to challenge him. Ryu faces off against a series of formidable opponents, including the deadly assassin Vega and the cyborg warrior Blanka, each with their own fighting techniques and powers.\n\nDespite facing overwhelming odds, Ryu remains determined to prove himself and reach his full potential. Along the way, he learns valuable lessons about discipline, perseverance, and the true meaning of strength. Through his battles, Ryu discovers the importance of inner peace and balance in mastering his martial arts skills.\n\nAs Ryu's reputation grows, he attracts the attention of other fighters from around the world, each eager to challenge him and test their skills. Among them is Chun-Li, a skilled martial artist and Interpol agent who is investigating Shadowlaw's criminal activities. Chun-Li teams up with Ryu to take down M. Bison and his organization, leading to an epic showdown between good and evil.\n\nIn the final confrontation, Ryu faces off against M. Bison in a fierce battle that tests his limits and pushes him to his breaking point. With the fate of the world hanging in the balance, Ryu must tap into his inner strength and unleash his full potential to defeat M. Bison and restore peace to the world.\n\nThrough his journey, Ryu learns that true strength comes from within and that the power of friendship, determination, and self-belief can overcome any obstacle. As the credits roll, Ryu continues his training, knowing that his journey as a martial artist is far from over.\n\n\"Street Fighter Alpha\" is a thrilling martial arts film that captures the spirit of the classic video game series, delivering intense action sequences, dynamic fight choreography, and a compelling story of self-discovery and redemption. With its iconic characters, high-energy fight scenes, and messages of honor and courage, the film is sure to entertain fans of the \"Street Fighter\" franchise and martial arts enthusiasts alike."
+                    ],
+                    "filename": "street_fighter_alpha-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 975.0 words or less.\n\n---\n\n**Title:**\n\nStreet Fighter Alpha\n\n**Year:**\n\n2000",
+                    "generation_prompt_uid": "40709e746f03a0e81ae0cd93895e8b3d",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Street Fighter Alpha"
+                }
+            }
+        }
+    ]
+}
