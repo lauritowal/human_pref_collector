@@ -174,9 +174,10 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    return build_tree("/app/results/backend")
+    return build_tree(Path("/app/backend/results"))
 
 def build_tree(directory):
+    breakpoint()
     tree = {'name': directory.name, 'children': []}
     try:
         for item in directory.iterdir():
