@@ -174,17 +174,39 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    return build_tree(Path("/app/backend/results"))
+    dir = RESULTS_DIR
+    return build_tree(RESULTS_DIR)
 
-def build_tree(directory):
-    breakpoint()
+# def build_tree(directory):
+#     tree = {'name': directory.name, 'children': []}
+#     try:
+#         for item in directory.iterdir():
+#             if item.is_dir():
+#                 tree['children'].append(build_tree(item))
+#             else:
+#                 tree['children'].append({'name': item.name, 'path': item.relative_to(dir).as_posix()})
+#     except OSError:
+#         pass
+#     return tree
+
+
+def build_tree(directory, root=None):
+    """
+    Build a nested dictionary representing the directory tree structure.
+    :param directory: The directory to traverse
+    :param root: The root directory for relative path calculations
+    :return: Dictionary representing the directory tree
+    """
+    if root is None:
+        root = directory
+
     tree = {'name': directory.name, 'children': []}
     try:
         for item in directory.iterdir():
             if item.is_dir():
-                tree['children'].append(build_tree(item))
+                tree['children'].append(build_tree(item, root))
             else:
-                tree['children'].append({'name': item.name, 'path': item.relative_to(dir).as_posix()})
+                tree['children'].append({'name': item.name, 'path': item.relative_to(root).as_posix()})
     except OSError:
         pass
     return tree
