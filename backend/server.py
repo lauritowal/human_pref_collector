@@ -11,11 +11,11 @@ from flask_cors import CORS
 BASE_DIR = Path(__file__).resolve().parent
 # Set the static folder relative to the base directory
 FRONTEND_DIR = BASE_DIR / '../frontend/app/build'
-DATA_DIR = BASE_DIR / '../../data'
+DATA_DIR = BASE_DIR / '../data'
 
 # Define the directory containing the results
 RESULTS_DIR = BASE_DIR / './results'
-PARTITION_BY = 3
+PARTITION_BY = 10
 
 app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
@@ -46,7 +46,6 @@ def load_human_files(directory):
             data = json.load(file)
             data['filename'] = file_path.stem
             descriptions.append(data)
-
     return descriptions
 
 def load_llm_files(directory, category):
@@ -64,6 +63,10 @@ def load_llm_files(directory, category):
                 descriptions.append(data)
             elif category == 'paper':
                 descriptions.append(data)
+            elif category == 'movie':
+                descriptions.append(data)
+            elif category == 'proposal':
+                descriptions.append(data)
             elif category == 'demo':
                 descriptions.append(data)
     return descriptions
@@ -73,7 +76,7 @@ def count_words(text):
     return len(text.strip().split()) if text else 0
 
 
-def is_valid_description(description, min_words=10):
+def is_valid_description(description, min_words=100):
     """
     Determine if a description is valid based on word count.
     :param description: The text description to validate
@@ -96,12 +99,17 @@ def get_descriptions():
 
     # Load human descriptions
     human_descriptions = load_human_files(base_directory / "human")
+
+    # shuffle with seed
+    import random
+    random.seed(10)
+    random.shuffle(human_descriptions)
     
     # get only a part of the human descriptions
     human_descriptions = human_descriptions[::PARTITION_BY]
 
     # Load the appropriate LLM subfolder based on the model
-    llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category == 'product' else "gpt35turbo1106")
+    llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category != "paper" else "gpt35turbo1106")
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_llm_files(llm_directory, category)
 
@@ -134,7 +142,7 @@ def get_descriptions():
                     'human': human_text,
                     'llm': llm_text
                 })
-
+    
     return jsonify(paired_descriptions)
 
 
@@ -167,16 +175,11 @@ def save_results():
 
 @app.route('/test', methods=['GET'])
 def test():
-    # Return a list of files in the data folder for "paper/human"
-    data_folder = DATA_DIR / 'paper' / 'human'
-    return jsonify([f.name for f in data_folder.iterdir() if f.is_file()])
-
-# @app.route('/')
-# def index():
-#     return render_template('index.html')
+    return "test"
 
 @app.route('/tree')
 def tree():
+    dir = DATA_DIR
     def build_tree(directory):
         tree = {'name': directory.name, 'children': []}
         try:
@@ -184,11 +187,11 @@ def tree():
                 if item.is_dir():
                     tree['children'].append(build_tree(item))
                 else:
-                    tree['children'].append({'name': item.name, 'path': item.relative_to(RESULTS_DIR).as_posix()})
+                    tree['children'].append({'name': item.name, 'path': item.relative_to(dir).as_posix()})
         except OSError:
             pass
         return tree
-    results_tree = build_tree(RESULTS_DIR)
+    results_tree = build_tree(dir)
     return jsonify(results_tree)
 
 @app.route('/download/<path:filepath>')
