@@ -8,6 +8,6 @@
     "llm_engine": "gpt-3.5-turbo",
     "generation_prompt_uid": "cdbcb6267390216c9a35e429e6ab6c51",
     "generation_prompt_nickname": "from_title_and_year",
-    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 229.0 words or less.\n\n---\n\n**Title:**\n\nRescue Dawn\n\n**Year:**\n\n2006",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 229.0 words or less.---**Title:** Rescue Dawn**Year:** 2006",
     "include_year": false
 }

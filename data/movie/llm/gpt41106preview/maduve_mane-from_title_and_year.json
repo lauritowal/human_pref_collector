@@ -8,6 +8,6 @@
     "llm_engine": "gpt-4-1106-preview",
     "generation_prompt_uid": "23cce7a2669de698e50a741c9b981319",
     "generation_prompt_nickname": "from_title_and_year",
-    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 417.0 words or less.\n\n---\n\n**Title:**\n\nMaduve Mane\n\n**Year:**\n\n",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 417.0 words or less.---**Title:** Maduve Mane**Year:**",
     "include_year": false
 }

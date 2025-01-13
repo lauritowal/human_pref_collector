@@ -8,6 +8,6 @@
     "llm_engine": "gpt-3.5-turbo",
     "generation_prompt_uid": "e7a5935e21717fc8edca0d81974a4762",
     "generation_prompt_nickname": "from_title_and_year",
-    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie.\n\nPlease limit the response to 209.0 words or less.\n\n---\n\n**Title:**\n\nDead Ringer\n\n**Year:**\n\n1964",
+    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 209.0 words or less.---**Title:** Dead Ringer**Year:** 1964",
     "include_year": false
 }
