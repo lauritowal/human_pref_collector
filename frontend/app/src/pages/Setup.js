@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { TextField, Button, MenuItem, FormControl, InputLabel, Select, Typography, Box, LinearProgress } from '@mui/material';
 
-const Setup = - => {
+const Setup = () => {
     const categories = ["movie", "demo"]; // also "paper", "product", 
     const models = ["gpt3_5", "gpt4"];
     const [selectedCategory, setSelectedCategory] = useState(categories[0]);
