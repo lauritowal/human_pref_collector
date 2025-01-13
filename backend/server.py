@@ -59,6 +59,9 @@ def load_llm_files(directory, category):
         with open(file_path, 'r', encoding='utf-8') as file:
             try:
                 data = json.load(file)
+                if category == "movie" and "Title:" in data["descriptions"]:
+                    print(f"Skipping file: {file_path}")
+                    continue
             except:
                 print(f"Error loading file: {file_path}")
                 continue
