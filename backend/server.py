@@ -57,7 +57,12 @@ def load_llm_files(directory, category):
     descriptions = []
     for file_path in directory.glob('*.json'):
         with open(file_path, 'r', encoding='utf-8') as file:
-            data = json.load(file)
+            try:
+                data = json.load(file)
+            except:
+                print(f"Error loading file: {file_path}")
+                continue
+        
             data['filename'] = file_path.stem
             if category == 'product' and '_details' in str(data['filename']) and not 'jsonify' in str(data['filename']):
                 descriptions.append(data)
