@@ -15,7 +15,9 @@ DATA_DIR = BASE_DIR / '../data'
 
 # Define the directory containing the results
 RESULTS_DIR = BASE_DIR / './results'
-PARTITION_BY = 10
+MAX_NUM = 25
+
+CHECK_FOR_SIMILAR_LENGTH = False
 
 app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
@@ -84,6 +86,27 @@ def count_words(text):
     return len(text.strip().split()) if text else 0
 
 
+def is_similar_length(llm_description, human_description, max_len_diff=35):
+    """
+    Determine if the length of the LLM description is similar to the human description
+    """
+    llm_length = count_words(llm_description)
+    human_length = count_words(human_description)
+
+    if human_length == 0:
+        return False
+    
+    diff = abs(llm_length - human_length)
+
+    if diff > max_len_diff:
+        print("llm_length", llm_length)
+        print("human_length", human_length)
+        print("diff", diff)
+
+
+    return diff <= max_len_diff 
+
+
 def is_valid_description(description, min_words=100):
     """
     Determine if a description is valid based on word count.
@@ -113,8 +136,6 @@ def get_descriptions():
     random.seed(1)
     random.shuffle(human_descriptions)
     
-    # get only a part of the human descriptions
-    human_descriptions = human_descriptions[::PARTITION_BY]
 
     # Load the appropriate LLM subfolder based on the model
     llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category != "paper" else "gpt35turbo1106")
@@ -145,11 +166,19 @@ def get_descriptions():
 
             llm_desc = llm_text.get('descriptions', [''])[0] or llm_text.get('detail', {}).get('descriptions', [''])[0]
 
-            if is_valid_description(human_desc) and is_valid_description(llm_desc):
+            valid_human_desc = is_valid_description(human_desc)
+            valid_llm_desc = is_valid_description(llm_desc)
+            similar_length = is_similar_length(llm_desc, human_desc) if CHECK_FOR_SIMILAR_LENGTH else True
+            if valid_human_desc and valid_llm_desc and similar_length:
                 paired_descriptions.append({
                     'human': human_text,
                     'llm': llm_text
                 })
+            else:
+                print(f"Invalid description: {human_title}, valid_human_desc: {valid_human_desc}, valid_llm_desc: {valid_llm_desc}, similar_length: {similar_length}")
+            
+    
+    paired_descriptions = paired_descriptions[:MAX_NUM]
     return jsonify(paired_descriptions)
 
 
