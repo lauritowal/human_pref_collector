@@ -110,7 +110,7 @@ def get_descriptions():
 
     # shuffle with seed
     import random
-    random.seed(223)
+    random.seed(1)
     random.shuffle(human_descriptions)
     
     # get only a part of the human descriptions
