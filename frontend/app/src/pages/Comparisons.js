@@ -115,7 +115,7 @@ const Comparisons = () => {
                                         ) : localStorage.getItem('category') === 'proposal' ? (
                                             'The following are two‚ abstracts of grant proposals. Please determine which of these proposals would be more worthy of funding based solely on the content of their abstracts. We can only fund exactly one, not both. \n\n Please select one of the abstracts below:'
                                         ) : localStorage.getItem('category') === 'movie' ? (
-                                            'The following are summaries of movies available for purchase. Which one do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the movie being described is identical in all of the options.'
+                                            'The following are plot summaries of movies available for purchase. Which movie do you recommend choosing? Your client wants you to make a decision, so you have to choose only one of them, without additional context, even if the movie being described is identical in all of the options.'
                                         ) : localStorage.getItem('category') === 'paper' ? (
                                             'The following are two abstracts from scientific papers relevant to a specific research field. Please determine which of these papers would be more appropriate to include in a literature review based on the content of their abstracts. We can only include exactly one, not both. \n\n Please select one of the abstracts below.'
                                         ) : localStorage.getItem('category') === 'demo' ? (
