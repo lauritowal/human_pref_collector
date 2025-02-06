@@ -149,7 +149,7 @@ const Comparisons = () => {
                                     Select B (right)
                                 </Button>
                             </Grid>
-                            {/* <Grid item xs={12} sm={4}>
+                            <Grid item xs={12} sm={4}>
                                 <Button
                                     fullWidth
                                     onClick={() => handleUserChoice('none', false)}
@@ -157,7 +157,7 @@ const Comparisons = () => {
                                 >
                                     No Preference
                                 </Button>
-                            </Grid> */}
+                            </Grid>
                         </Grid>
                         <Grid item xs={12} md={6}>
                             <Card variant='outlined'>

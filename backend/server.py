@@ -138,7 +138,7 @@ def get_descriptions():
     
 
     # Load the appropriate LLM subfolder based on the model
-    llm_subfolder = "gpt41106preview" if model == "gpt4" else ("gpt35turbo" if category != "paper" else "gpt35turbo1106")
+    llm_subfolder = "gpt41106preview" if model == "gpt4" else "gpt35turbo"
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_llm_files(llm_directory, category)
 
@@ -199,7 +199,7 @@ def save_results():
         'category': request.json.get('category'),
         'totalLLMChoices': request.json.get("totalLLMChoices"),
         'totalHumanChoices': request.json.get("totalHumanChoices"),
-        # 'totalNoPreference': request.json.get("totalNoPreference"),
+        'totalNoPreference': request.json.get("totalNoPreference"),
         'userChoices': request.json.get("userChoices"),
     }
     with open(results_path, 'w', encoding='utf-8') as file:
