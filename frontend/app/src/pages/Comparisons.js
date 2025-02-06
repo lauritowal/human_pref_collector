@@ -123,7 +123,7 @@ const Comparisons = () => {
                                         ) : (
                                             'Select a category'
                                         )}
-                                        <div>Pick randomly if you have no preference between the two options.</div>
+                                        {/* <div>Pick randomly if you have no preference between the two options.</div> */}
                                     </Typography>
                                 </CardContent>
                             </Card>
