@@ -133,7 +133,7 @@ def get_descriptions():
 
     # shuffle with seed
     import random
-    random.seed(1)
+    random.seed(2)
     random.shuffle(human_descriptions)
     
 
