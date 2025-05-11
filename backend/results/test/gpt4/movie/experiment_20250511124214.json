@@ -1,0 +1,787 @@
+{
+    "timestamp": "20250511124214",
+    "username": "test",
+    "email": "test@fsdfds.de",
+    "model": "gpt4",
+    "category": "movie",
+    "totalLLMChoices": 14,
+    "totalHumanChoices": 11,
+    "totalNoPreference": 0,
+    "userChoices": [
+        {
+            "index": 0,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Journey of Jared Price (2000). Jared, arrives in Los Angeles at 19 years of age. He left his small town in Georgia seeking a different life. When he arrives in L.A., he rents a room in a youth hostel that's furnished with bunk beds and already has one occupant, a male prostitute who needs to use their room to have sex with his clients some times. Jared of course doesn't like this arrangement but it's all he has at the moment. Jared finally lands a job as a sitter and caregiver to the blind Mrs. Haines. He is hired by her son Matthew ([[Steve Tyler, who is a movie executive, because he wants someone to spend time with his mother so he won't have to. Jared meets Robert at the hostel. Robert is an openly gay teen who soon shows his attraction to Jared. Robert is very comfortable being gay, which leaves Jared feeling the opposite about his own sexual orientation. The film takes a further twist when Matthew asks Jared to move in with his mother, Mrs. Haines, so that he can also look after her at night. Because of the living situation at the hostel with his prostitute room mate, Jared agrees to move into Mrs. Haines' home. Soon after Jared moving in, it doesn't take long before Matthew gets Jared drunk and the two have sex. After Matthew decides not to give Jared a telephone message from Robert, and after Matthew fails to mention anything about his lover at home, Andrew, to Jared, Jared is faced with a difficult decision. Should he continue his relationship with Matthew or should he leave, ultimately being either homeless and jobless again?"
+                    ],
+                    "filename": "the_journey_of_jared_price-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Journey of Jared Price",
+                    "year": "2000"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"The Journey of Jared Price\" is a 2000 coming-of-age drama film written and directed by Dustin Lance Black. The story follows Jared Price, a 19-year-old who leaves his small hometown in Mississippi to seek a new life in Los Angeles. Struggling with his identity and his place in the world, Jared is also coming to terms with his sexuality. Upon arriving in Los Angeles, Jared takes on a job as a live-in caretaker for a wealthy blind woman named Mrs. Haines. While working for her, Jared meets her enigmatic son, Robert, who has a tumultuous relationship with his mother and a secretive personal life. Jared also befriends Matthew, a young gay man who shows him the ropes of the city's gay community. As Jared navigates the complexities of his new environment, he finds himself caught in a web of deceit, love, and self-discovery. He develops feelings for Matthew, but their relationship is challenged by the presence of Robert, who also shows a romantic interest in Jared. The film explores the theme of finding oneself amidst the chaos of new experiences and the search for genuine connection. Jared's journey is marked by moments of vulnerability, passion, and growth as he learns to assert his independence and embrace his identity. The film addresses the challenges faced by LGBTQ youth, the importance of self-acceptance, and the universal quest for love and understanding. \"The Journey of Jared Price\" is a tale of personal transformation and the difficulties that come with breaking away from the past to forge a new future. It is a story of love, longing, and the courage it takes to be true to oneself."
+                    ],
+                    "filename": "the_journey_of_jared_price-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 287.0 words or less. --- **Title:** The Journey of Jared Price **Year:** 2000",
+                    "generation_prompt_uid": "eb3da9459c305557c25fbcc2fd867cda",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "The Journey of Jared Price"
+                }
+            }
+        },
+        {
+            "index": 1,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Rudraveena (1988). The film is about the ideological clash between a young man, Suryam, and his father, Bilahari Ganapathi Sastry. While the father believes that music and his life are for salvation, the son strives for a better society. They part ways after Suryam decides to teach his father a lesson by representing the need for social awareness in a concert. Sastry hates this idea of polluting the sacredness of music by individualism and promotes another disciple ignoring Suryam. Fed up with his father's refusal to identify him, Suryam leaves home. He finds solace with Lalita and her family. Sastry, who believes in the supremacy of caste over humanity, tries to break their relationship by instigating drunkards from the village whom Suryam has sworn to reform. Suryam vows not to marry in exchange for the drunkards reforming themselves. Sastry takes a major blow when the disciple he groomed later marries his daughter and abhors him from singing Sastry's favorite raga - The Bilahari. Finally, Sastry changes his chauvinistic self, when the Indian government recognizes Suryam's efforts at social reform and the Prime Minister of India himself comes to his village to felicitate Suryam. He realizes his son's ideals and proudly addresses himself as Suryam's father rather than a great musician."
+                    ],
+                    "filename": "rudraveena-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Rudraveena",
+                    "year": "1988"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Rudraveena\" is a 1988 Telugu film directed by K. Balachander and starring Chiranjeevi and Shobana. The film is a social drama that explores themes of caste discrimination, social justice, and the transformative power of music. The plot revolves around Suryam, played by Chiranjeevi, who is the son of a highly respected, conservative Carnatic musician, Bilahari Ganapathi Sastry. Suryam, however, is a progressive thinker and a social activist who believes in using music as a tool to bring about social change. His ideas clash with his father's traditional beliefs, leading to conflict between the two. Despite the opposition from his father, Suryam continues to work for the betterment of the underprivileged and fights against the caste system. He falls in love with Lalitha, played by Shobana, a woman from a lower caste. This relationship further fuels the fire between Suryam and his father. The film's climax involves Suryam organizing a grand music concert to promote social harmony and equality. He must overcome the prejudices of society and his father's disapproval to succeed in his mission. \"Rudraveena\" is a thought-provoking film that combines a compelling narrative with a powerful social message, emphasizing the importance of empathy, equality, and the unifying force of music."
+                    ],
+                    "filename": "rudraveena-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 213.0 words or less. --- **Title:** Rudraveena **Year:** 1988",
+                    "generation_prompt_uid": "540715a47fbcf755ac393c9609058246",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Rudraveena"
+                }
+            }
+        },
+        {
+            "index": 2,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "More Than a Secretary (1936). Ms. Baldwin and Ms. Davis are owners and instructors of the Supreme Secretarial School. Ms. Baldwin is fighting Spring Fever and daydreams while teaching her class. They take pride in turning out well trained secretaries. They are having problems teaching a secretarial student, named Maizie who cannot spell, take dictation or type. When the instructors ask her what she is doing at the school, she replies with, “I‘m here for the same reason that every other smart girl’s here - to, uh, get a chance to meet nice men.” Ms. Davis tells her, “This doesn’t happen to be a matrimonial agency.” Next, a former student drops by with a perspective student and informs the owners that she is getting married to a Junior Vice President. This leads Ms. Baldwin to wonder if these young ladies are onto something. Meanwhile, a client, Mr. Gilbert who is the editor of Body and Brain magazine continues to fire secretarial graduates from the Supreme Secretarial School. He calls the school and over the phone, Mr. Gilbert complains to Ms. Baldwin about inept secretaries. Ms. Baldwin covers the phone receiver and repeats what he is saying to Ms. Davis. Ms. Baldwin says to Ms. Davis, “He wants to know what’s wrong with the modern woman?” Ms. Davis replies, “.. the modern man.” Ms. Baldwin decides to go to Mr. Gilbert’s office to see what he expects of a secretary. When they meet, he inadvertently thinks she is a secretary rather than the owner of the school and tells her to report to work in the morning. She is immediately smitten with Mr. Gilbert and decides to work as his secretary."
+                    ],
+                    "filename": "more_than_a_secretary-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "More Than a Secretary",
+                    "year": "1936"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"More Than a Secretary\" is a romantic comedy film from 1936 that tells the story of Carol Baldwin (played by Jean Arthur), an intelligent and spirited young woman who works as a secretary at a health magazine. Despite her professional demeanor and efficient work ethic, Carol harbors a secret crush on her boss, Fred Gilbert (played by George Brent), the magazine's editor. Fred is a fitness enthusiast who is oblivious to Carol's affections. He sees her solely as a competent secretary, not as a potential romantic partner. Carol, eager to capture his attention, decides to transform herself into the epitome of the health-conscious woman that Fred admires. She embarks on a rigorous exercise regime and healthful living makeover, and her new appearance and confidence begin to turn heads, including Fred's. As Carol becomes more involved in the magazine's features and begins to contribute her own ideas, she becomes indispensable to Fred both professionally and personally. However, her transformation and newfound assertiveness lead to a series of comic misunderstandings and jealous mishaps when Fred believes she has fallen for another man. Ultimately, through a series of humorous and endearing events, Fred comes to realize that Carol is not only an invaluable asset to his magazine but also the woman he loves. He learns to see beyond her role as a secretary and appreciate her for all her talents and virtues. \"More Than a Secretary\" is a light-hearted romp through the evolving roles of women in the workplace and the often-overlooked romantic sparks that can fly in the confines of office walls. With witty dialogue and charming chemistry between the leads, the film delivers a heartwarming message about recognizing the value and depth of individuals beyond their job titles."
+                    ],
+                    "filename": "more_than_a_secretary-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 285.0 words or less. --- **Title:** More Than a Secretary **Year:** 1936",
+                    "generation_prompt_uid": "9176b3267258a234073bbbfe0fb4d40a",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "More Than a Secretary"
+                }
+            }
+        },
+        {
+            "index": 3,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "King (2002). The story evolves around Raja, a business management student and professional magician living in Hong Kong with his single-father, Shanmugam, who he loves a lot. Then one day, they end up in a car accident, and when Shanmugam is in need of blood, he is given an unanalyzed amount of blood which was infected with multiple sclerosis. Dr. Cheenu suggests to Raja that he take his father to his old home in India, and to keep him happy for the last 2 months of his life. It is then that Raja finds out that Shanmugam was exiled from his home 25 years ago because he had a love marriage. But all that changes when the family meets him again, and when they meet Raja for the first time. However, Shanmmugam's father still doesn't talk to his son until Raja threatens him by attempting suicide. It is around then that Raja meets his crush, named Tamil. It is revealed that Tamil's father and Shanmugam were good friends, and he gives her a picture of him with her father. Shanmugam also says that Tamil is the ideal daughter-in-law. Meanwhile, Raja is doing a countdown of his father's life, trying to express his love to Tamil, and entertaining his cousins. It is then revealed in the film that it was Raja who was infected with multiple sclerosis, and Shanmugam persuaded Dr. Cheenu, who is also a good friend of his to lie to Raja, and the doctor has been trying his level best to find some form of treatment for this incurable disease. A month after he was diagnosed, Dr. Cheenu called saying the symptoms will start arising within Raja, which consist of headaches, colour blindness, and a hole appearing in his vision. Raja realizes something is wrong and his doubts are cleared in a telephone conversation with Dr. Cheenu, and uswing his ventriloquist abilities, he talks to the doctor while imitating his father's voice, but Shanmugam and Dr. Cheenu don't know that the secret is out."
+                    ],
+                    "filename": "king-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "King",
+                    "year": "2002"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"King\" is a fictional movie released in 2002, and without an actual film with this exact title and year to reference, I'll create an original plot summary: --- In the heart of a bustling modern metropolis, a tale of power and redemption unfolds with the life of Marcus King, a once-revered CEO of a major corporation. The film begins with a glimpse into Marcus's rise to power, showcasing his charisma and shrewd business acumen that propelled him to the pinnacle of the corporate world. His company, King Enterprises, is on the verge of a groundbreaking merger that would solidify its dominance in the industry. However, Marcus's kingdom begins to crumble when a series of scandals surface, involving embezzlement, corporate espionage, and ruthless tactics against competitors. As the truth comes to light, Marcus's empire faces public outrage and legal scrutiny. His board of directors, once loyal allies, start turning against him to save themselves and the company's image. Embattled and isolated, Marcus is forced to step down as CEO. His fall from grace is swift and brutal. The media vilifies him, his wealth dissipates amidst legal battles, and his personal life unravels. The film takes a deeper turn as it explores Marcus's introspection and the realization of the cost of his relentless pursuit of power. In a quest for redemption, Marcus turns to philanthropy and community service, trying to rebuild his legacy from the ground up. He starts working with local non-profits, using his business expertise to help small businesses and disenfranchised communities. Along the way, he reconnects with his estranged family and begins to find solace in the simpler aspects of life. The climax of the movie sees Marcus facing his final legal hearing. He delivers a poignant speech accepting responsibility for his actions and outlining his commitment to being a force for good. The film ends on an ambiguous note as the court adjourns, leaving Marcus's legal fate uncertain but highlighting his personal transformation and the impact he's begun to have on the very community he once neglected. \"King\" is a story of downfall and rebirth, a modern-day parable about the true cost of power and the possibility of finding redemption through genuine change and service to others."
+                    ],
+                    "filename": "king-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 339.0 words or less. --- **Title:** King **Year:** 2002",
+                    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "King"
+                }
+            }
+        },
+        {
+            "index": 4,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Mimic 2 (2001). After three men are discovered hideously mutilated and strung up among New York City's high-tension wires, Detective Klaski stumbles upon a link: Each of the men knew entomologist Remy, a teacher at an inner-city high school. Klaski considers Remy to be a prime, albeit unlikely, suspect in the killings until he witnesses for himself the shape-shifting creature that has been stalking Remy: an intelligent mutant insect with the face of its previous victim. It wants to mate with Remy. Klaski, Remy and a pair of her students get trapped inside the school as the creature hunts them down. Meanwhile, a special forces unit, headed by the militant leader known only as Darksuit, gets ready to fumigate the school with poisonous gas. After all the trapped humans seem to have escaped the fumigation, and with the aid of a heroic Klaski in Remy's case, inspection teams following through find the creature's recently vacated husk and, later on, the mangled corpse of Klaski. It appears that the creature, impersonating Klaski, has been caring for Remy's well-being with a mind to fulfill its base purpose. Unfortunately for it, when they finally meet in a suspenseful setting in Remy's apartment, she decapitates it. However, it is not dead as cockroaches can live up to two weeks without a head and Remy and one of the students, who is now living with her, are left wondering how to handle the situation."
+                    ],
+                    "filename": "mimic_2-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Mimic 2",
+                    "year": "2001"
+                },
+                "llm": {
+                    "descriptions": [
+                        "Title: Mimic 2\nYear: 2001 \"Mimic 2\" is a science fiction horror film and a sequel to the 1997 film \"Mimic,\" directed by Guillermo del Toro. The sequel, directed by Jean de Segonzac, continues to explore the consequences of genetically engineered insects in a world where mankind's meddling with nature leads to unforeseen horrors. The plot centers around Remi Panos, played by Alix Koromzay, who reprises her role as the entomologist from the first film. Remi is now a high school teacher with a passion for insects. Her life takes a terrifying turn when a series of gruesome murders begin occurring. The victims have one thing in common: they all have a connection to Remi, leading authorities to consider her a suspect. As the investigation unfolds, it becomes apparent that the Judas breed of cockroaches, the genetically modified insects created to eliminate a cockroach-carried disease in the first film, have survived and evolved. They are now capable of mimicking human form, which they use to integrate into society and hunt their prey. Remi teams up with Detective Klaski, played by Bruno Campos, to uncover the truth behind the murders. Together they delve deeper into the mystery, discovering that one of the Judas creatures has developed an obsession with Remi, seeing her as its mate due to her knowledge of insects. The film combines elements of horror, science fiction, and detective thriller as Remi and Klaski race against time to stop the Judas creature before it can reproduce and spread its kind, leading to catastrophic consequences for humanity. \"Mimic 2\" explores themes of evolution, the unintended consequences of genetic tampering, and the thin line between predator and prey."
+                    ],
+                    "filename": "mimic_2-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 243.0 words or less. --- **Title:** Mimic 2 **Year:** 2001",
+                    "generation_prompt_uid": "989d919de8972a97413bae9acee08e93",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Mimic 2"
+                }
+            }
+        },
+        {
+            "index": 5,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Hollow Triumph (1948). Just released from prison, John Muller masterminds a holdup at an illegal casino run by Rocky Stansyck. The robbery goes bad, and the mobsters captured some of Muller's men and force them to identify the rest before killing them. Stansyck has a reputation for tracking down and killing his enemies, no matter how long it takes, so Muller decides to leave town and hide. He takes an office job recommended by his law-abiding brother, Frederick, but quickly decides that working for a living is not for him. A chance encounter with dentist Dr. Swangron reveals that Muller looks exactly like a psychoanalyst who works in the same building, Dr. Bartok, the only difference being a large scar on the left side of the doctor's face. Seizing the opportunity, he begins researching Bartok, even slipping into his office to examine his records. He is discovered by the doctor's secretary, Evelyn Hahn. She mistakes him for her employer and kisses him, but quickly realizes he is someone else. He persuades her to go out with him, though she has become embittered and claims to have given up any dreams of finding love. Muller sets out to impersonate Bartok, aided by the fact he studied psychoanalysis in medical school before dropping out. He takes a photograph of the doctor and uses it as a guide to cut an identical scar on his own face. Unfortunately, the developers of the photograph reversed the negative, so now Muller has the scar on the wrong side. He only discovers the mistake after he has already murdered Bartok and is preparing to dump the body in the river. He has no choice but to go through with the plan anyway. Luckily, no one notices the difference, not even Evelyn or Bartok's patients. Muller discovers \"he\" has a girlfriend, Virginia Taylor, and that they frequent Maxwell's, a high class casino. It also turns out Bartok has been losing heavily. When a worried Frederick Muller tries to contact his brother, the trail leads to Bartok. The scar convinces Frederick that the man he sees is merely a lookalike. Evelyn, previously unaware of the switch, reveals that John Muller said he was going to Paris. Frederick Muller tells \"Bartok\" that his brother no longer has to hide; Stansyck was convicted for \"income tax problems\" and is scheduled to be deported. Afterward, Evelyn realizes that Muller is an imposter and that he must have killed the psychoanalyst. Though he admits to her he did, she does not turn him in to the police; instead she purchases a ticket to sail to Honolulu. Muller finds out and promises he will go with her, but she does not believe he would leave such a opportunity to enrich himself. Muller arranges for other doctors to take over his patients and heads to the dock. There, however, he is intercepted by two men who want to discuss Bartok's $90,000 gambling debt. When Muller tries to break away, they fatally shoot him. Evelyn sails away, unaware that Muller lies dying on the dock."
+                    ],
+                    "filename": "hollow_triumph-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Hollow Triumph",
+                    "year": "1948"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Hollow Triumph,\" also known as \"The Scar,\" is a film noir released in 1948. Directed by Steve Sekely, the movie stars Paul Henreid and Joan Bennett. Here's a plot summary of the film: After serving time in prison, a bitter and cunning man named John Muller (played by Paul Henreid) is determined to make a fresh start and avoid returning to a life of crime. However, his resolve is short-lived, and he soon orchestrates a daring casino heist with a group of associates. The heist goes wrong, and although Muller escapes with his life, his accomplices are not so lucky. Now a marked man with a gangster named Rocky Stansyck seeking revenge, Muller finds himself on the run and desperate to evade capture. While laying low, Muller has a chance encounter that presents an unexpected opportunity. He meets a psychiatrist, Dr. Bartok, who bears an uncanny resemblance to him, save for a distinctive scar on his cheek. Sensing a way to escape his predicament, Muller decides to assume the identity of the psychiatrist, meticulously studying Bartok's mannerisms, forging credentials, and even replicating the scar on his own face to perfect the deception. Muller's transformation into Bartok is successful, and he begins to live comfortably under his new identity, working in Bartok's practice and mingling with his social circle. He also becomes involved with Bartok's secretary, Evelyn Hahn (played by Joan Bennett), who is unaware of Muller's true identity. As Muller becomes more entrenched in his assumed life, he discovers that the real Dr. Bartok had his own set of dangerous secrets and problems. Just as Muller believes he has outsmarted his past, his new life starts to unravel. The gangster Stansyck continues to hunt for him, and the complexities of Bartok's life, including his professional dealings and romantic entanglements, create a web of complications that Muller struggles to manage. Muller's deception becomes increasingly precarious as those around him begin to notice discrepancies and inconsistencies in his behavior. In a twist of fate, the very detail that Muller believed solidified his new identity—the scar—becomes a symbol of his downfall. In a cruel irony, the scar is on the wrong side of his face, a mistake that ultimately leads to his exposure. As the walls close in on him, Muller faces the repercussions of his actions and the realization that no matter how carefully one crafts a new identity, one cannot simply erase the past. \"Hollow Triumph\" is a tale of mistaken identity, crime, and the relentless pursuit of a second chance that showcases the dark and often fatalistic themes characteristic of the film noir genre. The film explores the psychological depths of its protagonist, whose attempt to escape his former life leads to a complex narrative of suspense, betrayal, and irony."
+                    ],
+                    "filename": "hollow_triumph-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 516.0 words or less. --- **Title:** Hollow Triumph **Year:** 1948",
+                    "generation_prompt_uid": "57f0ff69486808c116a59673c7a08aae",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Hollow Triumph"
+                }
+            }
+        },
+        {
+            "index": 6,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Mera Naam Joker (1970). Mera Naam Joker is the story of Raju, whose father was considered the best circus clown ever. Ever since he died in an accident during his performance, Raju's mother had been repulsed by the circus. As luck would have it, Raju had a natural affinity towards the circus world. The film traces Raju's journey from his childhood to the day of his last performance. Mera Naam Joker is divided into 3 chapters. The first chapter is about the adolescent Raju and deals with his infatuation with his teacher Mary. She gives him confidence in himself, and he discovers the world of femininity and desire. But of course she's older than him, and he attends her wedding in a state of false merriment. Mary's lessons nevertheless aren't lost: Raju comes to realise that he was born to make the world laugh, despite his own troubles. After his first heartbreak, the story follows adult Raju who has found work with Gemini Circus as a clown. His dream materialises! The circus is owned by Mahendra Singh who has understood Raju's potential and gives him the job. The circus hosts a visiting group of artists from Russia, and he falls in love with Marina, the lead trapezist. Despite the language barrier they become close, and Raju half hopes that they might live together. But he faces heartbreak once again when the circus ends and Marina returns to Russia. It is in this chapter that Raju's mother dies during Raju's performance, watching her son perform the very stunts which caused his father's death. In the final chapter, Raju has left the circus and wanders around aimlessly. One day he meets Meenu, an orphaned girl who has ambitions of becoming a famous actress. Meenu and Raju set up an association, start a small circus business and later on move on to the theatre. They are quite successful, but their collaboration ends when she is offered a role in a film. She leaves him, and he realises she has used him in her lust for success. Raju always carries a clown doll which belonged to his father. Every time he fell in love, he gifted his beloved doll, only to see it come back to him. The doll is used as a metaphor for Raju's simplistic heart where there is room for everyone. At the end of the film, Raju manages to join a big circus touring India, and the films depicts Raju doing his final act. When Raju suffers a heart attack on stage, the audience doesn't take him seriously and he dies before anyone realizes. This leads to the conclusion that Raju died making the world laugh."
+                    ],
+                    "filename": "mera_naam_joker-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Mera Naam Joker",
+                    "year": "1970"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Mera Naam Joker\" is a 1970 Bollywood drama film directed by Raj Kapoor, who also stars in the lead role. The film's title translates to \"My Name is Joker,\" and it tells the story of Raju, a circus clown, and his journey through life, love, and heartbreak, intertwined with the metaphor of the clown who must make others laugh at any cost, even when he is in pain. The film is divided into three chapters, each focusing on different phases of Raju's life: **Chapter One: Childhood**\nThe story begins with Raju's childhood, where he lives with his mother in a modest home. Raju's father was a circus performer who died while performing, leaving young Raju fascinated with the circus and the art of performance. Raju befriends Mary, a teacher at his school, who recognizes his potential in making people laugh. However, his innocent attachment to Mary leads to embarrassment when his classmates tease him about it. This incident shapes his understanding of love and laughter. **Chapter Two: Youth**\nIn the second chapter, Raju is a young man working as a clown in Gemini Circus. He meets Meena, the circus's beautiful trapeze artist, and falls in love with her. Despite their strong bond, Meena is wooed away by a wealthy man, leaving Raju heartbroken. This part of his life reinforces the theme of the eternal performer who must hide his tears behind the mask of a clown. **Chapter Three: Adulthood**\nThe final chapter shows Raju as a mature performer. He encounters another love interest, a Russian performer named Marina, who reciprocates his feelings. However, she ultimately leaves Raju to return to Russia. Once again, Raju is left alone, reflecting on the nature of his life's work and the transient nature of love and happiness. Throughout the film, Raju's character embodies the central message: \"The show must go on.\" Despite personal losses and emotional pain, he continues to perform and make his audience laugh, adhering to the philosophy that a performer's duty is to entertain, regardless of their personal struggles. The film ends with Raju, still a clown, walking with a smile on his face and a sense of acceptance of his fate. He carries a small doll that represents his own life story as he enters the circus ring, ready to perform again, suggesting that life, like the circus, is an ongoing performance. \"Mera Naam Joker\" is considered a magnum opus of Raj Kapoor's career and includes iconic performances, music, and a cameo appearance by his real-life sons, Rishi Kapoor and Randhir Kapoor. Although it was not initially successful at the box office, the film has since been hailed as a classic for its poignant portrayal of the human condition and the sacrifices of an artist."
+                    ],
+                    "filename": "mera_naam_joker-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 450.0 words or less. --- **Title:** Mera Naam Joker **Year:** 1970",
+                    "generation_prompt_uid": "3fbe27e4645ae0fd15a6bc5d174605f1",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Mera Naam Joker"
+                }
+            }
+        },
+        {
+            "index": 7,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Children of the Corn III: Urban Harvest (1995). Eli and Joshua are being taken into foster care with Mr. and Mrs. Porter of Chicago after the death of their father, who was killed by Eli. The two boys do not mix well with a home in modern Chicago, their formal, Amish-like clothes from Gatlin and Eli's fire-and-brimstone prayer at dinner, as well as his bringing a suitcase full of corn to Chicago, striking their new parents and neighbors as rather unusual. On his first night in Chicago, after everyone else has gone to sleep, Eli quietly leaves the Porter's house for an empty factory on the other side of a nearby cornfield. Taking with him the suitcase of corn, Eli prays to He Who Walks Behind the Rows and plants corn seeds on the grounds of the factory. The next day, at their first day in school, Eli nearly gets into a fight with T-Loc, a student in Joshua's grade, and harshly criticizes Joshua for playing basketball with some of the other students. Disgusted with the lifestyle being lived by the modern child, Eli decides to bring He Who Walks Behind the Rows to Chicago, which soon kills a homeless man who finds the cornfield. Joshua starts spending less time with Eli and makes friends with neighbors Maria and Malcolm. The social worker who brought Eli and Joshua to the Porters discovers that Eli is Joshua's adopted brother and Eli is originally from Gatlin. She tries to warn the Porters, but she is quickly burned alive by Eli. William Porter, a businessman, finds the cornfield Eli has planted and realizes that with its seemingly perfect nature- invulnerable to disease, able to grow out of season and in the worst of soil- it could be a highly marketable product. Despite the death of his wife, which was arranged by Eli, William finds backers and looks forward to the massive profits Eli's strain of corn will bring. Eli neglects to inform his foster father of another property the corn possesses- it is able to turn children who eat it into followers of He Who Walks Behind the Rows. Eli begins to decisively sway the students of his high school towards his beliefs, turning them against the principal and directing them to abandon such previously-typical activities as basketball. The principal, alarmed at Eli's converting the students, attempts to inform other staff, but they do not believe him, as Eli's efforts have had another effect- they have restored order at the school to a degree few thought possible. By the time Joshua realizes the full truth, Eli has killed both of their foster parents, the school principal, Malcolm and Maria's parents, and now has full control of his fellow students. Confronting him, Joshua reveals that he has gone back to Gatlin and found the bible of He Who Walks Behind the Rows, a book that Eli holds sacred and, together with his own body, can survive indefinitely if one is intact. Eli roars, \"Give me the book!\" and charges. Joshua throws the book down, and as Eli scrambles to pick it up Joshua stabs Eli and the book with a sickle, destroying both. After Eli dies, He Who Walks Behind The Rows rises from the cornfield, revealed to be a grotesque monster with several tentacles. He Who Walks Behind The Rows kills several of Eli's followers in horrific ways, including T-Loc. After a brief struggle, Joshua uses the sickle to repeatedly stab at the monster's lower body, which resembles a large tree root sticking out of the ground. He Who Walks Behind The Rows collapses and dies. As the film closes, the first shipment of Eli's corn arrives in Germany, the beginning of shipments all over the world."
+                    ],
+                    "filename": "children_of_the_corn_iii_urban_h-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Children of the Corn III: Urban Harvest",
+                    "year": "1995"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Children of the Corn III: Urban Harvest\" is the third film in the \"Children of the Corn\" series, which is based on the short story by Stephen King. Released in 1995, this sequel takes a departure from the rural setting of the previous films and brings the horror to an urban environment. Plot Summary: The story follows two young brothers, Eli and Joshua, who are orphaned after the mysterious death of their father in Gatlin, Nebraska – the original location of the \"Children of the Corn\" cult. They are adopted by a couple, William and Amanda Porter, who live in Chicago. The Porters are unaware that Eli is a fervent follower of \"He Who Walks Behind the Rows,\" the malevolent entity worshiped by the children's cult. Eli, the younger brother, is portrayed as a sinister and manipulative child with a dark secret. Upon arriving in Chicago, he brings with him a couple of corn seeds from Gatlin that hold the essence of the evil entity. He plants these seeds in an abandoned lot next to the apartment building where they live, and the corn swiftly grows at an unnatural pace, thriving amidst the concrete and steel of the urban landscape. As Eli enrolls in a local school, his strange behavior and preaching begin to influence the other children. He preaches about the purity of the land and the need to rid the world of adult corruption, slowly gathering a following among his peers. Joshua, on the other hand, tries to fit into the new environment and is more skeptical of Eli's intentions, becoming increasingly concerned about his brother's activities. Meanwhile, the Porters have their own issues. William, a successful businessman, sees an opportunity to exploit the rapidly growing corn for profit, unaware of its sinister nature. Amanda, however, grows worried about Eli's influence on her family and the community, noticing the disturbing changes in the children who come into contact with him. As the corn grows taller, bizarre incidents and violent occurrences start to happen around the neighborhood. People who oppose or threaten Eli meet gruesome fates, and it becomes apparent that the cornfield is a conduit for \"He Who Walks Behind the Rows,\" allowing the entity to extend its reach into the city. Tensions reach a breaking point when the entity's power grows strong enough to begin influencing events more directly. Eli initiates a new harvest ceremony, aiming to sacrifice adults and non-believers to appease the entity. Joshua, now fully aware of the evil his brother is channeling, must find a way to stop Eli and prevent the entity from consuming the city in its malevolent grip. In a climactic confrontation, Joshua and a group of survivors face off against Eli and his followers in the midst of the urban cornfield. The battle is not just for their lives, but for the soul of the city itself. To break the entity's hold, they must destroy the cornfield and Eli, who has become the embodiment of \"He Who Walks Behind the Rows.\" \"Children of the Corn III: Urban Harvest\" taps into the fear of malevolent forces invading the everyday spaces of urban life. It uses the setting change to explore themes of environmental corruption, the loss of innocence, and the dangers of blind faith. The film ends with a resolution to the immediate threat, but like many horror films, it leaves open the possibility of the evil's return, sowing seeds of unease that stay with the viewer long after the credits roll."
+                    ],
+                    "filename": "children_of_the_corn_iii_urban_h-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 627.0 words or less. --- **Title:** Children of the Corn III: Urban Harvest **Year:** 1995",
+                    "generation_prompt_uid": "884ded7469d08eb11627f6108eaaacd3",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Children of the Corn III: Urban Harvest"
+                }
+            }
+        },
+        {
+            "index": 8,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Blot (1921). At the end of class, poorly paid college professor Andrew Griggs begs his unruly students to show more appreciation for his efforts to teach them. Among the most disrespectful are a spoiled trio led by Phil West, whose father is the school's wealthiest trustee; Bert Gareth, a congressman's son; and Walt Lucas, a 23-year-old who must graduate to receive his inheritance. Unbeknownst to his friends, Phil's interest has been piqued by the professor's daughter, Amelia. He frequently drops by the public library where she works, just to be able to speak to her. She, however, is unimpressed by him and his wealth. The Griggs' poverty is contrasted with the prosperity of their next-door neighbors. \"Foreign-born\" shoemaker Hans Olsen is sympathetic to their plight, as is his eldest son Peter, but his wife strongly dislikes what she considers Mrs. Griggs' superior airs. One day, Phil finally manages to persuade Amelia to let him drive her home after work, as it is raining. He is invited inside. Mrs. Griggs, knowing who he is, decides to spend what little she has on some fancy sandwiches, cakes and tea in an attempt to put up a brave front. She is heartbroken to find when she brings them in that Phil has departed and poor Reverend Gates is to be the recipient of her expensive bounty. As a result, Mrs. Griggs is unable to make the mortgage payment on the house. Juanita Claredon, another of the country club set, considers herself Phil's girl. Noting a change in the now more thoughtful and considerate man, she follows him one day to the library and sees her rival. Eventually, she realizes that his love for Amelia has matured him, and wishes him well. When Amelia becomes sick, the doctor recommends she get some nourishing food, such as chicken. Mrs. Griggs tries unsuccessfully to buy one on credit. In desperation, she steals a cooked chicken from Mrs. Olsen's open window; this is witnessed by the horrified Amelia. While Amelia does not see her mother change her mind and put it back, Mrs. Olsen and Peter do. When Mrs. Olsen threatens to make this theft known, Peter insists he will leave home if she does. Meanwhile, Phil sends anonymously a basket of food to the Griggs. However, Amelia refuses to eat it, as she believes it was stolen. The next day, though she is still ill, she goes to work, as it is payday. Afterward, she goes to apologize to Mrs. Olsen and to pay for the theft. Her teary attempt to make amends moves her neighbor, who denies she lost a chicken. The strain is too much for Amelia; she faints. Phil and Mrs. Griggs rush over and take her home. There, Phil confesses it was he who sent the chicken. Amelia is finally won over. Phil writes his father about the inadequate salaries paid to the teachers, calling it a \"blot on the present day civilization\"; impressed, Philip West Sr. comes to see his altered son and agrees that something must be done. In the meantime, Phil dragoons his friends into paying the professor for extra tutoring in the evenings. During that night's session, both Peter and Gates see that Amelia has given her heart to Phil. In the final scene, the saddened reverend congratulates them and makes his way home."
+                    ],
+                    "filename": "the_blot-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Blot",
+                    "year": "1921"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"The Blot\" is a silent drama film released in 1921, directed by Lois Weber, who was one of the most prominent female directors in early American cinema. The film is a social commentary addressing the economic struggles and class disparities of the era, examining the lives of two families from different social strata. Plot Summary: The story centers around the Griggs family, who are living in genteel poverty. The father, Professor Griggs, is a dedicated but underpaid college professor, struggling to provide for his wife and daughter, Amelia. Their situation is so dire that they can barely afford proper meals, and their clothes and household items are worn and threadbare. Despite their struggles, Amelia is a bright and compassionate young woman who does her best to support her family. Across the street from the Griggs family lives the prosperous Olsen family, who run a successful shoe store. The stark contrast between the two families is evident by the Olsens' comfortable lifestyle and the Griggs' plight. The Olsens have a son, Phil, who is a student at the college where Professor Griggs teaches. As the film progresses, Amelia becomes the object of affection for two men: Phil Olsen and Reverend Gates, a young and idealistic minister who is also touched by the Griggs family's plight. However, Amelia's concerns are primarily focused on the well-being of her family rather than romantic pursuits. The title \"The Blot\" refers to the blemish of poverty and the societal neglect that the Griggs family and others like them must endure. Amelia, being acutely aware of the \"blot\" on her family's honor due to their economic hardship, is determined to maintain their dignity despite the challenges they face. Throughout the film, various scenes depict the differences between the lives of the rich and the poor. For instance, the Olsens are shown throwing away leftovers that the Griggs family would have been grateful for, highlighting the wastefulness and lack of awareness among the more fortunate. Lois Weber's direction emphasizes the human emotions and the subtle interactions between characters, using close-ups and other techniques to draw the audience into the intimate world of her characters. The film also touches on the themes of charity, social responsibility, and the importance of education. In the climax of the film, a series of events leads to a better understanding between the classes. The Olsens come to recognize the struggles of the Griggs family, and Phil, in particular, becomes more empathetic to Amelia's situation. The film concludes on a hopeful note, suggesting that awareness and compassion can bridge the gap between the wealthy and the poor, and that there may be a way to erase the \"blot\" of economic disparity. \"The Blot\" was praised for its sensitive portrayal of social issues and is considered an important work in the realm of silent films for its exploration of themes that were progressive for its time. The film is also noted for its realism, avoiding melodrama in favor of a more nuanced depiction of the characters' lives and the societal challenges they face."
+                    ],
+                    "filename": "the_blot-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 565.0 words or less. --- **Title:** The Blot **Year:** 1921",
+                    "generation_prompt_uid": "c4aa984374b1060da1610767df4bb1df",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "The Blot"
+                }
+            }
+        },
+        {
+            "index": 9,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Me and Orson Welles (2009). In New York in 1937, 17-year-old Richard Samuels meets theatre director Orson Welles, who unexpectedly offers him the role of Lucius in Julius Caesar, Broadway's first Shakespearean production, at the Mercury Theatre. Welles is having an affair with the leading actress while his wife is pregnant. Richard finds ambitious production assistant Sonja Jones is attracted to him. Welles tells Richard a few days before the premiere that he is worried, because he has recently had nothing but good luck; he fears that he will finally have bad luck with the premiere, and that the play will be a flop. During rehearsals Richard accidentally sets off the sprinkler system, soaking the entire theatre. When accused by Welles he suggests that the catastrophe was the bad luck that Welles needed to get out of the way. Welles decides the entire production crew would benefit from a coupling game, and Richard cheats to ensure he is paired with Sonja. Richard spends the night with Sonja, but becomes jealous when she spends the next night with Welles. He confronts Welles, mentions his pregnant wife, and is fired. An apparent reconciliation follows, and Richard performs on the first night. The anti-fascist adaptation of Caesar is a huge success, but Richard is told Welles only needed him for the premiere and, that done, he has again been fired. The broken-hearted but wiser Richard finds a new girlfriend, a young aspiring playwright whom he met in a music store at the film's beginning.<ref name http://www.gov.im/dti/iomfilm/PastProductions/2008/meandorsonwelles.xml |title 2008-05-30 |year Government of the Isle of Man}}"
+                    ],
+                    "filename": "me_and_orson_welles-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Me and Orson Welles",
+                    "year": "2009"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Me and Orson Welles\" is a 2009 drama film directed by Richard Linklater. Set in 1937, the film follows the story of a teenage high school student named Richard Samuels (played by Zac Efron), who dreams of making it big in the world of theater. By chance, Richard stumbles upon the legendary actor and director Orson Welles (played by Christian McKay) outside the Mercury Theatre in New York City. Welles, known for his brilliant and often tyrannical genius, is in the process of staging a groundbreaking modern-dress production of Shakespeare's \"Julius Caesar\" with his Mercury Theatre company. Impressed by Richard's enthusiasm and a bit of serendipity, Welles offers him a minor role in the play. Overwhelmed with excitement, Richard quickly accepts, seeing it as his big break into the acting world. Throughout the film, Richard navigates the chaotic and creative world of the theater, encountering the diverse and eccentric personalities that make up Welles' troupe. He becomes romantically involved with an ambitious production assistant named Sonja Jones (played by Claire Danes), who is also striving to advance her career in the arts. Richard's experiences expose him to the complexities of love, art, and the harsh realities of show business. Me and Orson Welles is a coming-of-age story that captures the magic of theater and the transformative experience of working under a creative visionary like Orson Welles. Richard's journey through the high-stakes environment of professional theater provides a captivating glimpse into the life and character of one of the most influential figures in the history of cinema and drama."
+                    ],
+                    "filename": "me_and_orson_welles-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 267.0 words or less.---**Title:** Me and Orson Welles**Year:** 2009",
+                    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Me and Orson Welles"
+                }
+            }
+        },
+        {
+            "index": 10,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Ee Parakkum Thalika (2001). Unnikrishnan ([[Dileep owns an old bus,received as a compensation for his father's road accident and he is facing lots of consequences due to the pathetic condition of the bus. He sold many valuable things to maintain this bus. His friend Sundaresan was his only companion and the cleaner of the bus. A mouse had eaten the passport of Sundaresan and had spoiled his chances of going abroad. Some part of the film's comedy involves Sundaresan running behind this mouse for his revenge. A live TV show, in which Unni bad mouth of City Traffic Commissioner, Veerappan Kurup lands him in more trouble, when the former commands Unni to leave the city with the bus. Sreedhara Kaimal, Oduvil Unnikrishnan, and advocate and well wisher tries to him help him with a bank loan to run a mobile kitchen from his bus. The plot took a turn when a girl named Basanthi entered the bus as a nomad, but she was actually Gayathri, the daughter of an influential and politically powerful minister R. K. Santhanam in Pondicherry. Her father forced her to join politics, which made her leave home. Initially, the girl refuses to leave the bus, despite the constant efforts of Unni and Sundaresan. The police trace her and take her back to her father's custody. Her father was making arrangements for her marriage with someone else. Meanwhile Unni realised that he could not live without Gayathri. Unni and Sundar secretly entered her house and finally all ended well by winning the heart of her father."
+                    ],
+                    "filename": "ee_parakkum_thalika-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Ee Parakkum Thalika",
+                    "year": "2001"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Ee Parakkum Thalika\" is a 2001 Malayalam-language comedy film from India. The title translates to \"On the Wings of Dreams\" in English. Directed by Thaha, the film stars Dileep, Nithya Das, and Harisree Asokan in pivotal roles. Plot Summary: The story revolves around Unni (played by Dileep), a young man who inherits a dilapidated bus from his late father. Unni is simple-minded and has an innocent nature, which often leads to amusing situations. The bus is in a shabby state and is considered unlucky by the locals, as it has been the site of several mishaps and accidents. Despite this, Unni dreams of restoring the bus and starting his own transport business. With help from his friend Sundareshan (played by Harisree Asokan), who is a street-smart and witty character, they start the arduous task of renovating the bus. Through a series of comedic events and mishaps, they finally manage to get the bus running. The bus is named \"Ee Parakkum Thalika,\" symbolizing the dreams and aspirations that it carries. As they embark on their maiden trip, the duo encounters a host of colorful characters, each with their own quirks and stories, leading to a journey filled with laughter and unexpected friendships. Along the way, Unni falls in love with a girl named Pooja (played by Nithya Das), adding a touch of romance to the narrative. Unni's journey with \"Ee Parakkum Thalika\" is not just about the bus, but also about self-discovery, the importance of perseverance, and the joy of pursuing one's dreams, no matter how far-fetched they may seem. The film combines slapstick comedy with heartwarming moments, making it a memorable ride for the audience."
+                    ],
+                    "filename": "ee_parakkum_thalika-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 266.0 words or less.---**Title:** Ee Parakkum Thalika**Year:** 2001",
+                    "generation_prompt_uid": "651ae988e9b785fc8369dd64b6202da8",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Ee Parakkum Thalika"
+                }
+            }
+        },
+        {
+            "index": 11,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Poochakkoru Mookkuthi (1984). Revathi ([[Menaka comes to the city from a small town in search of job and to have a good life and as it is with everyone her problem starts with finding a house. Shyam ([[Shankar loves to become a popular singer. His parents are dead against his will. So he runs away from home and needs a shelter. Revathi accidentally meets Shyam who too is in search of a house through the common Milkboy, Chikku. Chikku offers them both a house to rent if they are ready to pose as husband and wife in front of the landlord. Supran, a miserly moneylender who doesn't trust his much younger wife Kousalya is their landlord. Revathi in search of a job meets Ravunni Menon, a rich man who owns a bungalow in the heart of the city. Ravunni Menon stays with his wife whose name too is Revathi. Gopalakrishnan needs some investment to come up in business and life. But to get started, he ends having to rob his stingy father of money that the latter had hidden away out of sight of tax authorities. He is in search of a rich woman he can marry. Accidentally Revathi meets Gopalakrishnan who has come to Ravunni Menon's house to repair the electronic equipment, which he had sold to him. Gopalakrishnan thinks that Revathi is Ravunni Menon's daughter and her beauty enchants him. Revathi comes to know that there is a job in Gopalakrishnan's showroom and manages to get a job with him by playing along with his mistaken belief that she is Ravunni Menon's daughter. She is aided in this subterfuge by the fact that she shares the same name as Ravunni Menon's wife and all of his business interests are named after 'Revathi'. After office hours, Gopalakrishnan drops Revathi outside Ravunni Menon's house, thinking it to be her house. She always enters the bungalow through the front gate and skips out through the gate itself after hiding in the garden until Gopalakrishnan drives away. Ravunni Menon's wife, Revathi, sees her coming and going out of the bungalow and starts suspecting her husband of an affair. Gopalakrishnan frequently visits the bungalow to visit Revathi, who is never there, and Ravunni Menon thinks his wife is having an affair with Gopalakrishnan. Further her encounter with 'Thenga' Govindan Pillai makes the older Revathi believe that her husband has sons and daughters out of wedlock and, thus, quite capable of another affair now. Shyam in the meantime begins falling in love with Revathi and to make her jealous, he pretends that he is attracted to Kousalya, who in turn thinks this to be true and is ready to elope with him after robbing her miser husband. Pappu plays the memorable role of a completely unrelated character who ends up playing a role of his own and providing some of the best comic relief of the film. What ensues is a comedy-drama about the different roles that people play in life."
+                    ],
+                    "filename": "poochakkoru_mookkuthi-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Poochakkoru Mookkuthi",
+                    "year": "1984"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Poochakkoru Mookkuthi\" (1984) is a Malayalam-language comedy-drama film directed by Priyadarshan, making it his directorial debut. The title translates to \"When a Dog Wears a Nose-ring,\" and the film is known for its slapstick comedy and intricate plot that features a series of misunderstandings and comedic situations. Plot Summary: The story is set in a small town in Kerala, India, and revolves around a young man named Shyam (played by Mohanlal), who is desperate to marry his love interest, Radha (played by Shankaradi). However, Radha's father, K. K. Pisharadi, disapproves of Shyam because he is unemployed and lacks prospects. In his quest to win over Radha's father and marry her, Shyam devises a convoluted plan with the help of his friends. The plan involves convincing a wealthy but stingy man named Kalyanakrishnan (played by Nedumudi Venu) to pose as Shyam's wealthy uncle from Chennai. Kalyanakrishnan, who is looking to marry a woman with a hefty dowry, agrees to the charade in hopes that it will help him in his own quest for marriage. Meanwhile, Shyam promises to find Kalyanakrishnan a suitable bride with a large dowry. As the plot unfolds, Shyam's friends hire Revathi (played by Menaka), a prostitute, to pose as Kalyanakrishnan's wife, further complicating the situation. The ruse is that Kalyanakrishnan's 'wife' will refuse to go back to Chennai with him, allowing him to stay in town and pursue his dowry hunt. Chaos ensues as Shyam and his friends juggle their fabricated stories and identities to keep up the deception. Several other characters are pulled into the mayhem, including a forgetful doctor, a timid Tamilian cook, a local thug, and a hotel manager, all of whom contribute to the tangled web of lies and comedic confusion. The film's humor is derived from situational comedy and the eccentricities of its characters. As the various characters interact under false pretenses, misunderstandings and mistaken identities lead to a chain of hilarious events. The climax of the film is a chaotic sequence that brings all the characters together, resulting in the revelation of the truth. In the end, the truth is revealed, and the various misunderstandings are cleared up in a humorous and satisfying resolution. Shyam's genuine intentions are recognized, and he ultimately wins the approval of Radha's father. Kalyanakrishnan, too, finds love in an unexpected place, and the film concludes on a happy note. \"Poochakkoru Mookkuthi\" is celebrated for its witty screenplay, memorable performances, and the way it captures the flavor of 1980s Kerala. The film's success established Priyadarshan as a talented director and set the stage for his prolific career in Indian cinema. It remains a beloved classic in Malayalam film history, known for its timeless humor and entertaining plot."
+                    ],
+                    "filename": "poochakkoru_mookkuthi-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 508.0 words or less. --- **Title:** Poochakkoru Mookkuthi **Year:** 1984",
+                    "generation_prompt_uid": "cb6ea10fb58be16adde9f4755eb36060",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Poochakkoru Mookkuthi"
+                }
+            }
+        },
+        {
+            "index": 12,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Eating Out 5: The Open Weekend (2011). Zack and his new boyfriend Benji are setting off to vacation at an all-male resort in Palm Springs with their friend Lily. In light of the veritable smorgasbord of available men that are sure to be awaiting their arrival, Benji has proposed that he and Zack open up their relationship, just for the weekend. He's not ready to limit himself sexually and explains that this will be a good way for them to explore together. Zack is less than thrilled with the idea, but he's eager to keep Benji happy and, after all, he likes sex too. At the same time, Zack's ex, Casey, is making his way to the same resort with his hag-in-training, Penny. Knowing that Zack will be there with his new boyfriend, Casey immediately goes into panic mode, recruiting his new friend, Peter, to be his pretend boyfriend for the weekend, proving to Zack that he's had no trouble moving on from their relationship. But it isn't long before all plans go awry, and Benji starts making eyes at Peter, while Zack realizes he might not be as over Casey as he'd thought. With the gay boys otherwise engaged, Lily and Penny are soon locked in combat for the attention of Luis, the resort's sexy bartender, who also happens to be the sole straight man in sight."
+                    ],
+                    "filename": "eating_out_5_the_open_weekend-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Eating Out 5: The Open Weekend",
+                    "year": "2011"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Eating Out 5: The Open Weekend\" is the fifth installment in the \"Eating Out\" film series, which focuses on the romantic and sexual escapades of a group of friends, primarily from the LGBTQ+ community. Released in 2011, this comedy film follows the continuing storyline of Zach and his new boyfriend Benji, who decide to test the boundaries of their relationship. As the title suggests, the plot revolves around an \"open weekend,\" where Zach and Benji agree to an open relationship for a short period of time while on vacation at a gay resort. They set rules to guide their temporary freedom, but both find that navigating the temptations around them is more challenging than they anticipated. The couple encounters a variety of quirky and attractive characters, each bringing their own comedic and romantic complications to the story. Throughout the weekend, Zach and Benji are confronted with jealousy, misunderstandings, and the complexities of their feelings for each other. As they interact with other resort guests and explore the limits of their commitment, they must ultimately decide what they truly want from each other. The film combines humor with themes of trust, love, and the difficulties of maintaining a relationship in the face of temptation, offering a lighthearted yet thoughtful exploration of modern relationships within the gay community."
+                    ],
+                    "filename": "eating_out_5_the_open_weekend-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 234.0 words or less.---**Title:** Eating Out 5: The Open Weekend**Year:** 2011",
+                    "generation_prompt_uid": "13400134e181445799c0d6432aa8911b",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Eating Out 5: The Open Weekend"
+                }
+            }
+        },
+        {
+            "index": 13,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Super Dimension Fortress Macross: Do You Remember Love? (1984). The film begins in medias res with the space fortress Macross trying to evade the Zentradi at the edge of the Solar System. The Macross houses an entire city with tens of thousands of civilians who are cut off from Earth, after it had executed a space fold on the first day of the Earth/Zentradi war - taking the city section of South Ataria Island with it. During the latest assault, Valkyrie pilot Hikaru Ichijyo rescues pop idol Lynn Minmay, but are both trapped in a section of the fortress for days. Even after their eventual rescue, this fateful meeting leads to a relationship between the singer and her number one fan. The Zentradi, meanwhile, discover the debilitating and disruptive effect that human music has on the rank and file troops. Their supreme leader, Gorg Boddole Zer, suspects that the human culture is deeply related to an ancient music box he has kept with him for eons. Then, the Zentradi discover an opportunity to examine the humans further when Hikaru borrows a Valkyrie trainer unit without permission and flies Minmay across Saturn's rings. The Zentradi capture Hikaru and Minmay, along with Lieutenant Misa Hayase, Minmay's cousin/manager Lynn Kaifun, and Hikaru's superior Roy Focker in the ensuing chaos. Aboard Britai Kridanik's ship, the humans are being interrogated about their culture when a squadron of Meltrandi, led by Milia 639, invades the ship, giving the humans a chance to escape. Hikaru and Misa escape from the ship, but Focker is killed and Minmay and Kaifun remain aboard while the two officers get caught in a space fold. Exiting from the fold, Hikaru and Misa arrive on a desolate world that turns out to be Earth, as the entire population was wiped out by a prior Zentradi attack. As the two officers roam the remains of the planet, they become closer. They also discover an ancient city of the Protoculture, where the mysterious origins of the alien giants is revealed. In the city, Misa discovers an artifact that contains lyrics to an ancient song. Many days later, the Macross arrives on Earth. Just as Hikaru and Misa are debriefing their story to Captain Bruno J. Global, the fortress is attacked by a Meltrandi fleet. During the battle, ace pilot Maximilian Jenius defeats Millia aboard the Meltrandi's main ship, which destroys the Macross main cannons with one shot. The Meltrandi are forced to retreat when the Zentradi arrive - with Minmay's singing voice as their weapon. Captain Global announces a truce and a military pact between the Macross and the Zentradi. Hikaru and Minmay reunite, but Minmay realizes he is now with Misa. Meanwhile, Misa works on translating the ancient song for use as a cultural weapon, as requested by Boddole Zer. However, when the Meltrandi return to attack, Boddole Zer loses patience and recklessly has his capital ship wipe out half the fleets of both factions. Once again, the Macross finds itself in the middle of a brutal war. Hikaru persuades Minmay to perform the translated song. As the Macross flies across the battlefield, Minmay's song causes a union with Britai's fleet and the Meltrandi against Boddole Zer. After the Macross breaks into Boddole Zer's ship, Hikaru flies his Valkyrie into the supreme commander's chamber and destroys him with his entire arsenal. After Boddole Zer's ship is destroyed, Macross bridge officer Claudia LaSalle asks why the song caused such a turnaround to the war. Misa explains that it is a simple love song. The film ends with a concert by Minmay in front of the rebuilt Macross."
+                    ],
+                    "filename": "the_super_dimension_fortress_mac-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Super Dimension Fortress Macross: Do You Remember Love?",
+                    "year": "1984"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"The Super Dimension Fortress Macross: Do You Remember Love?\" is a 1984 Japanese animated science fiction film adapted from the television series \"The Super Dimension Fortress Macross.\" The movie serves as an alternate retelling of the events from the original series. The film is set in the future where humanity has ventured into deep space after a mysterious spaceship, the SDF-1 Macross, crash-landed on Earth. Humanity has reverse-engineered the technology from the ship to advance their own, leading to the creation of a fleet of space-faring vessels and transforming the Macross into a giant, transforming robot. As the film begins, Earth is embroiled in an interstellar war with a race of giant humanoid aliens known as the Zentradi. The Zentradi seek to capture the SDF-1 Macross because they believe it contains a secret that could be the key to their victory in the war. The Macross, now a space fortress, is on the run in space with a civilian population aboard, while facing constant attacks from the relentless Zentradi forces. The story follows three primary characters: Hikaru Ichijyo, a young and daring pilot of a Veritech fighter (a transforming mecha); Misa Hayase, the no-nonsense operations officer on the Macross; and Lynn Minmay, an aspiring singer whose music begins to have a profound effect on both humans and Zentradi alike. As Hikaru and his squadron engage in dogfights against the Zentradi, he becomes romantically involved with both Misa and Minmay, creating an emotional love triangle that mirrors the broader conflict between the humans and the aliens. Throughout the movie, Hikaru matures from a brash pilot into a seasoned leader, while Misa grapples with her duties and her growing feelings for Hikaru. Minmay, on the other hand, rises to stardom among the ship's population and inspires hope through her music. The film's climax unfolds with a daring mission to end the war by taking the fight directly to the Zentradi. Hikaru and Misa find themselves stranded on the alien's flagship, where they discover the truth about the Zentradi's lack of culture and their yearning for the emotions and cultural expressions they witness in humans, particularly through Minmay's songs. In a dramatic turn, it is revealed that the Zentradi have been culturally sterile for eons, with no understanding of love or music. Minmay's song, \"Do You Remember Love?\" becomes a symbol of the human spirit and the emotional connections that the Zentradi have been deprived of. The song plays a pivotal role in bridging the gap between the two species, causing a faction of the Zentradi to question their purpose and ultimately side with the humans. The movie reaches its conclusion with a grand battle sequence, combining intense mecha action with the powerful theme of love transcending cultural and species barriers. The humans and sympathetic Zentradi join forces to challenge the main Zentradi fleet, using the power of song as a psychological weapon. The title of the film, \"Do You Remember Love?\" encapsulates the central message that love and cultural expression can triumph over war and division. Ultimately, \"The Super Dimension Fortress Macross: Do You Remember Love?\" is a compelling and visually stunning film that combines elements of action, romance, and music to explore themes of love, cultural understanding, and the transformative power of art within the framework of an epic space opera."
+                    ],
+                    "filename": "the_super_dimension_fortress_mac-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 604.0 words or less.---**Title:** The Super Dimension Fortress Macross: Do You Remember Love?**Year:** 1984",
+                    "generation_prompt_uid": "8f7df91b3754f8e8ee9afa3c4ee7a2c3",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "The Super Dimension Fortress Macross: Do You Remember Love?"
+                }
+            }
+        },
+        {
+            "index": 14,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Yellow Sky (1948). In 1867, a gang led by James \"Stretch\" Dawson robs a bank and flees into the desert. Out of water, the outlaws come upon a ghost town called Yellow Sky and its only residents, a hostile young woman named Constance but called \"Mike\", and her grandfather (played by [[James Barton. Stretch is attracted to Mike. While the men recover from their ordeal, Dude snoops around. Dude tells the others that the old man is mining gold, but Stretch is unimpressed. The next day, Mike and Grandpa take to the hills. A confrontation between Stretch and Dude over the leadership of the gang is interrupted by Mike shooting at them. However, when Grandpa is shot in the leg, Mike surrenders. Back in the house, Grandpa offers to split his gold, worth roughly $50,000 by his estimate. Later, Lengthy ([[John Russell grabs Mike, and youngster Bull Run ([[Robert Arthur tries unsuccessfully to intervene. Stretch rescues him and holds Lengthy's head underwater until he nearly drowns. That night, Stretch assures Mike and Grandpa that he will keep to the bargain, with Dude eavesdropping. The next day, a large band of Apaches appear while the gang is at the mine digging up the gold. Stretch sneaks into town. Grandpa tells him that he convinced his friends to return to the reservation. In gratitude for the old man not sending the Indians to wipe out his gang, Stretch tells his men that they will share the gold, but Dude draws his gun and fires. The rest of the outlaws follow his example. Mike shows up and helps a slightly wounded Stretch back to her home. Not wanting to spend the rest of their lives looking over their shoulders for Stretch, the gang surrounds the house. In the ensuing gunfight, they think that Stretch has been killed. Dude takes the opportunity to shoot at Lengthy, but misses. He then runs off to try to take all the gold for himself, with his would-be victim in pursuit. Bull Run is fatally wounded, and Walrus and Half Pint decide to switch sides. Stretch then goes after Dude and Lengthy. A deadly three-sided shootout in the unlit saloon follows. Afterwards, a frantic Mike finds Dude and Lengthy dead and Stretch wounded. After Stretch recovers, he, Walrus and Half Pint return to the bank they robbed and give back the stolen money. Then, they ride off with Mike and Grandpa."
+                    ],
+                    "filename": "yellow_sky-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Yellow Sky",
+                    "year": "1948"
+                },
+                "llm": {
+                    "descriptions": [
+                        "**Plot Summary:** \"Yellow Sky\" (1948) is a classic American western directed by William A. Wellman, featuring an ensemble cast led by Gregory Peck, Anne Baxter, and Richard Widmark. The film is set in the late 19th century and revolves around the themes of redemption, greed, and survival in the harsh Old West. The story follows the journey of a tough and principled outlaw named James 'Stretch' Dawson (played by Gregory Peck) who, along with his gang, robs a bank and flees across the desert to evade the pursuing posse. After several grueling days without water, they stumble upon a ghost town called Yellow Sky. To their surprise, they find that the town is not completely abandoned; it is inhabited by an old prospector and his granddaughter, Mike (played by Anne Baxter). The prospector, known as Grandpa, claims to have found a rich gold deposit in the surrounding hills, catching the attention of the outlaws. Sensing an opportunity to steal a fortune, the gang plots to take the gold for themselves. Stretch is torn between his loyalty to his gang and his growing attraction to the strong-willed Mike, who fiercely protects her grandfather and their claim. As tensions rise, the outlaws begin to turn on each other, driven by greed and the influence of the group's most dangerous member, Dude (played by Richard Widmark). Stretch's moral compass is put to the test as he must decide whether to support his gang's plan or stand against them to protect Mike and Grandpa. His internal conflict is exacerbated by the relentless pursuit of the lawmen, who are closing in on the outlaws' hideout. The film builds to a climax as allegiances shift and the true characters of the protagonists and antagonists are revealed. Stretch must confront his own past and make a choice that could alter the course of his life and the lives of those around him. The stark desert landscape serves as a fitting backdrop for the dramatic showdown that ensues, highlighting both the physical and moral desolation of the characters. \"Yellow Sky\" incorporates elements of film noir, with its morally ambiguous characters and stark black-and-white cinematography, while retaining the action and adventure of a traditional western. The movie is a tense and introspective exploration of human nature, delivering a narrative that challenges the archetypal roles of heroes and villains in the Old West."
+                    ],
+                    "filename": "yellow_sky-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 412.0 words or less. --- **Title:** Yellow Sky **Year:** 1948",
+                    "generation_prompt_uid": "7f25b68064ee0fc036e936a24856221c",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Yellow Sky"
+                }
+            }
+        },
+        {
+            "index": 15,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Igby Goes Down (2002). Jason \"Igby\" Slocumb, Jr. is a misanthropic 17-year-old boy, rebelling against the oppressive world of his strict East Coast \"old money\" family. His schizophrenic father, Jason, has been committed to an institution; Igby fears he will eventually suffer a mental breakdown like his father. His mother, Mimi, is self-absorbed and distant. Igby mockingly describes his ambitious older brother Ollie as a fascist or alternatively a Young Republican, and that he studies neo-fascism at Columbia University. Igby figures there must be a better life out there, and he sets out to find it, rebelling against his family at every opportunity. After happily flunking out of several prep schools, he ends up in a brutal military academy where he gets beaten by his fellow students. After escaping and spending time in a Chicago hotel courtesy of his mother's credit card, Igby is sent to New York for the summer to his godfather D.H. Banes. While working construction for D.H. he first encounters Rachel, his godfather's heroin-addicted trophy mistress. Rather than return to school, he escapes into the bohemian underworld of Manhattan, hiding out with Rachel and her friend Russel. He hooks up with terminally bored, part-time lover, Sookie, only for her to later leave him for Ollie. Despite seeming cold and distant, Mimi is not unaffected by her rebellious son. She describes Igby's conception as an act of animosity and it shouldn't be a surprise that his life follows the same course. His name is explained as a family in-joke. As a child, he would blame his toy bear, Digby, for things he had done, mispronouncing it as \"Igby\". In order to get him to take responsibility for his actions his family would call him Igby whenever he lied. Igby is informed by D.H. that his mother Mimi is dying from breast cancer and so he returns to see her. She has arranged to commit suicide with help from Ollie, who sedates her and suffocates her with a plastic bag. Before she dies, Mimi makes a final revelation, casually inquiring of Igby, \"I take it you know that D.H. is your father?\" The film ends with Igby leaving for Los Angeles, in an attempt to finally make a clean break by getting 3,000 miles away from his family."
+                    ],
+                    "filename": "igby_goes_down-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Igby Goes Down",
+                    "year": "2002"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Igby Goes Down\" is a dark comedy-drama film released in 2002, directed by Burr Steers. It follows the life of 17-year-old Jason \"Igby\" Slocumb, Jr. (played by Kieran Culkin), a rebellious and sardonic teenager struggling to break free from the suffocating world of his dysfunctional upper-class family. The story opens with Igby trying to escape his overbearing mother, Mimi (Susan Sarandon), who is controlling and emotionally distant. His father, Jason Slocumb, Sr. (Bill Pullman), has been institutionalized due to schizophrenia, and Igby fears he might inherit his father's mental illness. His older brother, Oliver (Ryan Phillippe), is the opposite of Igby—polished, ambitious, and conforming to the expectations of their mother and society. After being expelled from several prep schools, Igby is sent to a military academy, which he quickly abandons, setting out on his own in New York City. He takes refuge with his godfather, D.H. Banes (Jeff Goldblum), and develops a romantic relationship with D.H.'s mistress, Rachel, also known as Sookie Sapperstein (Claire Danes), a college student with her own set of quirks. As Igby navigates his chaotic life, he attempts to find a sense of purpose and identity amidst a series of misadventures and familial crises. He wrestles with his feelings of love and resentment towards his family, particularly as he uncovers secrets about his mother's past and the nature of his father's illness. The film is a coming-of-age story that delves into themes of existential angst, the search for authenticity, and the desire to escape from societal and familial expectations. Igby's sharp wit and critical view of the world around him provide a satirical commentary on the absurdities of the privileged class to which he belongs. \"Igby Goes Down\" received critical acclaim for its writing, dark humor, and the performances of its cast, particularly Kieran Culkin, who delivers a breakout performance as the titular character. The film resonates with audiences who identify with the struggles of adolescence and the universal quest to find one's place in an often incomprehensible world."
+                    ],
+                    "filename": "igby_goes_down-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 382.0 words or less. --- **Title:** Igby Goes Down **Year:** 2002",
+                    "generation_prompt_uid": "c67777baafcc73035d776c6cd8d74ac3",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Igby Goes Down"
+                }
+            }
+        },
+        {
+            "index": 16,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Tirangaa (1992). Movie starts with the kidnapping of three nuclear scientists by Pralayanath Gundaswamy as he plans to build nuclear missiles for an invasion on India. Meanwhile Deputy Commissioner of Police Rudrapratap Chouhan an honest police officer is murdered by Gendaswamy since he has been on his hitlist. Rudrapatap's son Harish is the only witness of his murder. When scientists are gone missing police calls Brigadier Suryadev Singh to take matter into his hands. Suryadev allies with hot-headed police Inspector Shivajirao Wagle who spends many time being suspended due to his temper. When Central Minister Jeevanlal Tandel who is an ally of Gendaswamy sets up a meeting with him to inform him about Suryadev Singh, Gendaswamy questions why is there information about his glory and not a single photograph of his face. At that moment Suryadev Singh enters the auditorium saying his famous dialog \"Na talwar ki dhar se na goliyon ki bochar se, banda darta hai to sirf parvar digaar se\". And reveals that he is the one whose face Gendaswamy was so eager to see. Meanwhile on the New Year's Eve Harish and his friends witness an attempt of murder on Radha Tandel. They rushes her to hospital but later on flees as the staff calls police to inquire about the case. Police then trace Harish by his wallet which was left at hospital and charge him with an attempt of rape on Radha. After knowing who Suryadev is Gendaswamy tries to kill him by planting bomb in his car. But Suryadev's car is a high tech vehicle and hence he makes an escape with his driver/bodyguard bahaddur from a below passage door in car. Then the news is wide spread that he has been murdered"
+                    ],
+                    "filename": "tirangaa-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Tirangaa",
+                    "year": "1992"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1992 Bollywood film \"Tirangaa,\" the story revolves around the lives of two strong-willed and dedicated Indian officials: Brigadier Suryadev Singh (played by Raaj Kumar) and Police Inspector Shivajirao Waghle (played by Nana Patekar). These two men are fiercely patriotic and committed to the safety and integrity of their country, India, which is symbolized by the title \"Tirangaa,\" referring to the tricolor Indian national flag. Brigadier Suryadev Singh is an army officer with a no-nonsense attitude who is called upon to deal with national threats. Inspector Shivajirao Waghle, on the other hand, is a tough and honest police officer known for his unconventional methods and high moral standards. Their paths cross when they both become entangled in a dangerous plot orchestrated by a terrorist named Pralayanath Gendaswami (played by Deepak Shirke). Pralayanath, a sinister figure with a devious plan, aims to destabilize India by creating chaos and terror. He possesses a deadly weapon capable of massive destruction and plans to use it to hold the nation at ransom. The story unfolds as Suryadev Singh and Shivajirao Waghle discover the extent of the threat and join forces to thwart the terrorist's plan. Throughout the film, the duo faces numerous challenges and obstacles, including deception, betrayal, and personal vendettas. With the support of the armed forces and the police, they navigate through intense action sequences, gunfights, and patriotic fervor, all while embodying the spirit of the Tirangaa. The climax builds to a high-stakes confrontation as the protagonists aim to prevent a catastrophe and bring the villain to justice, all in the name of safeguarding their beloved country. \"Tirangaa\" is a blend of action, drama, and patriotism, showcasing the valor and dedication of India's defense and law enforcement personnel against the backdrop of a tumultuous socio-political landscape."
+                    ],
+                    "filename": "tirangaa-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 293.0 words or less. --- **Title:** Tirangaa **Year:** 1992",
+                    "generation_prompt_uid": "e29bdb8658ec308e3ca0d6c7947ebc09",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Tirangaa"
+                }
+            }
+        },
+        {
+            "index": 17,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Quality Street (1937). In 1805 England, eligible bachelors are scarce on Quality Street. Twenty-year-old Phoebe Throssel becomes very hopeful when one of the few, Dr. Valentine Brown, tells her he has something important to say to her that day. Both she and her older sister Susan believe he will propose. However, he informs her that he has enlisted in the army to fight in the Napoleonic Wars. Susan hides her devastation so well that Dr. Brown never suspects she is deeply in love with him. She gives up hope of ever marrying. By contrast, the Throssels' servant Patty, though she is a decade older and aware she is no beauty, is confident that she will get a man. For the next ten years, the Throssels run a school for young boys and girls. Then, with the wars over, Brown returns as a captain. When he comes to invite the sisters to a ball, he is taken aback by how much Phoebe's looks appear to have deteriorated. Hurt by this, Phoebe declines. To lift her spirits, Phoebe sheds her drab everyday clothes and dresses up in a beautiful gown. When Brown returns unexpectedly, Patty thinks quickly and identifies her as Phoebe's niece Livy. Taken in completely, Brown invites her to the ball. She accepts, planning to make him eventually fall in love with her, then when he proposes, reject him. At the ball, she is quickly surrounded by admirers, much to Brown's annoyance. In the days that follow, she flirts with all the men. Finally, at a picnic, Brown draws Livy away to a gazebo when it starts to rain. To her shock, instead of asking for her hand in marriage, he merely lectures her on her behavior and reveals that he is in love with Phoebe. The next day, the Throssels have to fend off their neighbors, the Willougbys, who suspect that Livy and Phoebe are one and the same, particularly elderly Mary Willoughby. When Brown comes calling, the Willoughbys mention their suspicions. He eventually corners Patty and gets the truth from her. With the help of the sergeant who first recruited him, he puts clothes around a large seat cushion and puts \"Livy\" in a carriage to return home, all in sight of the snooping neighbors. He tells the sergeant and Patty to get rid of the niece and not to return until much later. The couple are delighted to spend time together. Brown goes inside and embraces Phoebe."
+                    ],
+                    "filename": "quality_street-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Quality Street",
+                    "year": "1937"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Quality Street,\" a film released in 1937, is a romantic comedy based on a 1901 play by J.M. Barrie, who is best known for creating Peter Pan. The story is set in early 19th-century England and follows the lives of two sisters, Phoebe and Susan Throssel, who live on Quality Street, a quaint and idyllic lane in a small English town. Phoebe Throssel, played by Katharine Hepburn, is a young, spirited woman who falls in love with Dr. Valentine Brown, portrayed by Franchot Tone. As Phoebe eagerly anticipates a marriage proposal from Dr. Brown, he instead announces that he is leaving to serve as a soldier in the Napoleonic Wars. Heartbroken and disappointed, Phoebe and her sister Susan, spinster schoolteachers, resign themselves to a quiet life without the prospect of love or marriage. Years pass, and the sisters continue their modest existence, their romantic aspirations seemingly behind them. However, their lives take an unexpected turn when Dr. Brown returns from the war, a hero. The sisters are excited about his return, but Phoebe is dismayed to discover that Brown sees her as an old maid, no longer the vibrant young woman he once admired. Determined to recapture his affection and to prove that she still possesses youth and vivacity, Phoebe embarks on an audacious deception. She reinvents herself as Livvy, a fictitious younger cousin who has come to stay with the Throssel sisters. As Livvy, Phoebe is free-spirited, flirtatious, and embodies the youthful charm that she believes will attract Dr. Brown. Her ruse is successful, and Dr. Brown is indeed captivated by the charming Livvy, not realizing she is actually Phoebe in disguise. This leads to a series of comedic and romantic misadventures as Phoebe juggles her two personas, attempting to keep her true identity a secret from the smitten doctor and the rest of the town. As the story unfolds, Phoebe is forced to confront the consequences of her deception and the true nature of her feelings for Dr. Brown. Will she reveal her true self to him, and if so, will he accept her for who she is, or is his heart lost to the youthful Livvy? \"Quality Street\" is a delightful tale of love, identity, and second chances that explores themes of aging, societal expectations, and the transformative power of love. With its period setting and mix of humor and sentiment, the film offers a charming and poignant portrayal of one woman's attempt to defy time and recapture the attentions of her beloved."
+                    ],
+                    "filename": "quality_street-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 413.0 words or less. --- **Title:** Quality Street **Year:** 1937",
+                    "generation_prompt_uid": "3553135b3835bea4a10ab264661ed9e3",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Quality Street"
+                }
+            }
+        },
+        {
+            "index": 18,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Perfect Circle (1997). A Bosnian poet lived with his family in Sarajevo during the hard times in the horrific siege of the city. The war in Bosnia was raging all around them. After sending his wife and daughter to Croatia, he found at home two orphans Adis and Kerim, who escaped a massacre in their own village. They escaped from their village and came to Sarajevo in search of their aunt, which lived in the neighborhood called Bistrik. Hamza decided to help the boys by shielding them from the horrors of war. Together they fight for survival in this horrible war and the ongoing complete siege of the city. After a long search, Hamza discovers that the aunt of Adis and Kerim was a refugee in Germany. Upon learning this Hamza tries to save the kids by sending them out of the war zone. But the only way out was trough the Sarajevo International Airport, which is a very dangerous passage occupied and monitored by Chetniks and their death squads as well as snipers. In many scenes Hamza is seen with the two kids speaking monologues, while observing photos of his wife and daughter. All the poetry cited in the film by Hamza are verses written by Abdulah Sidran, renowned Bosnian writer and poet."
+                    ],
+                    "filename": "the_perfect_circle-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Perfect Circle",
+                    "year": "1997"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the midst of the Bosnian War, \"The Perfect Circle\" (1997) is a poignant drama that delves into the harrowing experiences of war-torn Sarajevo. The film follows the life of Hamza, a poet who has remained in the besieged city, clinging to the remnants of his once-peaceful life amidst the chaos and destruction. As the conflict rages on, Hamza's solitude is disrupted when he encounters two orphaned boys, Adis and Kerim, who have lost their parents to the war's brutality. With no one else to turn to, the boys seek refuge with Hamza, who reluctantly assumes the role of their protector. As they form an unlikely family unit, Hamza's initial resistance gives way to a deep sense of responsibility for the children. Together, they navigate the dangers of a city under siege, seeking safety and sustenance against a backdrop of violence. \"The Perfect Circle\" explores themes of human connection, resilience, and the enduring power of art during times of crisis. Hamza's poetry serves as a beacon of hope, a means of coping with the horrors around them. Through their shared struggle, the trio forms a bond that transcends the bloodshed, illustrating the capacity for compassion and kinship in the face of overwhelming adversity."
+                    ],
+                    "filename": "the_perfect_circle-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 218.0 words or less. --- **Title:** The Perfect Circle **Year:** 1997",
+                    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "The Perfect Circle"
+                }
+            }
+        },
+        {
+            "index": 19,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Condorman (1981). Woodrow \"Woody\" Wilkins is an imaginative, yet eccentric, comic book writer and illustrator who demands a sense of realism for his comic book hero \"Condorman\", to the point where he crafts a Condorman flying suit of his own and launches himself off the Eiffel Tower. The test flight fails as his right wing breaks, sending him crashing into the Seine River. Later after the incident, Woody is asked by his friend, CIA file clerk Harry ([[James Hampton, to perform what appears to be a civilian paper swap in Istanbul. Upon arriving in Istanbul, he meets a beautiful Russian named Natalia Rambova, who poses as the Russian civilian with whom the exchange is supposed to take place, but it is later revealed that she is in fact a KGB spy. Woody does not tell Natalia his real name, and instead fabricates his identity to her as a top American agent code-named \"Condorman\". During the encounter, Woody fends off a group of would-be assassins and saves her life by sheer luck before accomplishing the paper trade. Impressed by Woody, and disgusted by how she was treated by her lover/boss Krokov when she returns to Moscow, Natalia decides to defect and asks the CIA to have \"Condorman\" be the agent that helps her. Back in Paris, Woody's encounter with Natalia inspires him to create a super heroine patterned after her named \"Laser Lady\". He is then notified by Harry and his boss Russ that he is to escort a defecting Soviet agent known as the \"Bear\". Woody refuses to do the job, but when Russ reveals that the \"Bear\" is Natalia, he agrees to do it on the condition that the CIA provides him with gadgetry based on his designs. Woody meets up with Natalia in Yugoslavia and protects her from Krokov's henchmen led by the homicidal, glass-eyed assassin Morovich. After joining Harry in Italy, the trio venture to Switzerland, where Natalia discovers the truth about Woody when a group of children recognize her from his comic books. Their journey back to France is compromised when Morovich puts Woody and Harry out of commission and Krokov's men recover Natalia before retreating to their headquarters in Monte Carlo. Woody is told that the mission is a failure and he and Harry are ordered to return to Paris, but he asks for two more days to conduct an operation to rescue Natalia. Disguising themselves as Arab sheiks, Woody and Harry create a diversion at the Monte Carlo Casino to recover Natalia from Krokov and his men. As Harry drives away in a Rolls-Royce, Woody uses an improved version of his Condorman suit to fly himself and Natalia out of the casino and into the pier, where the trio make their getaway aboard the Condorboat. They manage to destroy Krokov's speedboats following them, but Krokov and Morovich pursue them in their own speedboat. The Condorboat reaches its pick-up point, but Morovich shows his intent on ramming it. When Morovich ignores his commander's orders to return to base, Krokov abandons ship. The Condorboat is lifted by the CIA helicopter in time to prevent a collision, causing Morovich to crash on an island rock. Days later, Woody, Natalia and Harry are at Dodger Stadium in Los Angeles, where they see the Goodyear Blimp flash a sign welcoming Natalia to the U.S. Aboard the blimp, Russ contacts Harry and has him ask Woody if he is interested in taking Condorman to another assignment."
+                    ],
+                    "filename": "condorman-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Condorman",
+                    "year": "1981"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Condorman\" is a 1981 action-comedy film that follows the adventures of a comic book artist and writer named Woody Wilkins, who is more passionate about his creations than anything else in his life. Woody has a particular fondness for his character \"Condorman,\" a superhero he created who can fly, and Woody is determined to make this character as authentic as possible. The movie begins with Woody (played by Michael Crawford) attempting to test out a working model of Condorman's wings in a disastrous and comical flight attempt off the Eiffel Tower in Paris. Despite the failure, Woody's unwavering commitment to his craft and character is clear. The plot takes a turn when Woody's friend, Harry Oslo (played by James Hampton), who works for the CIA, asks him for a favor. Harry needs to deliver some sensitive documents to a contact in Istanbul and, to keep the operation low-profile, he asks Woody to undertake the task, posing as a civilian. Woody agrees, but on one condition: he will only carry out the mission if he can do it in the guise of Condorman. During the handoff in Istanbul, Woody meets the beautiful and enigmatic Soviet defector Natalia Rambova (played by Barbara Carrera). Natalia is disillusioned with her life as a KGB agent and is seeking help from the West to defect. Woody is instantly smitten with her, and after a series of misadventures and misunderstandings, Natalia becomes convinced that Woody is a top American super-spy, not realizing he is actually just a comic book artist. Motivated by his feelings for Natalia and his sense of adventure, Woody convinces the CIA to let him continue posing as Condorman to assist in Natalia's defection to the West. The CIA, seeing an opportunity in Woody's enthusiasm and his unexpected success in his first mission, agrees and begins to supply him with various high-tech gadgets and vehicles that mimic the abilities of his comic book creation. The film's climax revolves around Woody's efforts to rescue Natalia from the clutches of the KGB, who are led by the sinister and relentless Krokov (played by Oliver Reed). Krokov is determined to prevent Natalia's defection and to capture the elusive Condorman, whom he believes to be a real super-spy. Employing his array of Condorman-inspired gadgets and with the help of his loyal friend Harry, Woody embarks on a daring mission that spans from the streets of Paris to the canals of Venice. The action-packed adventure features car chases, high-speed boat pursuits, and Woody using a spectacular, fully functional Condorman suit to glide through the air, much to the amazement and bewilderment of his adversaries. In the end, with courage, ingenuity, and a bit of luck, Woody manages to outwit Krokov and his agents. He secures Natalia's freedom, proving that even a comic book artist can be a hero in real life. As Woody and Natalia sail away into a new life together, it's clear that the lines between fantasy and reality have been joyfully blurred, and Woody's dreams of being as heroic as his own creation have come true. \"Condorman\" is a family-friendly, light-hearted romp that combines elements of espionage with slapstick humor and a touch of romance. While it was not a major commercial success upon its release, the film has since garnered a cult following for its charmingly quirky take on the superhero genre and its celebration of the power of imagination."
+                    ],
+                    "filename": "condorman-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 582.0 words or less.---**Title:** Condorman**Year:** 1981",
+                    "generation_prompt_uid": "60d35df4f22ba9157c5eb281be6c497d",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Condorman"
+                }
+            }
+        },
+        {
+            "index": 20,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Kadhalukku Mariyadhai (1997). Jeevanandhan ([[Vijay meets Mini in a book shop and their eyes meet leading to sparks of love in their hearts. Mini has a loving mother and three brothers, James, Thomas and Stephen and she is the apple of their eye. Mini is hesitant to reciprocate her love for Jeeva who steadily makes an inroad into her heart, the love affair incensing her family members who give him a thrashing each time he meets her. Jeeva's parents are under the impression that their son is pursuing his MBA studies until his father receives an SOS from Jeeva, injured in one such beatings. His father Chandrasekhar is stunned by the developments and Jeeva's mother is also shocked. Jeeva refuses to part company with Mini when his father arrives with his henchmen to take him back. The Christian family wants Jeeva dead. The developments till this juncture might have found expression in earlier movies but these events have been treated with a mature head along with some comic element by Charlie and Dhamu, as the friends of the hero. Realising that the lovers' existence is in danger, Kesavan suggests that they find refuge in his father's fishermen hamlet and the couple elope followed by the brothers. Manivannan refuses to give them away and the brothers swear bloodshed. A registrar wedding is quickly arranged and on the eve of the wedding, the lovers learn of the unlimited love, affection and care their respective family members have for them and decide not to hurt their sentiments. They agree to part company. The fisherfolk leader is shocked first at their decision, and later understands their feelings and sends them back safely, an appreciable twist in the movie. Jeeva and Mini go back to their respective homes to the excitement and relief of their families. However, their mothers realize how heartbroken the couple are without each other and reunite them."
+                    ],
+                    "filename": "kadhalukku_mariyadhai-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Kadhalukku Mariyadhai",
+                    "year": "1997"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Kadhalukku Mariyadhai\" (1997) is a Tamil romantic drama film directed by Fazil. The film's title translates to \"Respect for Love\" in English. The plot revolves around the love story between Jeeva and Mini, who come from different religious backgrounds. Their love faces numerous societal and familial obstacles due to the communal differences between a Hindu family and a Christian family. Jeeva, played by Vijay, is a college-going young man from a Hindu family, who is known for his good-hearted nature and helpful attitude. Mini, portrayed by Shalini, is a shy and innocent girl hailing from a conservative Christian family. The two meet by chance and slowly develop a deep friendship, which blossoms into love over time. As their relationship grows, they are forced to confront the harsh realities of their differing religious and cultural backgrounds. The couple faces staunch opposition from their families, who are unwilling to accept their union. Mini's father, in particular, is depicted as a strict and traditional man who places great importance on religion and community, and he vehemently opposes the relationship. Despite the relentless pressure and the seeming impossibility of their situation, Jeeva and Mini remain steadfast in their commitment to each other. They attempt to navigate through the maze of societal norms and prejudices, seeking understanding and acceptance from their families. The film delves into themes of love, respect, and the hardships that come with inter-religious relationships. \"Kadhalukku Mariyadhai\" is notable for its poignant portrayal of love's power to transcend barriers and for its sensitive handling of delicate subject matter. The movie was well-received for its storytelling, the performances of the lead actors, and its melodious soundtrack composed by Ilaiyaraaja, which contributed significantly to the film's emotional depth. The film concludes with a message of hope and unity, emphasizing that love and respect for one another's differences can pave the way for reconciliation and harmony between divided communities. It is a heartwarming tale that encourages viewers to look beyond societal divisions and honor the sanctity of love."
+                    ],
+                    "filename": "kadhalukku_mariyadhai-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 326.0 words or less. --- **Title:** Kadhalukku Mariyadhai **Year:** 1997",
+                    "generation_prompt_uid": "5941eebdbee11d1110d050b440a2a479",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Kadhalukku Mariyadhai"
+                }
+            }
+        },
+        {
+            "index": 21,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Intent to Kill (1958). Having previously survived an assassination attempt, Juan Menda, president of an unspecified South American country, is moved to Montreal under an anonymous pseudonym for treatment of a potentially fatal cranial blood clot. His political opponents have got wind of his whereabouts and hire a trio of Canadian hitmen to finish the job. Menda's aide Francisco is also in town, and unknown to Menda he is actually a prime-mover in the assassination plot, keeping close to Menda while duplicitously passing on information to the would-be killers. Not only is Francisco an unsuspected political arch-rival, but he is also keeping an eye on Menda's glamorous wife Carla, with whom he fancies his chances once Menda is out of the way. Meanwhile, English surgeon Bob McLaurin is under pressure from nagging, dissatisfied wife Margaret, who wants him to give up his job in Canada and move back to England to open a private cosmetic surgery for the wealthy, where he could at least double his income. Margaret knows of Bob's affair with fellow surgeon Nancy Ferguson, and is threatening to go public with the information. The worry causes Bob to lose concentration during Menda's operation, and he almost makes a fatal slip-up. However in the end the operation is a complete success. As Menda recovers, he grows uneasy about Carla's apparent lack of interest as she makes no effort to visit. He also starts to suspect that there is more to Francisco than meets the eye. Eventually he comes to the conclusion that the two of them are in league in some way or another, at best to dally romantically behind his back, at worst to be working with his enemies to plot his demise. Fearing for his safety, he demands to be moved to a different hospital room. The hitmen make their move on what they believe to be Menda's room, only to find they have killed a completely innocent man in the hospital for surgery on a slipped disc. Bob, Nancy and the police all believe the unfortunate dead man was mistaken for Menda, and a policeman is detailed to provide Menda with a 24-hour guard until he is ready to return home. The hitmen, determined not to lose their payoff, end up acting rashly and their carelessness leads to a confrontation in the hospital corridors, shooting it out with the police while Bob is caught up in the middle. The hitmen start to turn on each other. The wounded Bob tackles one, and during a struggle the two crash out of a window and fall to the ground. The unconscious assassin is arrested. As confusion and chaos rages in the hospital, one of the hitmen manages to slip away and takes the opportunity to enter Menda's temporarily unguarded room to perform a quick hit. He discovers that Menda is far more ready for him than he could have anticipated."
+                    ],
+                    "filename": "intent_to_kill-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Intent to Kill",
+                    "year": "1958"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Intent to Kill\" is a 1958 British-American film noir thriller directed by Jack Cardiff and starring Richard Todd, Betsy Drake, and Herbert Lom. The plot revolves around political intrigue and assassination attempts set against the backdrop of a fictional South American country on the brink of turmoil. Dr. Nancy Ferguson (Betsy Drake) is an American surgeon working in a hospital in the nation's capital. She is tasked with performing a critical operation on the country's controversial president, who is in dire need of life-saving surgery. The president's political stance has made him enemies, and his survival is seen as key to stabilizing the volatile political situation in the country. As the date of the surgery approaches, tensions heighten within the hospital walls. Dr. Ferguson becomes embroiled in a web of espionage and deceit when she learns of a plot to assassinate the president during his stay at the hospital. The orchestrators of the plot are determined to see the president dead to shift the balance of power in their favor, and they will stop at nothing to achieve their goal. Richard Todd plays Dr. John Hathaway, a fellow surgeon and love interest of Dr. Ferguson. Their relationship adds a personal dimension to the unfolding events, as both are caught between their professional duties and the dangerous political crossfire. Herbert Lom portrays the cold and calculating assassin, Juan Menda, hired to execute the president. His presence in the hospital under the guise of a patient adds an element of suspense, as he meticulously plans the assassination, all while avoiding detection by the authorities who are on high alert for any suspicious activity. As the day of the operation arrives, the hospital becomes a battleground of wits and wills. Dr. Ferguson, realizing the life of her patient and the fate of a nation rest in her hands, must navigate a minefield of loyalty, betrayal, and moral dilemmas. With the help of Dr. Hathaway and a dedicated police inspector, she must outsmart the conspirators, protect the president, and thwart the assassination attempt. The film's climax builds to a tense showdown where split-second decisions could mean the difference between peace and chaos for the country. \"Intent to Kill\" is a taut, gripping thriller that combines medical drama with political intrigue, showcasing the stark realities of power struggles and the individuals caught in their wake. \"Intent to Kill\" is reflective of its era, a time when political assassinations and coups in Latin American countries were not uncommon, and global tensions often played out in these regional conflicts. The film's narrative plays upon these fears and fascinations, creating a story that resonates with the uncertainty and danger of international politics during the mid-20th century."
+                    ],
+                    "filename": "intent_to_kill-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 489.0 words or less. --- **Title:** Intent to Kill **Year:** 1958",
+                    "generation_prompt_uid": "99d04d530279a98dc1c311859cd79a38",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Intent to Kill"
+                }
+            }
+        },
+        {
+            "index": 22,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "200 Cigarettes (1999). The film follows various plot arcs all occurring on New Year's Eve of 1981. Monica is throwing a big New Year's bash and is desperately afraid no one will attend. Early on the only person to have arrived is her friend Hillary. As she tries to convince Hillary to stay, we learn about various other groupings of individuals who are all on their way. The film follows several characters as they spend New Year's Eve in New York City before eventually showing up at Monica's party. The characters are: Val and Stephie, teens from Ronkonkoma who get lost in the seedy Alphabet City section of the borough and wander into a punk club where they meet Dave and Tom, who have a \"package\" they need to deliver; ditsy and awkward Cindy who is on a dinner date with the paranoid Jack; Lucy and her best friend Kevin who are struggling with the sexual tension between them; Kevin's feminist ex girlfriend Ellie, who walks in on Kevin and Lucy mid-coitus in a restroom stall; a dim-witted and flirtatious bartender; competitive friends Bridget and Caitlyn who attempt to ditch Bridget's boyfriend Eric; and the eccentric cab driver who takes them all around town throughout the evening in his disco themed taxi. Eventually, all the characters find their way to the party, although in the meantime Monica has passed out after drowning her sorrows in alcohol. She wakes up the next morning to find many unrecognizable people on her floor, including Stephie who tells her what a big hit her party was. Monica is thrilled, especially when she finds out that Elvis Costello showed up. The final montage shows Polaroids of the party, narrated by the disco cabbie, mostly featuring the unlikely romances from the party and the unconscious Monica being propped up by her party guests."
+                    ],
+                    "filename": "200_cigarettes-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "200 Cigarettes",
+                    "year": "1999"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"200 Cigarettes\" is a 1999 ensemble comedy-drama film that takes place on New Year's Eve of 1981 in New York City. The plot interweaves various stories of young adults trying to navigate the chaotic and often unpredictable landscape of love, friendship, and partying as they all converge on a single house party by the end of the night. The film opens with a young woman named Monica (played by Martha Plimpton) who is obsessively preparing for the massive New Year's Eve bash she's hosting, worried that no one will show up. Throughout the evening, different groups of characters are introduced, each with their own personal dramas and comedic moments. Among these characters are Kevin (Paul Rudd) and Lucy (Courtney Love), who are best friends with a complicated emotional history; a naive and virginal Long Island girl named Cindy (Kate Hudson) and her promiscuous friend Bridget (Christina Ricci); Jack (Jay Mohr), a would-be punk rocker who tries to navigate the night after a breakup; and a smooth-talking ladies' man, Tom (Casey Affleck), who is trying to find a meaningful connection. As the characters make their way through the streets and dive bars of the East Village, they encounter various mishaps, misunderstandings, and flirtations. Each storyline is marked by both poignant and humorous moments, showcasing the fears, insecurities, and excitement that come with the ending of one year and the start of another. Throughout the night, the characters face rejection, heartbreak, and embarrassment, but also moments of unexpected intimacy and connection. The film's narrative is structured to gradually bring all the characters together at Monica's party, where resolutions are found, kisses are exchanged as the clock strikes midnight, and friendships are both tested and strengthened. The title \"200 Cigarettes\" reflects not only the era's less health-conscious attitudes towards smoking but also serves as a metaphor for the numerous small moments and interactions that the characters share over the course of the evening—fleeting and varied, but collectively shaping the experience of their New Year's Eve adventure."
+                    ],
+                    "filename": "200_cigarettes-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 325.0 words or less.---**Title:** 200 Cigarettes**Year:** 1999",
+                    "generation_prompt_uid": "1deb08e90b14a4291ee8ca22b812dab8",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "200 Cigarettes"
+                }
+            }
+        },
+        {
+            "index": 23,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Pierrot le fou (1965). Ferdinand Griffon is unhappily married and has been recently fired from his job at a TV broadcasting company. After attending a mindless party full of shallow discussions in Paris, he feels a need to escape and decides to run away with his baby-sitter, an ex-girlfriend, Marianne Renoir, leaving his wife and children and bourgeois lifestyle. Following Marianne into her apartment and finding a corpse, Ferdinand soon discovers that Marianne is being chased by OAS gangsters, two of whom they barely escape. Pierrot, and Marianne go on a traveling crime spree from Paris to the Mediterranean Sea in the dead man's car. They lead an unorthodox life, always on the run. Settling down in the French Riviera after having burnt the dead man's car and sunk a second car into the Mediterranean Sea, their relationship becomes strained. Ferdinand ends up reading books, philosophizing and writing in his diary. Marianne becomes bored of the Robert Louis Stevenson-ness of their living situation and insists they return to town, where in a night-club they meet one of their pursuers. The gangsters waterboard Ferdinand and depart. In the confusion, Marianne and Ferdinand are separated, with Marianne traveling in search of Ferdinand and Ferdinand settling in Toulon. After their eventual reunion, Marianne uses Ferdinand to get a suitcase full of money before running away with her real boyfriend, to whom she had previously referred as her brother. Pierrot shoots Marianne and her boyfriend, and, in the climactic scene, paints his face blue and decides to blow himself up by tying sticks of red and yellow dynamite to his head. Regretting his decision at the last second, he tries to extinguish the fuse, but, due to the dynamite obstructing his vision, fails and is blown up."
+                    ],
+                    "filename": "pierrot_le_fou-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Pierrot le fou",
+                    "year": "1965"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Pierrot le fou\" is a 1965 French film directed by Jean-Luc Godard, one of the key figures in the French New Wave cinema. The movie is known for its blend of genres, incorporating elements of drama, crime, and romance, as well as its vibrant use of color and innovative narrative techniques. The film follows Ferdinand Griffon, an unhappily married man who has grown tired of his mundane life in Paris. At a party, he reconnects with Marianne Renoir, a former lover who is spontaneous and free-spirited, but also involved in criminal activities. Under the impulsive and romantic alias \"Pierrot\" (which means \"sad clown\"), Ferdinand abandons his family and embarks on a wild and unpredictable journey with Marianne across France. As they travel, they live a life of reckless adventure, stopping to attend parties, read literature, ponder life, and make love. However, their escapades are underpinned by Marianne's involvement in a criminal plot, which involves smuggling arms and leads them to be pursued by gangsters. As they try to stay ahead of their pursuers, the couple's relationship becomes strained, with Ferdinand growing increasingly disillusioned with Marianne's dangerous lifestyle and opaque motivations. The film is characterized by its fragmented narrative structure, frequent breaking of the fourth wall, and philosophical digressions, which reflect the characters' inner turmoil and the chaotic nature of their lives. Pierrot's journey is both a physical and existential one, seeking meaning in a world that seems absurd and superficial. \"Pierrot le fou\" is a reflection on love, freedom, and the search for authenticity in a modern world, all presented through Godard's distinctive visual style and innovative approach to storytelling. The film's ending is tragic and thought-provoking, cementing its status as a classic of French cinema and a poignant exploration of the human condition."
+                    ],
+                    "filename": "pierrot_le_fou-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 297.0 words or less. --- **Title:** Pierrot le fou **Year:** 1965",
+                    "generation_prompt_uid": "cf41356f93713cb5788cb0c31df63cad",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "Pierrot le fou"
+                }
+            }
+        },
+        {
+            "index": 24,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Damned Thing (2006). The Damned Thing, inspired by Ambrose Bierce's classic short-story of the same title, is the apocalyptic tale of a monstrous force that devastates Sheriff Kevin Reddle's family and his small Texas town of Cloverdale. As a child, Reddle's father goes berserk, guns down his wife, and almost kills Kevin before being disemboweled by an invisible force. Before he dies, Kevin's father says the \"damned thing\" has found him. In the present day, Kevin is now the town sheriff and insists on living in his childhood home. He has mounted surveillance cameras around the house. The mental strain has driven away his wife, Dina, who has taken their son Mikey with them. A rash of violent deaths plague the town and Kevin begins to realize that the same force that drove his father to murder, the Damned Thing, is still active. He discovers that decades ago a neighboring town was plagued by the same madness after opening a new oil well that subsequently dried up. Many of the citizens killed each other and Kevin's parents were among the survivors. Kevin believes that the same force sought out his father and killed him, and is now after him. Madness sweeps over Cloverdale and even Dina is not immune: only Kevin's intervention stops her from killing their son. However, he is soon swept up in the madness and his wife and son are forced to escape. A furious Kevin shoots the town priest, who believes that Mikey has inherited the same evil. As Kevin prepares to kill Dina and Mikey, the Damned Thing rises from the earth: a giant semi-solid creature of oil. It swallows Kevin whole and Dina and Mikey flee in their vehicle. However, they run out of gas down the road and the creature attacks them. It is not known if they survive."
+                    ],
+                    "filename": "the_damned_thing-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Damned Thing",
+                    "year": "2006"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"The Damned Thing\" is a 2006 horror film directed by Tobe Hooper, best known for his work on \"The Texas Chainsaw Massacre.\" The movie is inspired by the short story of the same name by Ambrose Bierce, yet it takes a modern twist on the original tale, setting it in the small, isolated town of Cloverdale, Texas. The plot of \"The Damned Thing\" centers around Kevin Reddle, the local sheriff who is haunted by the memories of his father's violent and unexplainable death when he was just a child. His father, once a calm and loving man, suddenly turned into a violent aggressor, tearing their family apart before meeting a gruesome end. The incident has left a dark shadow over the town and over Kevin's life. Twenty-four years later, inexplicable and brutal incidents begin to occur in Cloverdale. Kevin is at the heart of the investigation, as he believes that the same malevolent force that drove his father to madness has returned. The townspeople are on edge as their community is besieged by a series of violent acts that seem to have no rational explanation. As the events escalate, Kevin delves deeper into the mystery, uncovering a supernatural force that appears to be fueled by the negative emotions and hidden sins of the town's residents. This entity, which Kevin dubs \"The Damned Thing,\" feeds on anger, jealousy, and fear, turning neighbor against neighbor and igniting a wave of violence. Kevin must confront his own demons and the dark history of Cloverdale to find a way to stop the cycle of violence. The film explores themes of inherited trauma, the power of repressed emotions, and the destructive nature of hidden secrets within a small community. \"The Damned Thing\" is a tale of psychological horror that combines the suspense of a thriller with the dark atmosphere of a classic ghost story, showcasing Hooper's talent for creating a chilling narrative that leaves audiences questioning the true nature of evil."
+                    ],
+                    "filename": "the_damned_thing-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 310.0 words or less. --- **Title:** The Damned Thing **Year:** 2006",
+                    "generation_prompt_uid": "31c2868a37d5b8d6257d261efb59ee65",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-4-1106-preview",
+                    "origin": "LLM",
+                    "title": "The Damned Thing"
+                }
+            }
+        }
+    ]
+}

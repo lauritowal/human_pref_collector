@@ -9,9 +9,10 @@ function removeDoubleAsterisks(text) {
 
 function formatObjectData(data) {
     if (typeof data === 'object' && data !== null) {
-        return JSON.stringify(data, null, 2);
+        // If it's an object, we only want the description text
+        return data.toString() || '';
     }
-    return data?.toString() || '';
+    return data?.toString() || '';// 
 }
 
 function getRandomIndex(arrayLength) {
@@ -195,3 +196,4 @@ const Comparisons = () => {
 };
 
 export default Comparisons;
+

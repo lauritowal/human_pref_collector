@@ -1,0 +1,66 @@
+{
+    "timestamp": "20250511124921",
+    "username": "tst",
+    "email": "fafds@fdsde.de",
+    "model": "gpt4",
+    "category": "demo",
+    "totalLLMChoices": 2,
+    "totalHumanChoices": 0,
+    "totalNoPreference": 0,
+    "userChoices": [
+        {
+            "index": 0,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The perfect urban jeans outfit. With the classic T-Shirt by Jack & Jones. Men's fashion to match your lifestyle. The fashionable Jack & Jones men's T-Shirt with the classic V-neck always dresses you in style, modern – casual or elegant sporty. Hardly an occasion or a situation where you are not dressed appropriately with the modern designed Jack & Jones tee. Various colours match any urban denim wear – or with a sporty elegant suit. Cut a fine figure. With the timeless V-neck by Jack & Jones, you are always perfectly dressed. In classic white to grey and navy to black. Many colours for your diverse and varied lifestyle. Optimal wearing comfort – natural material – comfortable fit. The stylish T-Shirt in a normal regular slim fit is comfortable without being too tight. The classic cut skilfully emphasises the masculine figure. A visual highlight with a perfect fit. Comfortable and natural. Our Jack & Jones T-Shirt without motif print is made from 92% cotton and 8% elastane. Jack & Jones presents itself timelessly modern and casual to elegant. Show your style and taste. Every day – for any occasion. Care instructions (English language not guaranteed): Please turn inside out before washing. Machine washable up to 40 °C (delicate wash). Our T-Shirt is suitable for tumble drying on low thermal loads. Iron on medium setting."
+                    ],
+                    "filename": "product2",
+                    "item_type": "product",
+                    "origin": "Human",
+                    "title": "Jack and Jones Men's Basic V-Neck T-Shirt, Pack of 3, Plain Slim Fit in White, Black, Blue, Grey"
+                },
+                "llm": {
+                    "descriptions": [
+                        "Discover the Jack & Jones Men's Basic V-Neck T-Shirt pack, a versatile set of three slim-fit tees in timeless colors: white, black, blue, and grey. Designed to complement your urban lifestyle, these t-shirts feature a classic V-neck style that adds effortless flair, whether you're aiming for a casual or sporty-elegant look. Their modern, yet timeless design pairs perfectly with denim or a tailored suit, ensuring you're stylishly dressed for any occasion.\n\nCrafted from a blend of 92% cotton and 8% elastane, these shirts offer a natural, comfortable fit that gently highlights your masculine silhouette without feeling restrictive. Their breathable fabric provides optimal comfort for all-day wear, while the simple, logo-free design enhances versatility. Care instructions are straightforward: machine wash inside-out at up to 40°C on delicate, and tumble dry on low. With these Jack & Jones V-neck tees, you’ll always showcase your best style, whether at work or play."
+                    ],
+                    "filename": "product2",
+                    "generation_prompt_nickname": "mimic_human_reviews",
+                    "generation_prompt_uid": "ad2506aecbc8cd78a0e85b9c7ae15e7b",
+                    "item_type": "book_review",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Jack and Jones Men's Basic V-Neck T-Shirt, Pack of 3, Plain Slim Fit in White, Black, Blue, Grey"
+                }
+            }
+        },
+        {
+            "index": 1,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Reliable measurements in an instant step on the large platform and get accurate measurements in pounds or kilograms. Specifications: 1. Weighs up to 400 lbs. 2. Precisely built with 4 high-precision sensors, delivers results weighing 30g. Accurate resolution neatly displayed on an easy-to-read LCD screen. 4. TEMPERED STRENGTH: built with a thick and durable 6mm clear tempered glass platform that is sturdy enough to provide years of fitness tracker. Note: 1. Check the scale before use. Do not use the scale if it is damaged. 2. Do not hit or hit the scale and do not use the scale if there is a slight crack on the glass. Due to the nature of the tempered glass, the glass will break if there is a slight crack."
+                    ],
+                    "filename": "product1",
+                    "item_type": "product",
+                    "origin": "Human",
+                    "title": "ETEKCITY Digital Bathroom Scale, Weight Scale with Large Blue LCD Backlight, High Precision Measurements, 6mm Tempered Glass, 180kg, Silver, 1 Piece (Pack of 1)"
+                },
+                "llm": {
+                    "descriptions": [
+                        "Introducing the ETEKCITY Digital Bathroom Scale: a sleek and reliable weight scale designed to meet your fitness tracking needs. Featuring a large, easy-to-read blue backlit LCD display, this scale provides accurate measurements in both pounds and kilograms. Its advanced design incorporates four high-precision sensors, offering precision down to 30 grams, with a maximum capacity of up to 180 kg (400 lbs).\n\n Built to last, its sturdy 6 mm tempered glass platform ensures long-term durability. Whether you're closely monitoring your fitness journey or maintaining your weight, this scale is the perfect companion. Note: always inspect the scale before use and avoid using it if there is any damage or cracks. Invest in your health confidently with the ETEKCITY Digital Bathroom Scale."
+                    ],
+                    "filename": "product1",
+                    "item_type": "product",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "ETEKCITY Digital Bathroom Scale, Weight Scale with Large Blue LCD Backlight, High Precision Measurements, 6mm Tempered Glass, 180kg, Silver, 1 Piece (Pack of 1)"
+                }
+            }
+        }
+    ]
+}

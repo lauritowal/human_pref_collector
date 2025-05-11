@@ -1,0 +1,13 @@
+{
+    "item_type": "paper",
+    "title": "Stochastic Lexicalized Tree-Adjoining Grammars",
+    "descriptions": [
+        "**Abstract:**\nThis paper introduces a novel approach to grammar modeling called Stochastic Lexicalized Tree-Adjoining Grammars (SLTAGs). SLTAGs combine the expressive power of Tree-Adjoining Grammars (TAGs) with probabilistic modeling, allowing for a more flexible and accurate representation of natural language syntax. The paper presents the formal definition of SLTAGs and discusses their advantages over traditional grammar models. Experimental results demonstrate the effectiveness of SLTAGs in capturing the complex syntactic structures of natural language sentences. Overall, SLTAGs offer a promising framework for future research in computational linguistics and natural language processing."
+    ],
+    "origin": "LLM",
+    "llm_engine": "gpt-3.5-turbo",
+    "generation_prompt_uid": "ee990ad6f4e196d080a8136937c99a7f",
+    "generation_prompt_nickname": "write_xml_paper_abstract_control_word_count",
+    "generation_prompt_text": "Read the following academic paper provided in XML format and create an abstract for it.\n\nPlease limit the response to 5396 words or less.\n\n---\n\n**Description:**\n\n<PAPER>\n\t<S sid=\"0\">Stochastic Lexicalized Tree-Adjoining Grammars</S><SECTION title=\"If b\\[..7\\] ~ t\\[..Talt\\[$7~\\]: l(b, 7, i,j,k,I)=. \" number=\"3\">\n</SECTION>\n</PAPER>",
+    "include_year": false
+}

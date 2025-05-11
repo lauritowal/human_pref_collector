@@ -17,8 +17,6 @@ DATA_DIR = BASE_DIR / '../data'
 RESULTS_DIR = BASE_DIR / './results'
 MAX_NUM = 25
 
-CHECK_FOR_SIMILAR_LENGTH = False
-
 app = Flask(__name__, static_folder=str(FRONTEND_DIR), static_url_path='/')
 CORS(app)  # Enable CORS for all routes
 
@@ -135,10 +133,12 @@ def get_descriptions():
     import random
     random.seed(2)
     random.shuffle(human_descriptions)
-    
 
-    # Load the appropriate LLM subfolder based on the model
-    llm_subfolder = "gpt41106preview" if model == "gpt4" else "gpt35turbo"
+    if category == "paper" or category == "demo":
+        llm_subfolder = "gpt41106preview" if model == "gpt4" else "gpt35turbo1106"
+    else:
+        llm_subfolder = "gpt41106preview" if model == "gpt4" else "gpt35turbo"
+
     llm_directory = base_directory / "llm" / llm_subfolder
     llm_descriptions = load_llm_files(llm_directory, category)
 
@@ -168,14 +168,32 @@ def get_descriptions():
 
             valid_human_desc = is_valid_description(human_desc)
             valid_llm_desc = is_valid_description(llm_desc)
-            similar_length = is_similar_length(llm_desc, human_desc) if CHECK_FOR_SIMILAR_LENGTH else True
-            if valid_human_desc and valid_llm_desc and similar_length:
-                paired_descriptions.append({
-                    'human': human_text,
-                    'llm': llm_text
-                })
+            if valid_human_desc and valid_llm_desc:
+                if category == "movie":
+                    if is_similar_length(llm_desc, human_desc, 35):
+                        paired_descriptions.append({
+                            'human': human_text,
+                            'llm': llm_text
+                        }) 
+                elif category == "product":
+                    if is_similar_length(llm_desc, human_desc, 70):
+                        paired_descriptions.append({
+                            'human': human_text,
+                            'llm': llm_text
+                        })
+                elif category == "paper":
+                    if is_similar_length(llm_desc, human_desc, 60):
+                        paired_descriptions.append({
+                            'human': human_text,
+                            'llm': llm_text
+                        })
+                elif category == "demo":
+                    paired_descriptions.append({
+                        'human': human_text,
+                        'llm': llm_text
+                    })
             else:
-                print(f"Invalid description: {human_title}, valid_human_desc: {valid_human_desc}, valid_llm_desc: {valid_llm_desc}, similar_length: {similar_length}")
+                print(f"Invalid description: {human_title}, valid_human_desc: {valid_human_desc}, valid_llm_desc: {valid_llm_desc}")
             
     
     paired_descriptions = paired_descriptions[:MAX_NUM]
