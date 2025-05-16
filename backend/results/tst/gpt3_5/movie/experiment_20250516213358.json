@@ -1,0 +1,787 @@
+{
+    "timestamp": "20250516213358",
+    "username": "tst",
+    "email": "fafds@fdsde.de",
+    "model": "gpt3_5",
+    "category": "movie",
+    "totalLLMChoices": 12,
+    "totalHumanChoices": 13,
+    "totalNoPreference": 0,
+    "userChoices": [
+        {
+            "index": 0,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "King (2002). The story evolves around Raja, a business management student and professional magician living in Hong Kong with his single-father, Shanmugam, who he loves a lot. Then one day, they end up in a car accident, and when Shanmugam is in need of blood, he is given an unanalyzed amount of blood which was infected with multiple sclerosis. Dr. Cheenu suggests to Raja that he take his father to his old home in India, and to keep him happy for the last 2 months of his life. It is then that Raja finds out that Shanmugam was exiled from his home 25 years ago because he had a love marriage. But all that changes when the family meets him again, and when they meet Raja for the first time. However, Shanmmugam's father still doesn't talk to his son until Raja threatens him by attempting suicide. It is around then that Raja meets his crush, named Tamil. It is revealed that Tamil's father and Shanmugam were good friends, and he gives her a picture of him with her father. Shanmugam also says that Tamil is the ideal daughter-in-law. Meanwhile, Raja is doing a countdown of his father's life, trying to express his love to Tamil, and entertaining his cousins. It is then revealed in the film that it was Raja who was infected with multiple sclerosis, and Shanmugam persuaded Dr. Cheenu, who is also a good friend of his to lie to Raja, and the doctor has been trying his level best to find some form of treatment for this incurable disease. A month after he was diagnosed, Dr. Cheenu called saying the symptoms will start arising within Raja, which consist of headaches, colour blindness, and a hole appearing in his vision. Raja realizes something is wrong and his doubts are cleared in a telephone conversation with Dr. Cheenu, and uswing his ventriloquist abilities, he talks to the doctor while imitating his father's voice, but Shanmugam and Dr. Cheenu don't know that the secret is out."
+                    ],
+                    "filename": "king-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "King",
+                    "year": "2002"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"King\" (2002), the story follows the rise and fall of a powerful crime boss in a fictional city. The film begins by introducing us to the protagonist, a young man named Marcus who is determined to make a name for himself in the criminal underworld. Through cunning and ruthlessness, Marcus quickly climbs the ranks of the city's most notorious gang, eventually becoming the feared and respected leader known as \"King\". As King, Marcus rules with an iron fist, using intimidation and violence to maintain his power and control over the city's criminal activities. However, as his empire grows, so does the number of enemies who want to see him fail. Rival gangs, corrupt cops, and even members of his own organization begin to turn against him, leading to a series of escalating conflicts that threaten to bring down everything Marcus has worked so hard to build. As the pressure mounts, Marcus is forced to confront the consequences of his actions and the toll his criminal lifestyle has taken on those around him. He struggles to maintain his grip on power while also trying to protect his loved ones from the dangers that come with being associated with a kingpin like himself. Ultimately, Marcus must make difficult choices that will determine his fate and the future of his criminal empire. Will he continue down a path of violence and destruction, or will he find a way to redeem himself and leave behind the life of crime that has consumed him for so long? \"King\" is a gripping crime drama that explores the dark and dangerous world of organized crime, showcasing the brutal realities of power, loyalty, and betrayal. Through its compelling storytelling and intense performances, the film offers a gripping portrayal of one man's quest for power and the consequences that come with it."
+                    ],
+                    "filename": "king-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 339.0 words or less. --- **Title:** King **Year:** 2002",
+                    "generation_prompt_uid": "92a68e2cc05e4e2afc5b2a64cb960a93",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "King"
+                }
+            }
+        },
+        {
+            "index": 1,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Me and Orson Welles (2009). In New York in 1937, 17-year-old Richard Samuels meets theatre director Orson Welles, who unexpectedly offers him the role of Lucius in Julius Caesar, Broadway's first Shakespearean production, at the Mercury Theatre. Welles is having an affair with the leading actress while his wife is pregnant. Richard finds ambitious production assistant Sonja Jones is attracted to him. Welles tells Richard a few days before the premiere that he is worried, because he has recently had nothing but good luck; he fears that he will finally have bad luck with the premiere, and that the play will be a flop. During rehearsals Richard accidentally sets off the sprinkler system, soaking the entire theatre. When accused by Welles he suggests that the catastrophe was the bad luck that Welles needed to get out of the way. Welles decides the entire production crew would benefit from a coupling game, and Richard cheats to ensure he is paired with Sonja. Richard spends the night with Sonja, but becomes jealous when she spends the next night with Welles. He confronts Welles, mentions his pregnant wife, and is fired. An apparent reconciliation follows, and Richard performs on the first night. The anti-fascist adaptation of Caesar is a huge success, but Richard is told Welles only needed him for the premiere and, that done, he has again been fired. The broken-hearted but wiser Richard finds a new girlfriend, a young aspiring playwright whom he met in a music store at the film's beginning.<ref name http://www.gov.im/dti/iomfilm/PastProductions/2008/meandorsonwelles.xml |title 2008-05-30 |year Government of the Isle of Man}}"
+                    ],
+                    "filename": "me_and_orson_welles-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Me and Orson Welles",
+                    "year": "2009"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In \"Me and Orson Welles\", set in 1937, a young aspiring actor named Richard Samuels lands a role in Orson Welles' iconic Mercury Theatre production of Julius Caesar. As Richard becomes involved in the chaotic world of the theater, he quickly realizes just how unpredictable and demanding Welles can be as a director. Despite this, Richard finds himself drawn to the charismatic and enigmatic Welles, learning valuable lessons about the price of ambition and the sacrifices required for success in the cutthroat world of show business. As Richard navigates the challenges of working with Welles and the talented cast of actors, he also finds himself falling for Sonja Jones, a beautiful and talented production assistant. Their budding romance adds a layer of complexity to Richard's already tumultuous experiences in the theater. Throughout the film, viewers are treated to a behind-the-scenes look at the creative process behind one of Welles' most famous productions. As tensions rise and egos clash, Richard must navigate the politics and drama of the theater world while trying to make a name for himself as an actor. \"Me and Orson Welles\" is a captivating and entertaining look at the struggles and triumphs of a young artist trying to find his place in a world of larger-than-life personalities and high-stakes performances. It is a story of ambition, love, and the power of art to both inspire and destroy."
+                    ],
+                    "filename": "me_and_orson_welles-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 267.0 words or less. --- **Title:** Me and Orson Welles **Year:** 2009",
+                    "generation_prompt_uid": "bde669424b883157b1e56e1cd5d937b6",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Me and Orson Welles"
+                }
+            }
+        },
+        {
+            "index": 2,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Perfect Circle (1997). A Bosnian poet lived with his family in Sarajevo during the hard times in the horrific siege of the city. The war in Bosnia was raging all around them. After sending his wife and daughter to Croatia, he found at home two orphans Adis and Kerim, who escaped a massacre in their own village. They escaped from their village and came to Sarajevo in search of their aunt, which lived in the neighborhood called Bistrik. Hamza decided to help the boys by shielding them from the horrors of war. Together they fight for survival in this horrible war and the ongoing complete siege of the city. After a long search, Hamza discovers that the aunt of Adis and Kerim was a refugee in Germany. Upon learning this Hamza tries to save the kids by sending them out of the war zone. But the only way out was trough the Sarajevo International Airport, which is a very dangerous passage occupied and monitored by Chetniks and their death squads as well as snipers. In many scenes Hamza is seen with the two kids speaking monologues, while observing photos of his wife and daughter. All the poetry cited in the film by Hamza are verses written by Abdulah Sidran, renowned Bosnian writer and poet."
+                    ],
+                    "filename": "the_perfect_circle-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Perfect Circle",
+                    "year": "1997"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1997 film \"The Perfect Circle\", the story follows the journey of a young boy named Orhan, who is left orphaned during the Bosnian War. He is taken in by an elderly man named Miro, who lost his own son in the war. Together, they set out on a road trip through the war-torn countryside, searching for Orhan's grandmother in a refugee camp. As they travel through the devastation and chaos of the war, Orhan and Miro form a deep bond, finding comfort and solace in each other's company. Along the way, they encounter other survivors of the war, each with their own heartbreaking stories to tell. Through their experiences and interactions with others, Orhan and Miro are forced to confront the harsh realities of war and the toll it takes on individuals and families. Despite the bleak circumstances they find themselves in, they discover moments of beauty and humanity amidst the destruction. \"The Perfect Circle\" is a poignant and moving portrayal of the impact of war on those caught in its crossfire, and the enduring power of human connection and compassion in the face of adversity."
+                    ],
+                    "filename": "the_perfect_circle-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 218.0 words or less. --- **Title:** The Perfect Circle **Year:** 1997",
+                    "generation_prompt_uid": "7ae8bf27f52f468b97799a404f37b337",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Perfect Circle"
+                }
+            }
+        },
+        {
+            "index": 3,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Love with the Proper Stranger (1963). The film tells the story of Angie Rossini, a salesclerk at Macy's department store who finds herself pregnant after a brief affair with musician Rocky Papasano (Steve McQueen. When she tracks him down he doesn't remember her. She does not expect him to marry her; all she wants is enough money to pay for an abortion. Meanwhile, Angie is being pressured by her older brothers, played by Herschel Bernardi and Harvey Lembeck, to marry the unappealing cook Anthony. Rocky scrapes up money for the crude backroom abortion. But when he and Angie meet the abortionist, who turns out not to be a doctor, Rocky refuses to let her go through with the dangerous procedure. The maturity he shows in doing this brings them closer. After meeting her brothers, Rocky decides to \"take his medicine\" by marrying her. Angie is insulted and refuses. Angie wants a love relationship, with \"bells and banjos\". As an act of independence Angie moves out of the family home. She begins dating Anthony, who offers to marry her. By acting aloof she attracts Rocky, whom she invites to dinner. At dinner he makes advances on her and is rejected. Angie says she doesn't want to make the last mistake. They quarrel and she throws him out. The next day, Rocky waits for her outside Macy's, ringing bells and playing a banjo, and wins her over."
+                    ],
+                    "filename": "love_with_the_proper_stranger-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Love with the Proper Stranger",
+                    "year": "1963"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1963 film \"Love with the Proper Stranger\", the story follows Angie Rossini, a salesclerk in her 20s living in New York City. Angie finds herself pregnant after a one-night stand with musician Rocky Papasano. Unsure of what to do, Angie seeks Rocky out to inform him of her pregnancy. Rocky, who is not looking to settle down, initially struggles with the news but eventually decides to take responsibility for his actions. The two characters navigate their newfound relationship and the challenges that come with an unexpected pregnancy. Angie is torn between her desire to keep the baby and her fear of raising a child alone, while Rocky grapples with his fear of commitment and the impact this situation will have on his life. As Angie and Rocky spend more time together, they begin to form a deeper connection and realize that they may have more in common than they originally thought. The film explores themes of love, responsibility, and the complexities of relationships. In the end, Angie and Rocky must decide what is best for themselves and the future of their unborn child. \"Love with the Proper Stranger\" is a heartfelt and emotional tale of two individuals navigating the challenges of unexpected parenthood and discovering the true meaning of love."
+                    ],
+                    "filename": "love_with_the_proper_stranger-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 238.0 words or less. --- **Title:** Love with the Proper Stranger **Year:** 1963",
+                    "generation_prompt_uid": "9ad016a99671e1a6d75cf7772845abe6",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Love with the Proper Stranger"
+                }
+            }
+        },
+        {
+            "index": 4,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "White Wedding (1989). The plot centres around moody 17 year old Mathilde who has no parents. Her philosophy teacher François, happens to stumble across her path and is eager to help her learn more. He starts to come over to her house everyday going over her homework, and teaching her the art of the study. Eventually, Mathilde starts placing little hints that she finds the 47 year old François attractive. He tries to resist her, but he finds himself falling for her as well. They soon blossom into a passionate love, but they must keep their affair a secret from his wife and the school. Later François's wife finds out about the affair because her husband comes home late and Mathilde calls his house until he answers. Mathilde became obsessed and jealous in his wife, starting to send her messages and breaking the glass windows in her store - his wife became desperate to find a solution. Soon his wife sets an ultimatum, to choose between her and Mathilde. he understands the consciousnesses of his decisions and stops the affair. Several months later - divorced, he gets a phone call from a doctor says Mathilde is dead, he comes to see the body and shocked by the death of his true love he goes to sit on the sand of the beach alone."
+                    ],
+                    "filename": "white_wedding-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "White Wedding",
+                    "year": "1989"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In 1989's \"White Wedding\", the story follows a young couple, Rebecca and John, who are set to tie the knot. However, their wedding plans are thrown into chaos when John's best friend, who is also his best man, goes missing on the eve of the wedding. Determined to find his friend and make it to the altar on time, John embarks on a hilarious and adventurous journey across South Africa. As John travels from Cape Town to Johannesburg, he encounters a series of mishaps and obstacles that threaten to derail his wedding day. Along the way, he is joined by an eclectic group of characters who help him navigate the challenges he faces. From car breakdowns to run-ins with the law, John must overcome it all to reach his destination. Meanwhile, Rebecca waits anxiously for John to arrive, unsure if he will make it in time. As the clock ticks down, both John and Rebecca must confront their doubts and fears about their relationship, ultimately realizing the true meaning of love and commitment. \"White Wedding\" is a heartwarming and comedic journey of love, friendship, and the power of perseverance in the face of adversity."
+                    ],
+                    "filename": "white_wedding-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 226.0 words or less. --- **Title:** White Wedding **Year:** 1989",
+                    "generation_prompt_uid": "73007e000a4ba5fce2c777252f0a7cf4",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "White Wedding"
+                }
+            }
+        },
+        {
+            "index": 5,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Daddy Cool (2009). The story line of the film is the escapades of a cricket crazy kid, all of eight years and his father, a cop. Antony Simon is a crime branch CI, but prefers to spend his time fooling around with his son Aadi. And being a Crime Branch police officer, his rather laid-back attitude is not appreciated by his peers and superiors. Richa Pallod portrays his wife who finds this irritating. The father-son duo becomes friends with the famous national cricketer Sreesanth when they save him from some street fight. Once while the father-son duo was out for shopping, Adhi saw a man with the gun and screams at his father. Simon turns back and shoots him but he kills the wrong person. Simon now faces murder charges and is suspended from duty. Later that day, Aadhi is found missing. Simon being a cop, the entire police force in the district is in search. They find that the one who was killed by Simon was part of the gang who were trying to get Sreesanth into a match-fixing deal and now they are trying to get revenge on Simon for killing one of their gang members. The rest of the film is how Simon fights the gang and gets his kid back from them."
+                    ],
+                    "filename": "daddy_cool-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Daddy Cool",
+                    "year": "2009"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 2009 film \"Daddy Cool\", we follow the story of a widower named Steven who struggles to connect with his teenage daughter, Sherry. Despite his best efforts, their relationship is strained as Sherry rebels against his strict rules and attempts to navigate her own path in life. Things take a turn for the worse when Steven discovers that Sherry is dating a much older man named Jack, who he strongly disapproves of. As tensions rise between father and daughter, Steven decides to take matters into his own hands and goes to extreme lengths to break up Sherry's relationship with Jack. However, his meddling only pushes Sherry further away and causes a rift between them. It is only when Steven realizes the error of his ways and learns to listen to Sherry's perspective that they are able to mend their fractured relationship. Through humor and heartwarming moments, \"Daddy Cool\" explores the complexities of parent-child relationships and the importance of communication and understanding. The film ultimately delivers a message of love, forgiveness, and the unbreakable bond between a father and his daughter."
+                    ],
+                    "filename": "daddy_cool-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 219.0 words or less.---**Title:** Daddy Cool**Year:** 2009",
+                    "generation_prompt_uid": "0a1b41ca8b850243987cd2bca5649dd9",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Daddy Cool"
+                }
+            }
+        },
+        {
+            "index": 6,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Rokkk (2010). The story narrates two female protagonists Anushka and Ahana. Anushka is married to an elderly man Ravi. He is a widower and ties the knot with her second time after his first wife unknown death named Pooja. Anushka's mother refuses to accept their marriage. Ahana is Anushka's sister. The couple begin their journey in a new purchased home by Ravi 2 years ago. Anushka's life takes a unexpected twist. She tells this to her husband who thinks that she is only hallucinating and they decide to go back to their previous home but the horror does not seem to stop in this house either. Anushka suspects that Pooja is behind all of these nerve breaking incidents. She seek the advice from a healer who tells her about the cursed house that who ever will pass from the shadow of that house will be cursed and die a painful death. He gives her a Yantra which can only protect her and will not free her from the curse. When Ahana tries to discover the story behind the incidents her husbnd and sister-in -law get murdered. She is also charged with the murder and taken to an asylum. She tries to reach her sister but she is unable to. By sensing a problem, Ahana starts a journey to reach her sister. In hotel where Ahana was staying she meets Ranvir a CBI officer who is incharge of this case. Ranveer informs her about the charge levied on Anushka and her escape in asylum. Ranveer and Ahana together refuse to follow the same path but their destination is Anushka. Now they are cursed by the shadow of the house in the journey. As they move further they also meet the same healer who helps them to unfold the mysteries behind the house. The story continues with thrill and excitement. It slowly reveals the secret behind the cursed house."
+                    ],
+                    "filename": "rokkk-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Rokkk",
+                    "year": "2010"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"Rokkk\" from 2010, the story revolves around a young couple named Shubh and Swati who decide to spend a few days in a remote hill station. However, their peaceful getaway turns into a nightmare when they encounter supernatural occurrences in the old, abandoned house they are staying in. As they try to unravel the mystery behind the strange happenings, they discover the dark history of the house and the tragic events that took place there years ago. The couple soon realizes that they are not alone in the house, as they begin to experience terrifying visions and encounters with malevolent spirits. As the haunting intensifies, Shubh and Swati find themselves trapped in a dangerous game of survival, where they must confront their deepest fears and uncover the truth behind the supernatural presence in the house. With the help of a local priest and a paranormal investigator, they race against time to break the curse that has plagued the house and find a way to escape before it's too late. As they delve deeper into the mystery, they uncover a dark secret that connects them to the spirits haunting the house, leading to a shocking revelation that changes everything they thought they knew. In a chilling climax, Shubh and Swati must confront the evil forces that threaten to consume them and find a way to escape the house before it claims their souls. \"Rokkk\" is a gripping supernatural thriller that keeps viewers on the edge of their seats with its eerie atmosphere, suspenseful plot, and unexpected twists. It explores themes of guilt, redemption, and the power of love in the face of darkness, making it a haunting and unforgettable cinematic experience."
+                    ],
+                    "filename": "rokkk-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 323.0 words or less. --- **Title:** Rokkk **Year:** 2010",
+                    "generation_prompt_uid": "03e26709601c0002054b2ef0a6189ec9",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Rokkk"
+                }
+            }
+        },
+        {
+            "index": 7,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Mysteries of a Barbershop - The plot revolves around Dr. Moras who visits a barber, who accidentally shaves Moras to look like a Chinese person, and then mistakenly cuts off Moras' rival's head, which is sewn back on by the barber's assistant, and ends with a sword fight - \"The Duel\" - and in which Faber is triumphant and Ebinger and Faber embrace in a happy ending in a mysterious Senegalese Salon. The finale of Faber and Ebinger kissing illustrates one of Brecht's first uses of the mock-romantic \"happy ending\" that would become a signature of Brecht's work throughout the years of the Weimar Republic.For a detailed account of the plot of the film, as well as its creation, see \"A Brecht-Valentin Production: Mysteries of a Barbershop\", W. Stuart McDowell, Performing Arts Journal, Vol. 1, No. 3, pp. 2-14. One critic aptly called the short film \"dadaesque absurdity combine[d] with clownesque slapstick\".\"Carnivalesque meets Modernity in the film of Karl Valentin and Charlie Chaplin\", David Robb, Remapping World Cinema: Identity, Culture and Politics in Film., p. 93. Another reviewer called it \"Karl Valentin meets Dada and the Marx Brothers\".\"Press Portal: a Service of the Bavarian News\",, May 23, 2007."
+                    ],
+                    "filename": "mysteries_of_a_barbershop-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Mysteries of a Barbershop",
+                    "year": ""
+                },
+                "llm": {
+                    "descriptions": [
+                        "2021 In \"Mysteries of a Barbershop\", a young aspiring detective named Lily takes a job at her uncle's barbershop in a small town. She quickly realizes that the shop is not just a place for haircuts, but also a hub for gossip, secrets, and mysteries. As Lily starts to interact with the quirky regulars who come in for their trims, she uncovers a web of interconnected stories and hidden pasts. One day, a mysterious stranger walks into the barbershop with a request that sets off a chain of events that lead Lily on a thrilling investigation. As she delves deeper into the town's secrets, she finds herself entangled in a dangerous web of lies and deception. With the help of her friends and some unexpected allies, Lily must race against time to solve the biggest mystery of all - the truth behind the barbershop itself. \"Mysteries of a Barbershop\" is a heartwarming and suspenseful tale about friendship, community, and the power of uncovering the truth."
+                    ],
+                    "filename": "mysteries_of_a_barbershop-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 209.0 words or less. --- **Title:** Mysteries of a Barbershop **Year:** ",
+                    "generation_prompt_uid": "c3a73040dc46186b8543a8a8a85cd9df",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Mysteries of a Barbershop"
+                }
+            }
+        },
+        {
+            "index": 8,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Satan in High Heels (1962). Stacey Kane, a cunning and ambitious striptease dancer in a cheap carnival, tricks her heroin-addicted husband out of his money and leaves him clothed only in a corset and raincoat. On a plane to New York, she meets a well-heeled businessman, Louie, who falls for her charms and sets her up in a hotel. He arranges an audition for her at a Manhattan midtown club run by an elegant, world-weary lesbian named Pepe. Stacey wows them with her vocal ability and begins being groomed as a leading chanteuse at the night club. Arnold Kenyon, the club's owner, falls in love with Stacey and makes her his mistress, unaware that while he is lavishing her with expensive gifts and grooming her for a singing debut at his club, she is also having an affair with his playboy son, Laurence. On her opening night, Stacey's estranged husband, Rudy, arrives at the club. Using both emotional and sexual appeal, Stacey persuades him to kill Arnold; but Rudy bungles the murder attempt and confesses his intention to Arnold. Her double-dealing nature out in the open, Stacey is abandoned by all the men in her life, put out of her apartment, and left alone on the streets."
+                    ],
+                    "filename": "satan_in_high_heels-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Satan in High Heels",
+                    "year": "1962"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Satan in High Heels\" is a 1962 film that follows the story of Stacy Kane, a seductive and manipulative exotic dancer who arrives in a small town and quickly becomes the center of attention. With her glamorous style and irresistible charm, Stacy captivates everyone she meets, including the wealthy and powerful men in town. As Stacy rises to fame at the local nightclub, she begins to use her beauty and wit to manipulate those around her, including her boss and the men who fall under her spell. However, her actions quickly catch up to her as jealousy and betrayal lead to a dangerous game of power and seduction. Throughout the film, Stacy's true intentions and dark secrets are slowly revealed, painting her as a cunning and ruthless character willing to do whatever it takes to get what she wants. As the tension escalates and relationships unravel, the town becomes embroiled in a web of deceit and desire that ultimately leads to a shocking and dramatic conclusion. \"Satan in High Heels\" is a classic tale of temptation, greed, and the dangerous allure of power, showcasing the darker side of human nature in a captivating and thrilling story."
+                    ],
+                    "filename": "satan_in_high_heels-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 208.0 words or less. --- **Title:** Satan in High Heels **Year:** 1962",
+                    "generation_prompt_uid": "2503aa2bfec3a5b555d76aa997fd3006",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Satan in High Heels"
+                }
+            }
+        },
+        {
+            "index": 9,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Gamera vs. Viras (1968). A deadly alien force approaches Earth. Gamera intervenes and destroys the alien vessel; but before the ship is destroyed, the aliens broadcast a warning to their world stating Gamera as their enemy. Later on Earth a Boy Scout troop is visiting an aquarium to the scientists working on a small two-man submarine. Masao and Jim, two of the scouts manage to talk their way aboard the sub. While in the water they spot Gamera who engages in a little race with the boys. However, their hijinks come to an end when the second alien vessel envelops the both of them in a super-catch ray. Releasing the boys, Gamera remains trapped in the force field while the aliens scan his memory-waves. They learn of Gamera's one weakness, his soft spot for children. Soon after, the field weakens and Gamera is free. The aliens capture Jim and Masao, threatening to kill the boys. Powerless, Gamera lands. Attaching a brain-wave control device to Gamera's head, the aliens force the turtle kaiju to do their bidding. While aboard the spaceship, the boys continually try to escape. Gamera, however is destroying dams and cities by the handful. Jim and Masao discover a squid-like creature, thinking he is another captive of the aliens. In fact he is the leader of the aliens. The boys help Gamera break from the brain-wave device, and he begins to attack the spaceship. Grounded by Gamera, the aliens reveal that their human forms were just disguises. The aliens merge to form the giant monster Viras. Gamera and Viras duke it out in a big beachside battle. Gamera manages to pull Viras into the atmosphere, freezing him to death."
+                    ],
+                    "filename": "gamera_vs-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Gamera vs. Viras",
+                    "year": "1968"
+                },
+                "llm": {
+                    "descriptions": [
+                        "When a group of children are kidnapped by an alien race known as the Virasians, it's up to the giant flying turtle, Gamera, to save the day in the 1968 film \"Gamera vs. Viras\". The Virasians plan to use the children as hostages to force Gamera into doing their bidding, but the heroic turtle isn't about to let that happen without a fight. As Gamera battles the Virasians and their monstrous squid-like creature, Viras, the fate of both the children and the Earth itself hangs in the balance. The two powerful beings engage in an epic showdown, with destruction and chaos reigning down upon the city as they clash in a battle for supremacy. Throughout the film, the children play a key role in aiding Gamera, using their wits and resourcefulness to outsmart the Virasians and help their giant turtle friend in his time of need. As the stakes grow higher and higher, Gamera must dig deep and find the strength to overcome his formidable foes and save the day. In the end, Gamera emerges victorious, defeating Viras and rescuing the children from the clutches of the aliens. The city is saved, and peace is restored once more thanks to the heroic efforts of Gamera and the brave children who stood by his side. \"Gamera vs. Viras\" is a thrilling and action-packed monster movie that showcases the power of teamwork and courage in the face of overwhelming odds. With stunning special effects and heart-pounding battles, this film is a must-see for fans of classic kaiju cinema."
+                    ],
+                    "filename": "gamera_vs_viras-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 282.0 words or less. --- **Title:** Gamera vs. Viras **Year:** 1968",
+                    "generation_prompt_uid": "d2f57f3aac903c548bde178b7c53cffa",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Gamera vs. Viras"
+                }
+            }
+        },
+        {
+            "index": 10,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Arena (1989). Steve Armstrong is working as a short order cook on a space station somewhere in the galaxy. Overwhelmed by the volume of orders, he repeatedly fouls up and soon finds himself in a confrontation with an alien patron named Fang. After a fight which smashes up the diner and leaves the alien injured, Steve and his friend and co-worker Shorty are fired. As it turns out, Fang is an Arena fighter, and his manager Quinn confronts Steve. Amazed that a human could beat one of her best fighters, Quinn offers him a contract, but convinced that humans no longer have a place in the Arena, Steve refuses, intending to make his way back to Earth. Lacking sufficient money for a ticket, Shorty attempts to raise the cash by gambling in an underground casino. The game is raided by the authorities and in the confusion, Shorty pockets the money. Caught in the act by crime boss Rogor and his enforcer Weezil, Shorty is held for ransom. Steve promises to pay off the debt, so he reluctantly returns to Quinn and agrees to a contract. Remarkably he wins his first match with an alien named Sloth in an upset. He continues fighting, determined to prove that a human has what it takes to be champion, and soon becomes a top contender. Despite Rogor's multiple attempts to cheat, Steve ultimately wins the championship from Rogor's top fighter, an alien named Horn."
+                    ],
+                    "filename": "arena-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Arena",
+                    "year": "1989"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1989 film \"Arena\", audiences are taken to a dystopian future where entertainment takes on a whole new level of intensity. Set in a world where gladiatorial combat has become a popular form of entertainment, the movie follows the story of a young man named Steve Armstrong who becomes a participant in these deadly games. Steve is a skilled fighter who is forced to compete in the brutal arena battles in order to survive and earn his freedom. As he navigates the dangerous world of the arena, Steve must not only face formidable opponents in the ring but also navigate the treacherous politics and corruption that surround the games. As Steve rises through the ranks of the arena, he begins to uncover the dark secrets behind the organization that runs the games and the true motivations of those in power. Along the way, he forms alliances with fellow fighters and rebels, leading to a climactic showdown that will determine the fate of not only himself but the entire society that thrives on violence and bloodshed. Filled with action-packed fight scenes, suspenseful twists, and a gripping story of survival and rebellion, \"Arena\" is a thrilling sci-fi film that explores the darker side of human nature and the consequences of a society built on exploitation and entertainment at any cost."
+                    ],
+                    "filename": "arena-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 246.0 words or less.---**Title:** Arena**Year:** 1989",
+                    "generation_prompt_uid": "69d3f270efea87df3ea41168db35b91b",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Arena"
+                }
+            }
+        },
+        {
+            "index": 11,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Lost in America (1985). David and Linda Howard are typical 1980s yuppies in Los Angeles who are fed up with their lifestyle. He works in an advertising agency and she for a department store. But after he fails to receive a promotion he was counting on and is asked to transfer to the firm's New York office instead, David angrily insults his boss and is fired. He coaxes his wife to quit her job as well and seek a new adventure. The Howards decide to liquidate their assets and drop out, \"like in Easy Rider\", heading out to see the country in a Winnebago recreational vehicle. They leave L.A. with \"nest egg\", but don't get very far. The plan goes awry when Linda loses nearly all their cash playing roulette at the Desert Inn Casino in Las Vegas. Out of money and with nowhere to go, the couple ends up in Safford, Arizona. David unsuccessfully applies for a delivery job at a local pharmacy and resorts to an employment agency. Obnoxiously reminded by a counselor about being fired from his high-paying job in advertising, David accepts the best position available-as a crossing guard, taunted by local school kids. Linda, meanwhile, has found employment as the assistant manager at the local Der Wienerschnitzel, working under a kid half her age. She and David are living in a trailer park, almost broke and now accountable to brats. Only a few days after beginning their pursuit of the dream of dropping out of society, they decide that it is better to get back their old lifestyle as soon as possible. They point the Winnebago toward New York, where David begs for his old job back."
+                    ],
+                    "filename": "lost_in_america-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Lost in America",
+                    "year": "1985"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Lost in America\" is a 1985 comedy film directed by Albert Brooks. The story follows David and Linda Howard, a yuppie couple living in Los Angeles who decide to quit their jobs, sell their house, and travel across the country in a Winnebago, believing it will bring them true freedom and happiness. However, their journey takes an unexpected turn when David loses their entire savings in a Las Vegas casino. Feeling lost and desperate, the couple is forced to confront the reality of their situation as they struggle to come to terms with their newfound financial insecurity. They attempt to navigate the challenges of life on the road, including encountering eccentric characters and adjusting to a simpler way of living. As David and Linda try to find their way back to stability, they are forced to confront their own values and priorities. Through a series of humorous and poignant moments, they learn important lessons about the true meaning of freedom, happiness, and fulfillment. Along the way, they are forced to reconsider their assumptions about what it means to be successful and truly content in life. \"Lost in America\" is a satirical take on the American Dream and the pitfalls of consumerism, highlighting the importance of finding one's own path and staying true to oneself in a society that often values material wealth over personal growth and happiness. With its blend of comedy and introspection, the film offers a thought-provoking and entertaining look at the complexities of modern life."
+                    ],
+                    "filename": "lost_in_america-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 282.0 words or less. --- **Title:** Lost in America **Year:** 1985",
+                    "generation_prompt_uid": "1e89f850c286543494b1a8c6f42ea8b7",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Lost in America"
+                }
+            }
+        },
+        {
+            "index": 12,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Christmas Story (2007). Many years ago, in Lapland, a boy named Nikolas is orphaned when his family are killed in an accident. The heads of the families in the village meet to decide his future and, as life in the arctic is difficult, it is decided that as no one family could care for him permanently, they would raise him communally, with each family taking him for one year and then moving him on to the next. Grateful, Nikolas begins whittling toys out of wood as a gift which, each Christmas, he leaves for the family that cared for him. It becomes a tradition from then, with Nikolas never forgetting the children of those families that received him each year. When a blight hits the village, and none of the families can afford to take him in for the next year, he is taken in by grumpy hermit Iisakki as his carpenter's apprentice. Iisakki works him hard but Nikolas is clever and quick to learn, and Iisakki gradually grows to love Nikolas as his own son. Nikolas begins to live more and more for the spirit of Christmas with each passing year and it becomes his life, and as he grows old he becomes the figure known as Santa Claus."
+                    ],
+                    "filename": "christmas_story-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Christmas Story",
+                    "year": "2007"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"Christmas Story\" (2007), a young girl named Emily is eagerly anticipating the holiday season. However, her excitement is dampened when her family falls on hard times and struggles to make ends meet. Despite their financial difficulties, Emily's parents try to create a joyful Christmas for their daughter. As Christmas approaches, Emily's belief in the magic of the holiday season is put to the test. She encounters challenges and obstacles along the way, but she remains determined to make the best of the situation. With the help of her friends and family, Emily learns the true meaning of Christmas and discovers that the spirit of the season is about love, kindness, and togetherness. Through heartwarming moments and unexpected surprises, Emily's Christmas story unfolds in a way that touches the hearts of everyone around her. The movie showcases the importance of resilience, gratitude, and the power of community during the holiday season. Ultimately, \"Christmas Story\" is a tale of hope, faith, and the magic of Christmas that reminds viewers of the joy that can be found in even the most challenging times."
+                    ],
+                    "filename": "christmas_story-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 210.0 words or less.---**Title:** Christmas Story**Year:** 2007",
+                    "generation_prompt_uid": "066626c149517f8e3bbaa8d94c7bbbb7",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Christmas Story"
+                }
+            }
+        },
+        {
+            "index": 13,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Marked Woman (1937). Mary Dwight Stauber, a nightclub hostess who works for the notorious gangster Johnny Vanning briefly meets and befriends a young man who confides in her that he does not have the money to repay the gambling debt he has accrued during the night. He feels that it's a game, but Mary warns him that he is in real danger. She is shocked, but not surprised to learn soon after that he has been murdered, by Vanning's henchman Charlie Delaney. Questioned by prosecutor David Graham, Mary and the other women refuse to implicate Vanning. They fear his retribution, and while privately detesting him are powerless to free themselves from his influence. Mary's younger sister Betty comes to visit, and unaware of the dangerous situation she has entered, behaves recklessly against the advice of her older sister. When she is killed, Mary agrees to testify against the gangster. Beaten by his thugs, scarred and disfigured, she becomes the \"marked woman\" of the film's title, but rather than silencing her, it strengthens her resolve to testify. Aware that they can only be free of the gangster if they find the strength to stand against him, the other women agree to testify also."
+                    ],
+                    "filename": "marked_woman-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Marked Woman",
+                    "year": "1937"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1937 film \"Marked Woman\", starring Bette Davis, a group of nightclub hostesses are caught up in a dangerous world of crime and corruption. When one of the women, Mary Dwight, witnesses a murder committed by a notorious gangster, she decides to cooperate with the district attorney to bring him to justice. However, as the trial progresses, Mary and her fellow hostesses face threats and intimidation from the gangster's ruthless associates. As tensions escalate, Mary and her friends must navigate a treacherous path to seek justice while also protecting themselves from the dangerous criminals who will stop at nothing to silence them. With the help of the district attorney, the women must find the courage to stand up against the powerful forces that seek to control their lives. \"Marked Woman\" is a gripping tale of courage, loyalty, and resilience in the face of adversity. The film showcases the strength of women who refuse to be silenced and who fight for justice in a world dominated by corruption and violence."
+                    ],
+                    "filename": "marked_woman-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 210.0 words or less. --- **Title:** Marked Woman **Year:** 1937",
+                    "generation_prompt_uid": "055a1d7c3bd762b867f5f764a86dab9a",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Marked Woman"
+                }
+            }
+        },
+        {
+            "index": 14,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Colors (2009). The story of Colours is based in Coonnoor, where Lt. Col. Dr.Rajalakshmi lives with her family. The story begins from where she gets the news that someone has been released from jail. And the trip to bring that someone home gives her time to take a trip down memory lane, and we are told of things that took place a year ago. Rajalakshmi lives in Coonnoor along with her two daughters Pinki and Pooja and her father-in-law, Pushkaran Pillai. Pinki, who is a kind of tomboy, goes around with a group of guys and is most of the time engaged in shooting for her television show Colours. Her constant companion is Rahul, who wields the camera for the television show. Though Rajalakshmi doesn’t approve much of what she does, Pinki couldn’t care less, and even calls her mother Pattalam Rajalakshmi. However, she does love her mother and stands by her whenever needed. Pooja, on the other hand, is the typical coy girl, and her mother’s pet. She’s a teacher and is in love with a guy, with all support from Pinki. The two siblings share a very intimate bonding. In the meantime Rajalakshmi detects a fraud that has been going on in her hospital regarding the sales of medicines, and she is intent on bringing the culprits to book. This earns her some enemies. Lt. Commander Sanjaynath turns up at this juncture. He is a close family friend and is on transfer to Coonnoor. On the very day of his arrival, he locks horns with Pinki, who had been his childhood friend. From here develops the plot."
+                    ],
+                    "filename": "colors-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Colors",
+                    "year": "2009"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the movie \"Colors\" (2009), the story follows a group of high school students from different backgrounds who come together to form a dance crew. As they navigate the challenges of school and personal struggles, the crew uses their passion for dance to overcome obstacles and unite their community. The main character, a talented dancer named Alex, leads the crew as they prepare for a major dance competition. Along the way, they face rivalry from other dance groups, as well as pressure from their families and teachers who do not understand their commitment to dance. As the competition draws near, the crew must confront their own insecurities and fears in order to come together and perform at their best. Through hard work, dedication, and the power of friendship, they learn valuable lessons about teamwork, perseverance, and the importance of chasing their dreams. Throughout the film, the audience is treated to electrifying dance sequences that showcase the crew's talent and creativity. The vibrant colors and dynamic choreography bring the performances to life, capturing the energy and passion of the characters. In the end, the crew's hard work pays off as they deliver a show-stopping performance at the competition, earning the respect and admiration of their peers. \"Colors\" is a heartwarming and inspiring story about the power of dance to bring people together and overcome obstacles, leaving a lasting impact on both the characters and the audience."
+                    ],
+                    "filename": "colors-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 270.0 words or less.---**Title:** Colors**Year:** 2009",
+                    "generation_prompt_uid": "9300432e31407304ee60f2088835aefd",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Colors"
+                }
+            }
+        },
+        {
+            "index": 15,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Six Degrees of Separation (1993). Fifth Avenue socialite Ouisa Kittredge and her art dealer husband Flan, are parents of \"two at Harvard and one at Groton\". But the narrow-minded world inhabited by the Kittredge family, as well as their public status as people interested in the arts, makes them easy prey for Paul, a consummate con-artist. One night, Paul mysteriously shows up at their front door-injured and bleeding-claiming to be Sir Sidney Poitier's son and a close college friend of the Kittredges' Ivy League kids. Impressing Ouisa and Flan with his articulate literary expositions, Paul proves to be a sharp-witted, learned young man with fine taste and surprising culinary skill. His highbrow façade is so charmingly persuasive, Paul soon has the Kittredges lending him money, putting him up for the night and taking satisfaction in his appraisal of their posh lifestyle. The Kittridges' force him out of their house after the night as he brings in a hustler without their consent, and Paul's homelessness is revealed. Much to the Kittredge's shock, Paul is revealed to be a highly persuasive con-man, who has charmed his way into many upper-crust homes along the Upper East Side with his wit and insider knowledge. As Paul's plot unravels he becomes an urban legend of the upper crust, a witty anecdote to banter about at cocktail parties. However, he has a profound effect on the many individuals who encounter him, linking them in their shared experience."
+                    ],
+                    "filename": "six_degrees_of_separation-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Six Degrees of Separation",
+                    "year": "1993"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1993 film \"Six Degrees of Separation\", a young con artist named Paul claims to be the son of Sidney Poitier and weaves an elaborate web of lies to infiltrate the lives of a wealthy New York couple, Ouisa and Flan Kittredge. Paul charms his way into their home by claiming he was mugged and needed help, sparking their sympathy and curiosity. As the story unfolds, Paul's manipulative nature comes to light as he dazzles the couple with his intelligence, wit, and knowledge of art and culture. Ouisa and Flan become enamored with Paul's sophistication and the glamorous world he seems to inhabit, but as they dig deeper, they begin to uncover the truth about his fabricated identity. The film explores themes of identity, privilege, and the blurred lines between reality and fiction as Paul's deception forces the Kittredges to confront their own insecurities and desires. As Paul's lies unravel, Ouisa and Flan are left questioning their own relationships and the connections that bind them to others. Through Paul's intricate manipulations, the characters navigate the complexities of human connection and the ways in which people are both connected and isolated in a vast and impersonal world. Ultimately, \"Six Degrees of Separation\" delves into the intricacies of deception, self-discovery, and the search for genuine connection in a world filled with illusions and facades."
+                    ],
+                    "filename": "six_degrees_of_separation-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 244.0 words or less.---**Title:** Six Degrees of Separation**Year:** 1993",
+                    "generation_prompt_uid": "719cca181afc35a36c00759b982750d4",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Six Degrees of Separation"
+                }
+            }
+        },
+        {
+            "index": 16,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Humanité (1999). Superintendent Pharaon De Winter investigates the murder of a girl aged 11, who had also been raped. The film starts with her body being examined by De Winter in a remote rural field next to a railway line. The film then focuses on De Winter's struggle to deal with the realities of the world. In the weekend that follows, he spends time at a restaurant and at the seaside with his neighbours, Domino and Joseph, both of whom are in a relationship. Joseph is a crude man, as revealed from his disturbing carnal desires, seen from his actions and his use of language, in contrast to Domino, whom De Winter considers as tender and to whom he is attracted. Domino and her colleagues vote to go on strike at the factory where they work. The police authorities in Lille and Paris are starting to pressure the local police, in particular De Winter's boss, to find the murderer. Eventually, after the Lille authorities take over the investigation, Joseph is arrested. Domino is distraught, and De Winter becomes similarly emotionally unstable. There is only the barest outline of a plot. A girl is murdered, a policeman is assigned to solve the murder. The film is shot in contemplative and symbolical style, which corresponds to De Winter's character and his method of investigation."
+                    ],
+                    "filename": "humanit-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Humanité",
+                    "year": "1999"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Humanité\" is a French film released in 1999 that follows the story of a police superintendent named Pharaon De Winter. Set in a small town in northern France, the film explores the unraveling of a murder investigation that De Winter becomes involved in. As the investigation progresses, De Winter finds himself increasingly disturbed by the brutal and senseless nature of the crime. The film delves into the psychological toll that the investigation takes on De Winter, as he becomes consumed by the violence and depravity he encounters. As he struggles to make sense of the crime and find the perpetrator, De Winter also grapples with his own inner demons and personal struggles. As the film unfolds, the audience is taken on a dark and introspective journey into the complexities of human nature and the mysteries of the human psyche. \"Humanité\" is a haunting and thought-provoking exploration of crime, morality, and the fragile boundaries that separate good from evil. Through its stark and unflinching portrayal of the investigation, the film ultimately raises questions about the nature of justice, redemption, and the capacity for compassion in a world marked by violence and despair."
+                    ],
+                    "filename": "humanit-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 225.0 words or less.---**Title:** Humanité**Year:** 1999",
+                    "generation_prompt_uid": "30441b301a481382dff20b122f946029",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Humanité"
+                }
+            }
+        },
+        {
+            "index": 17,
+            "choice": "llm",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Hit (1979). Dr. Shooky Heftzibah’s dancing school is in large debts, and Heftzibah is looking for people he can convince to pay him large sums. He is reuniting with his long forgotten friend, the lazy garage owner and widower Ziggy Fuxman, and promising him to find him a new wife, if Fuxman pays Heftzibah’s debts. However, Heftzibah’s debts are so large that he has to look for a rich new wife for his friend. Heftzibah reads obituaries and takes Fuxman to a shiva in order to seduce the new widow, while Heftzibah and Fuxman pretend to be friends of the desist. Their deception is exposed. However, the widow, Gilah, is starts to date Fuxman. Meanwhile, Heftzibah finds another sucker, Ben-Gurion Shemesh, a gullible young worker of Fuxman who dreams of being a Disco dancing and singing star, and of marrying Fuxman’s daughter, Dinah, who does not like him. Heftzibah trains Shemesh and turns him into a big costumer. In order to keep impressing him, Heftzibah takes Shemesh behind the scenes of the opera to show him he knows important people in show business. Accidentally, Heftzibah and Shemesh find themselves dressed up as opera singers on the stage. Fuxman, who is sitting with Gilah in the audience and has just found out that Gilah is not rich, climbs on the stage too, dressed up as an opera singer, in order to take revenge at Heftzibah. After finding out that he can sing opera, Shemesh leaves Heftzibah, climbing the stage of a night club, giving an impressive performance and is gaining Dinah’s heart as well as a job for a pop producer. Fuxman, who had another groom in mind for his daughter, and Heftzibah, who has lost his customer, try to sabotage Shemesh’s first performance on T.V. like they sabotaged the opera show, but the audience likes the result and all three main characters are turned into stars."
+                    ],
+                    "filename": "the_hit-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Hit",
+                    "year": "1979"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1979 film, \"The Hit\", the story follows a former gangster named Willie Parker who has been living in hiding for ten years after betraying his criminal associates. However, his past catches up with him when a hitman named Braddock tracks him down to a remote village in Spain. Braddock, along with his young apprentice Myron, kidnaps Willie and plans to take him to Paris to face his fate. As they embark on the journey, tensions rise among the group. Willie is resigned to his fate and accepts that he will be killed once they reach Paris. Braddock, on the other hand, is a seasoned professional who is determined to carry out the hit. Myron is a naïve and eager young man who becomes increasingly conflicted about his role in the mission. Throughout the journey, the group faces various obstacles and challenges that test their loyalty and resolve. As they travel through the picturesque Spanish countryside, the characters engage in philosophical discussions about life, death, and morality. Willie reflects on his past crimes and the choices that led him to his current predicament, while Braddock remains focused on his duty as a hitman. As they near their destination, Myron begins to question the morality of their mission and the consequences of taking a life. His internal struggle forces him to confront his own beliefs and values, leading to a dramatic climax that will ultimately determine the fate of all three men. \"The Hit\" is a gripping and thought-provoking film that explores themes of redemption, fate, and the consequences of one's actions. With stellar performances and a compelling storyline, the movie keeps viewers on the edge of their seats until the very end."
+                    ],
+                    "filename": "the_hit-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 317.0 words or less. --- **Title:** The Hit **Year:** 1979",
+                    "generation_prompt_uid": "6bb4802fe5a4bc97439a2cd6add731d9",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Hit"
+                }
+            }
+        },
+        {
+            "index": 18,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "The Vulture (1937). Hopeless but eager would-be private detective Cedric Gull has just obtained a diploma from a backstreet 'School of Detection' and is keen to put his new qualification to good use. Fortuitously, he happens to stumble across a crime scene at the office of a diamond merchant, who has just been robbed and assaulted and is being tended by his secretary Sylvia. The police arrive on the scene, but despite Cedric's proud boasts about his sleuthing qualifications, they decline his kind offers of help. Striking out on his own, Cedric becomes convinced that the robbery was the work of a notorious gang of East End Chinese jewel thieves led by a mysterious and sinister individual known as The Vulture. He takes on board his ex-con sidekick Stiffy and the pair set off in pursuit of the criminals. Their plans come unstuck when their inept bungling lands them both in prison. However the police, aware of their interest in the case, agree to allow them out to act as decoys. Cedric learns that Sylvia has been abducted by the criminals. He decides to disguise himself as Chinese and try to infiltrate their hideout and rescue Sylvia. After a good deal of hapless buffoonery and narrow escapes from sticky situations, he and Stiffy finally succeed in freeing Sylvia, unmasking the thieves and uncovering the identity of the elusive Vulture."
+                    ],
+                    "filename": "the_vulture-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "The Vulture",
+                    "year": "1937"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In 1937's \"The Vulture\", the story follows a daring reporter named Tim Daly who is hot on the trail of a notorious gang of criminals led by the elusive mastermind known only as \"The Vulture\". As Daly uncovers more about the gang's illegal activities, he becomes a target for their wrath. With the help of his resourceful girlfriend, a streetwise informant, and a tough police detective, Daly races against time to bring The Vulture and his gang to justice. As the stakes get higher and the danger increases, Daly must use all his wits and courage to outsmart the criminals and stay one step ahead of them. The film is a thrilling mix of action, suspense, and intrigue as Daly and his allies navigate the dangerous world of organized crime in 1930s America. With twists and turns at every corner, \"The Vulture\" keeps viewers on the edge of their seats as they follow the gripping cat-and-mouse game between the determined reporter and the ruthless criminals. In the end, Daly must confront The Vulture in a final showdown that will test his skills, his courage, and his resolve to bring justice to the city and put an end to the criminal empire once and for all."
+                    ],
+                    "filename": "the_vulture-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 232.0 words or less.---**Title:** The Vulture**Year:** 1937",
+                    "generation_prompt_uid": "3f2ad087bb1cac376822658c08cbe5e7",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "The Vulture"
+                }
+            }
+        },
+        {
+            "index": 19,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Lucky: No Time for Love (2005). Lucky Negi is the quintessential dreamer, soft, beautiful and gentle. Her one big belief, that if you search from the bottom of your heart then you can find the rainbow, not just the rainbow but also the pot of gold at the end of the rainbow. One calm \"Petersbergian\" morning Lucky's riding to school and calling on all her guardian angels to grant her a miracle, a tweeny weeny, itsy bitsy one putting it in her words, \"Please God I wish from the bottom of my heart that school is shut today\". But sometimes our deepest wish can turn into our worst nightmare and that is what happens with Lucky. Her journey to school becomes her most desperate journey of survival. Caught unawares by an unexpected wave of insurgency in Eastern Europe, Lucky tries to flee to safety. As the dread and fear overtake she meets a stranger, a fellow countryman Aditya Sekhri. Aditya is smart, wicked, witty, charming and true blue sophisticate. Then begins an unforgettable journey from highways and moldy cemeteries to abandoned theaters and icy snowdrifts. A journey where violence and tragedy stalk them constantly and where there is little time for talk and survival comes only from being constantly at guard. As they march through savage ambushes and the icy wilderness of a foreign land, they discover the limits of their endurance, and more importantly love."
+                    ],
+                    "filename": "lucky_no_time_for_love-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Lucky: No Time for Love",
+                    "year": "2005"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Lucky: No Time for Love\" is a romantic drama film set in 1947, following the story of a young woman named Lucky who lives in Russia. The film begins with Lucky and her family fleeing to India during the partition. Through a series of events, Lucky finds herself separated from her family and taken in by a kind Indian family. She meets a charming young architect named Aditya, who is instantly drawn to her. As Lucky and Aditya spend more time together, they develop a deep bond and fall in love. However, their love is tested by societal expectations, cultural differences, and personal struggles. Lucky is torn between her feelings for Aditya and her loyalty to her family, who are searching for her. Despite the challenges they face, Lucky and Aditya's love continues to grow stronger. They must navigate through obstacles and difficult decisions in order to be together. The film explores themes of love, sacrifice, and perseverance as Lucky and Aditya fight for their relationship against all odds. In the end, Lucky and Aditya prove that love knows no boundaries and can conquer all obstacles. They find a way to be together despite the turmoil surrounding them, showing that true love always finds a way."
+                    ],
+                    "filename": "lucky_no_time_for_love-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 238.0 words or less.---**Title:** Lucky: No Time for Love**Year:** 2005",
+                    "generation_prompt_uid": "68e35a951cf86336918f53d43c4b204c",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Lucky: No Time for Love"
+                }
+            }
+        },
+        {
+            "index": 20,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "'Til There Was You (1997). Gwen Moss has spent the better part of her life wondering if she ever will meet the man of her dreams, unaware she briefly bumped into him at school as children and has had several close encounters ever since. She aspires to have a life like her longtime friend Debbie, a successful doctor with a beautiful home but a marriage that may not be as perfect as it seems on the surface. Gwen is hired to ghostwrite the autobiography of former child star Francesca Lanfield, whose career virtually ended following her stint on a long-running Partridge Family-Brady Bunch hybrid sitcom. Francesca owns La Fortuna, a picturesque vintage apartment complex. Architect Nick Dawkan's boss Timo wants to buy and demolish the complex so his firm can construct a modern condominium development in its place. Francesca agrees to the sale as long as Nick is placed in charge of the project, and the two embark on a somewhat tempestuous relationship. Both are damaged emotionally; Francesca has overcome an addiction to drugs but still craves the spotlight, while Nick is dealing with the memory of a father who failed as a songwriter and became a hopeless alcoholic. Meanwhile, Gwen is shocked to discover her father Saul never loved her mother Beebee and is devastated when the two decide to divorce. Gwen moves into La Fortuna and finds herself surrounded by an assortment of odd but lovable neighbors who have created a family of their own. When the tenants are presented with eviction notices, they decide to fight back. Having discovered the property was designed by Sophia Monroe, one of the first female architects of note, and served as home to silent film star Louise Brooks, Gwen hopes she can have it declared an historical landmark with the assistance of Jon Haas, the city councilman she is dating. Nick is prepared to fight for his firm until he sees La Fortuna and learns its history and decides it might be worth preserving after all."
+                    ],
+                    "filename": "til_there_was_you-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "'Til There Was You",
+                    "year": "1997"
+                },
+                "llm": {
+                    "descriptions": [
+                        "'Til There Was You' is a romantic comedy that follows the lives of two individuals, Nick and Gwen, as they navigate through life in Los Angeles. Nick is a successful architect who is struggling to find love and settle down, while Gwen is an idealistic writer who believes in fate and destiny. The two characters' lives intersect in various ways throughout the film, but they never actually meet until the very end. As the story unfolds, we see Nick and Gwen each dealing with their own personal struggles and relationships. Nick is dating a high-maintenance woman who is more interested in his success than in him as a person. On the other hand, Gwen is still searching for her soulmate, convinced that there is someone out there who is meant for her. Throughout the movie, we see how Nick and Gwen's paths cross without them even realizing it. They attend the same events, live in the same building, and have mutual friends, but they never seem to meet face to face. It isn't until a chance encounter at a party that the two finally come together and realize that they may have been meant for each other all along. As Nick and Gwen's relationship blossoms, they both learn valuable lessons about love, fate, and the importance of taking chances. They discover that sometimes the person you are meant to be with has been right in front of you all along, and that true love can come when you least expect it. In the end, 'Til There Was You' is a heartwarming tale of love, destiny, and the power of following your heart. It reminds us that sometimes all it takes is a little bit of fate to bring two people together and create a love story that is truly meant to be."
+                    ],
+                    "filename": "til_there_was_you-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 340.0 words or less.---**Title:**'Til There Was You**Year:** 1997",
+                    "generation_prompt_uid": "3486bd9a5a391ebc5aa27b63f8f61c91",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "'Til There Was You"
+                }
+            }
+        },
+        {
+            "index": 21,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Interview With the Assassin (2002). An unemployed cameraman, Ron Kobeleski, is asked by his reclusive neighbor, a retired Marine named Walter Ohlinger who has been diagnosed with terminal cancer, to document a startling confession: that he, not Lee Harvey Oswald, killed President John F. Kennedy in Dallas, Texas on November 22, 1963. A stunned Kobeleski learns that the conspiracy theory that says there was a second gunman on the grassy knoll is true &mdash; because he was that second gunman. To prove it, he shows Kobeleski a spent casing from the rifle he used. A skeptical Kobeleski demands proof, and follows Ohlinger as he attempts to prove his claims. He speaks to people who would seem to support Ohlinger's claims, but others, most notably his ex-wife, point to Ohlinger being a fraud and a lunatic. The film ends with Walter Ohlinger attempting to assassinate the present-day president and Kobeleski shooting Ohlinger in self-defense at his own home. Ron Kobeleski is arrested and charged as an accomplice. In a short interview with a reporter, he states that \"telling his side of the story won't help him at all\". The closing credits state that Kobeleski died in prison. For the most part, Interview with the Assassin is filmed from the perspective of Ron Kobeleski, as if he had shot it with his own camera. On a few occasions, the viewer actually sees Dylan Haggerty, the actor portraying him."
+                    ],
+                    "filename": "interview_with_the_assassin-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Interview With the Assassin",
+                    "year": "2002"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In \"Interview With the Assassin\" (2002), a young filmmaker named Ron interviews his elderly neighbor Walter as he claims to have been involved in the assassination of President John F. Kennedy. Walter provides Ron with evidence supporting his claim, including photographs and documents, as he recounts his involvement in the conspiracy. As Ron delves deeper into Walter's story, he becomes conflicted about whether to believe him or dismiss his claims as the ramblings of a delusional old man. Despite facing skepticism and opposition from others, Ron continues to investigate the truth behind Walter's story, determined to uncover the real motives behind the assassination. As Ron uncovers more evidence and connects the dots, he begins to realize that Walter may indeed be telling the truth. However, his pursuit of the truth puts him in danger as he becomes entangled in a web of deceit and betrayal that leads to a shocking revelation about the true perpetrators behind the assassination. Ultimately, \"Interview With the Assassin\" is a gripping thriller that explores themes of truth, deception, and the consequences of uncovering dark secrets that have been buried for years. It leaves the audience questioning the official narrative of historical events and the power of those who control the truth."
+                    ],
+                    "filename": "interview_with_the_assassin-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 238.0 words or less.---**Title:** Interview With the Assassin**Year:** 2002",
+                    "generation_prompt_uid": "1573aec6a37c7379f787e50e7132e5d0",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Interview With the Assassin"
+                }
+            }
+        },
+        {
+            "index": 22,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Expresso (2007). Expresso is a series of eight micro-stories, that develop the viewer as they watch the visitors during one day, to one table in a typical UK coffee shop: *\"Autopilot\" - a man taking breakfast with his wife, is more involved with his daily paper than the conversation that takes place around him, leading to an amusing crossing of wires. *\"The Liar\" - a businessman who desperately wants to spend the afternoon with his plate of pastries, to the amazement of the waitress resorts to blatant lies to achieve this. *“Herbal Tea” - a couple (Guy Henry meet for coffee. But the lady who has opted for the healthy option, namely a “Herbal Tea”, has her eyes on her partner’s cream-topped drink. *“Breakfast with Deniro” - catch the conclusion of a typical lovers' tiff *“Normal Coffee” - with echoes of Six Easy Pieces, sees a working man fighting the system in his own way to get his plain and simple drink against the advice of the pompous waiter. *“BUZZ” – a vicar with writer's block sits waiting for inspiration as he tries to write his next sermon, only to be targeted by a vicious vindictive fly.<ref namehttp://itn.co.uk/news/8ab0ffc8471effc74a38b14e5126dcbf.html|title28 August 2007|publisher2008-12-23}} *“Can I Help You?” - a young lady is frustrated and struggling with a shrink-wrapped cake, when a man sitting opposite takes his chance to impress by offering to help open the wrapper. Things never work out how you expect! *\"End of the Day\" - the last person to leave the café is an old lady who is obviously upset. The waiter has little sympathy, but the waitress takes the ultimate revenge."
+                    ],
+                    "filename": "expresso-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Expresso",
+                    "year": "2007"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 2007 film \"Expresso\", the story follows a young barista named Mia who works at a busy café in the heart of the city. Mia is passionate about making the perfect cup of coffee and takes pride in her work. She dreams of one day opening her own café and showcasing her unique coffee creations to the world. One day, a renowned coffee critic visits the café and is blown away by Mia's skills. Impressed by her talent and dedication, he offers her the opportunity to compete in a prestigious barista competition. Mia is thrilled by the chance to showcase her skills on a larger stage and eagerly accepts the challenge. As Mia prepares for the competition, she faces numerous obstacles and setbacks. From mastering new brewing techniques to dealing with intense pressure, Mia must overcome her doubts and fears to succeed. Along the way, she forms unlikely friendships with her fellow competitors and discovers the true meaning of passion and perseverance. On the day of the competition, Mia must impress the judges with her signature drink, the \"Expresso\", a unique blend of coffee and flavors that represents her journey and dedication to her craft. As the competition heats up, Mia's determination and creativity shine through, ultimately leading her to victory. \"Expresso\" is a heartwarming tale of following your dreams, believing in yourself, and the power of a perfect cup of coffee to bring people together. It is a story of passion, friendship, and the joy of creating something truly special."
+                    ],
+                    "filename": "expresso-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 283.0 words or less. --- **Title:** Expresso **Year:** 2007",
+                    "generation_prompt_uid": "e49f13d9da53bfce82c870a47a6608ac",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Expresso"
+                }
+            }
+        },
+        {
+            "index": 23,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Billy Two Hats (1974). During a bank robbery in the American west, the partner of Scottish outlaw Arch Deans is killed and his young Indian half breed friend Billy Two Hats is captured. While Billy is being tranported, Deans gets the drop on Sheriff Henry Gifford at a remote trading post, enabling Billy to escape. As they flee, the sheriff's friend, the trading post owner, named Copeland, takes down his old long-range buffalo rifle and fires a shot that kills Deans' horse, breaking his leg. Billy builds a travois on which Deans can ride, dragged behind Billy's horse. Billy and Deans encounter Spencer and his wife, Esther, at their remote homestead. Deans persuades Spencer to take him in his wagon to get horses on the condition that Billy stay with Esther to protect her and the homestead from marauding Indians. Billy is also to keep a look out for the pursuing Gifford. Billy and Esther spend their time together talking and develop romantic feelings for each other. Esther, a young mail-order bride from the East, is unhappy with her older abusive husband. She falls in love with the young good looking Billy. Gifford finds the two in bed together, assumes Billy raped the woman, becomes enraged, and beats him. Esther attempts the explain but can't because she stutters uncontrollable when distressed. Deans and Spencer encounter trouble on the trail, four drunken Indians demand whiskey from them, ambush their wagon in a canyon, killing the horse and besiege them. Spenser is killed. Gifford, Esther and Billy then set out after Deans. They find Deans near death. With Esther's help Billy kills Gifford. Deans dies of his wounds."
+                    ],
+                    "filename": "billy_two_hats-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Billy Two Hats",
+                    "year": "1974"
+                },
+                "llm": {
+                    "descriptions": [
+                        "In the 1974 film \"Billy Two Hats\", the audience follows the story of a Scottish outlaw named Arch Deans, played by Gregory Peck, who is on the run from the law in the American West. Arch is accompanied by his young Native American partner, Billy Two Hats, played by Desi Arnaz Jr. The two of them form an unlikely duo as they navigate the harsh terrain and evade capture. As they struggle to survive in the wilderness, Arch and Billy develop a close bond and friendship. However, their peaceful existence is soon disrupted when they encounter a group of ruthless bank robbers led by the menacing Sheriff of the town, played by Jack Warden. The robbers want to take advantage of Arch's knowledge of the land to escape with their stolen loot, and they will stop at nothing to get what they want. As tensions rise and the danger mounts, Arch and Billy must rely on each other to outwit the criminals and find a way to escape the clutches of the Sheriff. Along the way, they face numerous challenges and obstacles that test their courage and resilience. In a thrilling climax, Arch and Billy must confront their enemies head-on and fight for their freedom. The film explores themes of friendship, loyalty, and survival as the two protagonists come to realize the true value of their partnership in the face of adversity. \"Billy Two Hats\" is a gripping Western drama that showcases the strength of the human spirit in the most trying circumstances."
+                    ],
+                    "filename": "billy_two_hats-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 276.0 words or less.---**Title:** Billy Two Hats**Year:** 1974",
+                    "generation_prompt_uid": "2d70d8da925ad0ef805759c56970e23e",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Billy Two Hats"
+                }
+            }
+        },
+        {
+            "index": 24,
+            "choice": "human",
+            "isFirst": false,
+            "description": {
+                "human": {
+                    "descriptions": [
+                        "Black Belt Jones (1974). The Mafia learns that a new civic center will be built, and they buy all of the land for the site of the building&mdash;all except for one place: a karate school owned by Pop Byrd, Black Belt Jones' old friend. Pop Byrd had borrowed money from a local drug dealer, Pinky, in order to open his school. Pinky had been stealing money from the mafia and was forced to pay them $250,000 or get Pop's building for them. Pinky inflated the debt, with the intent of offering Pop the deal of trading his building in exchange for the debt being cleared. However, things do not go as planned, as Pop is accidentally killed by Pinky's men during an intimidation attempt. Before he dies, he states that he couldn't give them the building to settle his debt, because it did not belong to him, but to someone named Sydney. Pinky then decides to send his men to the karate school, to inform them of Pop's debt and attempt the same scheme. However, the thugs are beaten up by Black Belt Jones and the students. Meanwhile, a woman arrives to attend Pop's funeral, who is none other than Sydney, the daughter of the late Pop Byrd. After demanding to know what happened to her father, she is informed of the mafia's activities as well as her father's debt, but says she won't sell the building. Angered, she is determined to punish the people who caused her father's death. Informed of Sydney's martial arts prowess by Quincy, Black Belt Jones joins forces with her to \"clobber the mob\"."
+                    ],
+                    "filename": "black_belt_jones-movie",
+                    "item_type": "movie",
+                    "origin": "Human",
+                    "title": "Black Belt Jones",
+                    "year": "1974"
+                },
+                "llm": {
+                    "descriptions": [
+                        "\"Black Belt Jones\" is a 1974 martial arts action film that follows the story of a skilled martial artist named Black Belt Jones. When a local karate school is threatened by a group of mobsters who want to take over the property, Black Belt Jones steps in to protect the school and its students. With his impressive martial arts skills and determination to fight for justice, Black Belt Jones takes on the mobsters in a series of intense and action-packed fight scenes. As Black Belt Jones battles the mobsters, he forms a bond with the students at the karate school, teaching them his fighting techniques and guiding them in their own quest for justice. Along the way, Black Belt Jones uncovers a larger conspiracy involving corruption and organized crime in the city, making his mission even more dangerous and challenging. Throughout the film, Black Belt Jones faces numerous obstacles and enemies, but his determination and fighting abilities never waver. As he fights to protect the karate school and bring down the mobsters, Black Belt Jones proves himself to be a true hero and a force to be reckoned with. \"Black Belt Jones\" is a thrilling and action-packed film that showcases the skills of its lead actor and the excitement of martial arts combat. With its fast-paced fight scenes and compelling storyline, the movie is sure to entertain fans of martial arts and action films alike."
+                    ],
+                    "filename": "black_belt_jones-from_title_and_year",
+                    "generation_prompt_nickname": "from_title_and_year",
+                    "generation_prompt_text": "Based on the title and year, write a plot summary of the following movie. Please limit the response to 270.0 words or less. --- **Title:** Black Belt Jones **Year:** 1974",
+                    "generation_prompt_uid": "1ff3791d008ba9e601893b7b0dea33c3",
+                    "include_year": false,
+                    "item_type": "movie",
+                    "llm_engine": "gpt-3.5-turbo",
+                    "origin": "LLM",
+                    "title": "Black Belt Jones"
+                }
+            }
+        }
+    ]
+}
