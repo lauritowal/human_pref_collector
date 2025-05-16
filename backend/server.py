@@ -195,8 +195,10 @@ def get_descriptions():
             else:
                 print(f"Invalid description: {human_title}, valid_human_desc: {valid_human_desc}, valid_llm_desc: {valid_llm_desc}")
             
-    
-    paired_descriptions = paired_descriptions[:MAX_NUM]
+    if category == "movie":
+        paired_descriptions = paired_descriptions[:15]
+    else:
+        paired_descriptions = paired_descriptions[:MAX_NUM]
     return jsonify(paired_descriptions)
 
 
