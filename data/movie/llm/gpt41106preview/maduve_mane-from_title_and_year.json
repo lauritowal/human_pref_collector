@@ -2,7 +2,7 @@
     "item_type": "movie",
     "title": "Maduve Mane",
     "descriptions": [
-        "I apologize, but you did not provide the year for the movie \"Maduve Mane.\" Without the year, I cannot give you an accurate plot summary as there may be multiple movies with the same title or there might be none at all. If you provide the year or more context about the movie, I would be happy to help with a plot summary."
+        "I apologize, but you did not provide the year for the movie \"Maduve Mane\". Without the year, I cannot give you an accurate plot summary as there may be multiple movies with the same title or there might be none at all. If you provide the year or more context about the movie, I would be happy to help with a plot summary."
     ],
     "origin": "LLM",
     "llm_engine": "gpt-4-1106-preview",
